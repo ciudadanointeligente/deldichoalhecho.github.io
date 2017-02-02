@@ -1,0 +1,107 @@
+---
+layout: page
+---
+
+<div class="container">
+<section id="fulfillment">
+    <div class="row">
+      <h1 class="text-center">Cumplimiento</h1>
+        <div class="col-md-12">
+          <div class="bajada"><p>Del Dicho al Hecho mide el nivel de cumplimiento legislativo al 11 de mayo de 2016 de las promesas enunciadas por la Presidenta Michelle Bachelet en su discurso del 21 de mayo de 2015. Dicho cumplimiento se refleja en un porcentaje de avance de la promesa y en una escala de coherencia de 1 a 4 entre el compromiso y el proyecto de ley que lo satisface.</p>
+          </div>
+        </div>
+    </div>
+
+    <div class="panel panel-deafult leyenda">
+      <div class="row">
+        <div class="hidden-xs col-sm-3 col-md-4">
+          <h4>Categorías</h4>
+        </div>
+        <div class="hidden-xs col-sm-5 col-md-6 text-center">
+          <h4>Porcentaje de avance</h4>
+        </div>
+        <div class="hidden-xs col-sm-4 col-md-2 text-center">
+          <h4>Escala de coherencia </h4>
+          <h5>(1 a 4)</h5>
+        </div>
+      </div>
+    </div>
+
+    <div class="panel panel-default">
+      <div class="panel-body">
+
+
+        <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+
+          <div class="panel panel-default" ng-repeat="p in analisis.promisses">
+            <div class="panel-heading" role="tab" id="headingOne-[[p.id]]">
+              <div class="row">
+                <div class="col-xs-12 col-sm-4 col-md-4">
+                  <h2 class="panel-title">
+                    <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#cumplimiento-[[p.id]]" aria-expanded="false" aria-controls="cumplimiento-[[p.id]]">
+                    <i class="fa fa-chevron-circle-down" aria-hidden="true"></i> [[p.category]]
+                    </a>
+                  </h2>
+                  <div class="sec-promesas">
+
+                    <ul class="list-inline">
+                      <li>[[p.data.length]] promesa(s)</li>
+                      <li>([[p.status.completas]] completas</li>
+                      <li>[[p.status.incompletas]] en proceso</li>
+                      <li>[[p.status.sin_progreso]] sin progreso)</li>
+                    </ul>
+                  </div>
+                </div>
+                <div class="col-xs-9 col-sm-6 col-md-6">
+                    <div class="category-percentage pull-right">[[p.cumplimiento_total]]%</div>
+
+                  <div class="progress">
+                    <div class="progress-bar" role="progressbar" aria-valuenow="[[p.cumplimiento_total]]" aria-valuemin="0" aria-valuemax="100" style="min-width: 2em; width: [[p.cumplimiento_total]]%;"></div>
+                  </div>
+                </div>
+                <div class="col-xs-3 col-sm-2 col-md-2">
+                  <div class="category-percentage text-center">
+                    [[p.coherencia_total]]
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div id="cumplimiento-[[p.id]]" ng-class='hash === "cumplimiento-"+p.id ? "in" : (hash === "" && $first ? "in" : "")' class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne-[[p.id]]">
+              <div class="panel-body">
+                <div class="table-responsive">
+                  <table class="table table-striped">
+                    <thead>
+                      <tr class="titulo-tabla">
+                        <th>Promesa</th>
+                        <th class="titulo-tabla text-center">Porcentaje de avance</th>
+                        <th class="text-center">Escala de coherencia (1 a 4)</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      <tr ng-repeat="data in p.data">
+                        <td style="white-space: initial"><p style="min-width: 200px;">[[data.promesa]]</p></td>
+                        <td>
+                          <p class="percentage text-center">[[data.cumplimiento_total]]</p>
+                          <p class="text-center">de avance</p>
+                          <p class="text-center"><a href="#" data-toggle="modal" data-target="#myModal-cumplimiento-[[p.id]]-[[data.id]]">¿Por qué?</a></p>
+                        </td>
+                        <td>
+                          <p class="percentage text-center">[[data.coherencia_total]]</p>
+                          <p class="text-center">escala de coherencia</p>
+                          <p class="text-center"><a href="#" data-toggle="modal" data-target="#myModal-coherencia-[[p.id]]-[[data.id]]">¿Por qué?</a></p>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+    {% include cumplimiento_modal.html %}
+    {% include coherencia_modal.html %}
+  </section>
+</div>

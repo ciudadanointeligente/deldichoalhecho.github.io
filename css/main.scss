@@ -1,0 +1,24 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+$blue: #0F2356;
+$blue-dark: #0F0F28;
+$red: #C52727;
+$cian: #40BDF1;
+$grey-lighter: #EAECEE;
+$grey-light: #ECEFF3;
+
+$grey: #646975;
+$blue-light: #568696;
+$orange: #FB8D5B;
+$yellow: #F9B542;
+$yellow-lighter: #FAC764;
+$color-high: #FF5858;
+$color-medium: #F69047;
+$color-low: #FEDA68;
+
+
+
+@charset "utf-8";
+
+@import "base";

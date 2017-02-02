@@ -1,0 +1,50 @@
+<div class="image-countdown">
+<div class="container">
+  <section>
+
+    <div id="countdown" class="countdownHolder"></div>
+    <p id="note" class="text-center"></p>
+
+    <script src="{{ site.baseurl }}js/jquery.countdown.js" type="text/javascript"></script>
+    <script>
+    $(function(){
+
+      var note = $('#note'),
+        ts = new Date(2012, 0, 1),
+        newYear = true;
+
+      if((new Date()) > ts){
+        // The new year is here! Count towards something else.
+        // Notice the *1000 at the end - time must be in milliseconds
+        ts = (new Date(2016,04,16,05,00,00)).getTime();//(new Date('05-16-2016 05:00:00')).getTime();
+        newYear = false;
+      }
+
+      $('#countdown').countdown({
+        timestamp : ts,
+        callback  : function(days, hours, minutes, seconds){
+
+          var message = "";
+
+          message += days + " dia" + ( days==1 ? '':'s' ) + ", ";
+          message += hours + " hora" + ( hours==1 ? '':'s' ) + ", ";
+          message += minutes + " minuto" + ( minutes==1 ? '':'s' ) + " y ";
+          message += seconds + " segundo" + ( seconds==1 ? '':'s' ) + " <br />";
+
+          if(newYear){
+            message += "\\O/";
+          }
+          else {
+            message += "para el lanzamiento del sitio que mide el avance <br> de las promesas legislativas enunciadas por <br> la Presidenta Bachelet en su discurso del 21/05/2015";
+          }
+
+          note.html(message);
+        }
+      });
+
+    });
+    </script>
+
+  </section>
+</div>
+</div>

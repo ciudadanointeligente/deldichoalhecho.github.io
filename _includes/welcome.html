@@ -1,0 +1,99 @@
+<div id="welcome">
+  <div class="jumbotron">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <h1>¡A medirse!</h1>
+          <p class="hidden-xs">Hagamos uso de nuestro derecho de rendición de cuentas <br>
+          y midamos el avance legislativo de las promesas enunciadas <br>
+          por la Presidenta Bachelet en su discurso del 21 de mayo de 2015.</p>
+          <p class="visible-xs">
+            Midamos el avance legislativo de las promesas enunciadas por la Presidenta Bachelet el 21/05/15.
+          </p>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-xs-4 col-sm-3 col-md-6">
+          <ul class="list-unstyled list-inline hidden-xs">
+            <li>
+              <a href="#" onclick="window.open(&quot;//twitter.com/share?url=http:&amp;via=ciudadanoi&amp;hashtags=Midamos&amp;text=¿Cuánto han avanzado las promesas legislativas del 21/05/15? Midamos los avances en http://deldichoalhecho.cl&quot;,&quot;twitter&quot;,&quot;width=450, height=250&quot;)">
+                 <span class="fa-stack fa-lg">
+                 <i class="fa fa-circle fa-stack-2x fa-inverse"></i>
+                 <i class="fa fa-twitter fa-stack-1x"></i>
+               </span>
+             </a>
+            </li>
+            <li>
+              <a href="#" onclick="window.open(&quot;//www.facebook.com/sharer/sharer.php?u=http://deldichoalhecho.cl&quot;,&quot;facebook&quot;,&quot;width=550, height=350&quot;)">
+                <span class="fa-stack fa-lg">
+                 <i class="fa fa-circle fa-stack-2x fa-inverse"></i>
+                  <i class="fa fa-facebook fa-stack-1x"></i>
+                </span>
+              </a>
+            </li>
+          </ul>
+          <ul class="list-unstyled visible-xs">
+            <li>
+              <a href="#" onclick="window.open(&quot;//twitter.com/share?url=http:&amp;via=ciudadanoi&amp;hashtags=Midamos&amp;text=¿Cuánto han avanzado las promesas legislativas del 21/05/15? Midamos los avances en http://deldichoalhecho.cl&quot;,&quot;twitter&quot;,&quot;width=450, height=250&quot;)">
+                 <span class="fa-stack fa-lg">
+                 <i class="fa fa-circle fa-stack-2x fa-inverse"></i>
+                 <i class="fa fa-twitter fa-stack-1x"></i>
+               </span>
+             </a>
+            </li>
+            <li>
+              <a href="#" onclick="window.open(&quot;//www.facebook.com/sharer/sharer.php?u=http://deldichoalhecho.cl&quot;,&quot;facebook&quot;,&quot;width=550, height=350&quot;)">
+                <span class="fa-stack fa-lg">
+                 <i class="fa fa-circle fa-stack-2x fa-inverse"></i>
+                  <i class="fa fa-facebook fa-stack-1x"></i>
+                </span>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="col-xs-6 col-xs-offset-2 col-sm-9 col-sm-offset-0 col-md-6 col-md-offset-0 text-right">
+          <a href="{{ site.baseurl }}cumplimiento.html" class="hidden-xs btn btn-primary btn-lg">Cumplimiento</a>
+          <a href="{{ site.baseurl }}cumplimiento.html" class="visible-xs btn btn-primary">Cumplimiento</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+{% include opinions.html %}
+
+<div class="container">
+  <h2 class="home-graphic">Balance de cumplimiento de promesas</h2>
+  <h1 class="home-graphic1 text-center">21 de Mayo 2015</h1>
+
+  <div class="row">
+    {% assign x = 1 %}
+    {% for c in site.data.cumplimientos %}
+      {% assign cnt = forloop.index | modulo: 4 %}
+    <div class="cumplimientos col-sm-3 col-md-3">
+      <h2 class="text-center tit-gra-home"><a href="/cumplimiento.html#cumplimiento-{{x}}" onClick="ga('send', 'event', 'home-{{c.area}}', 'click');">{{c.area}}</a></h2>
+      <div class="chart-{{ x }}"></div>
+      <p class="porcent-home">{{c.total}}</p>
+      <p class="text-center txt-coherencia">Coherencia con la promesa</p>
+      <p class="text-center escala-home">{{c.escala}} de 4</p>
+      <p class="text-center read-more"><a href="/cumplimiento.html#cumplimiento-{{x}}" onClick="ga('send', 'event', 'home-{{c.area}}-ver-mas', 'click');">ver más</a></p>
+      <script>
+      new Chartist.Pie('.chart-{{ x }}', {
+          series: [{{c.total | remove: '%' }}, 100]
+        }, {
+          donut: true,
+          donutWidth: 12,
+          startAngle: 0,
+          total: 100,
+          showLabel: false
+        });
+      </script>
+    </div>
+      {% assign x = x | plus :1 %}
+    {% if cnt == 0 %}
+  </div>
+  <div class="row">
+    {% endif %}
+    {% endfor %}
+  </div>
+</div>
