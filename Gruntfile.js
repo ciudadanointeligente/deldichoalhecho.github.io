@@ -140,7 +140,8 @@ module.exports = function(grunt) {
       }, simpleSheet: true})
     });
 
-    grunt.registerTask("default", ['UpdateData', 'gitadd', 'gitcommit', 'gitpull', 'gitpush'])
+    grunt.registerTask("default", ['UpdateData'])
+    // , 'gitadd', 'gitcommit', 'gitpull', 'gitpush'
 
 
 };

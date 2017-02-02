@@ -1,97 +1,107 @@
 [
     {
         "area": "Agricultura",
-        "total": "0%",
-        "escala": "1"
+        "total": "28%",
+        "escala": "2,0"
     },
     {
-        "area": "Ciencia y Tecnología",
-        "total": "0%",
-        "escala": "1"
+        "area": "Cultura",
+        "total": "13%",
+        "escala": "1,0"
     },
     {
-        "area": "Cultura y Patrimonio",
-        "total": "20%",
-        "escala": "2,5"
+        "area": "Defensa",
+        "total": "0%",
+        "escala": "1,0"
     },
     {
         "area": "Democracia",
-        "total": "85%",
-        "escala": "3,5"
+        "total": "57%",
+        "escala": "2,7"
     },
     {
-        "area": "Desarrollo social",
-        "total": "0%",
-        "escala": "1"
+        "area": "Desarrollo Social",
+        "total": "16%",
+        "escala": "1,7"
     },
     {
-        "area": "Economía",
-        "total": "53%",
-        "escala": "3,25"
+        "area": "Economía y Comercio",
+        "total": "34%",
+        "escala": "2,0"
     },
     {
         "area": "Educación",
-        "total": "73%",
-        "escala": "3,2"
+        "total": "75%",
+        "escala": "2,8"
     },
     {
         "area": "Energía",
-        "total": "60%",
-        "escala": "3,25"
+        "total": "39%",
+        "escala": "2,3"
     },
     {
         "area": "Equidad de Género",
-        "total": "70%",
-        "escala": "4"
+        "total": "51%",
+        "escala": "2,3"
     },
     {
         "area": "Estado",
-        "total": "60%",
-        "escala": "3,0"
+        "total": "17%",
+        "escala": "1,7"
     },
     {
-        "area": "Infancia y Juventud",
-        "total": "40%",
-        "escala": "4"
+        "area": "Infancia y Jóvenes",
+        "total": "11%",
+        "escala": "1,7"
     },
     {
         "area": "Justicia y DDHH",
-        "total": "51%",
-        "escala": "3,1"
+        "total": "37%",
+        "escala": "2,4"
     },
     {
         "area": "Medio Ambiente",
-        "total": "40%",
-        "escala": "3"
+        "total": "24%",
+        "escala": "1,8"
     },
     {
         "area": "Minería",
-        "total": "0%",
-        "escala": "1"
+        "total": "20%",
+        "escala": "1,2"
     },
     {
         "area": "Obras Públicas",
-        "total": "40%",
-        "escala": "4"
-    },
-    {
-        "area": "Pueblos originarios",
-        "total": "20%",
+        "total": "35%",
         "escala": "2,5"
     },
     {
-        "area": "Salud",
-        "total": "0%",
-        "escala": "1"
+        "area": "Pueblos Indígenas",
+        "total": "20%",
+        "escala": "2,0"
     },
     {
-        "area": "Trabajo y Previsión Social",
-        "total": "78%",
-        "escala": "3"
+        "area": "Salud",
+        "total": "75%",
+        "escala": "3,3"
+    },
+    {
+        "area": "Seguridad Ciudadana",
+        "total": "44%",
+        "escala": "2,2"
+    },
+    {
+        "area": "Trabajo y Prevision Social",
+        "total": "49%",
+        "escala": "2,6"
+    },
+    {
+        "area": "Transporte y Telecomunicaciones",
+        "total": "8%",
+        "escala": "1,6"
     },
     {
         "area": "Vivienda y Urbanismo",
-        "total": "40%",
-        "escala": "4"
+        "total": "17%",
+        "escala": "0,2"
     }
 ]
