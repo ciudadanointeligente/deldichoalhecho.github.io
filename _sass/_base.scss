@@ -15,18 +15,42 @@ p {
   background: initial;
 }
 
+span{
+  font-weight: 700;
+}
+
+h4{
+  font-size: 20px;
+}
+
 /*PANELS*/
 .panel{
   border: 0;
+  background-color: transparent;
+}
+.panel.panel-default.legend{
+    background-color: $stone;
+    color: white;
+    padding: 5px 15px 5px 15px;
+    border-radius: 0;
+    margin: 0;
 }
 
 .panel-default{
   .panel-body{
     padding: 0;
+    border: 0;
     .panel-heading{
       background-color: $dark;
       color: white;
       border-radius: 0;
     }
   }
+}
+
+.panel-promise{
+  padding: 15px;
+  background-color: white;
+  border: 0;
+  margin-bottom: 5px;
 }
