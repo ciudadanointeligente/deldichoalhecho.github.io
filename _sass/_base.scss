@@ -96,3 +96,14 @@ h4{
 .label{
   background-color: $red-one;
 }
+
+/*BUTTONS*/
+button.btn.btn-default.btn-xs{
+  background-color: $red-one;
+  color: white;
+  border: none;
+  font-weight: 700;
+  &:hover{
+    background-color: $blue-one;
+  }
+}

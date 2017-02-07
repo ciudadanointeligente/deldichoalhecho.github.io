@@ -76,7 +76,7 @@ layout: page
                           <div class="col-md-9">
                             <h4>Título de la promesa</h4>
                             <p>[[data.promesa]]</p><br>
-                            <p><span>Proyectos asociados</span> <span class="label label-default">Proyecto 14.568</span></p>
+                            <p><span>Proyectos asociados</span> <button type="button" class="btn btn-default btn-xs" data-toggle="modal" data-target="#myModal-proyecto-[[p.id]]-[[data.id]]">Proyecto 14.567</button>
                             <p><span>Total de urgencias</span> <span class="badge">42</span></p>
                           </div><br>
                           <div class="col-md-3 text-center">
@@ -86,14 +86,14 @@ layout: page
                                 <div class="promise-result text-center">
                                   [[data.cumplimiento_total]]
                                 </div>
-                                <a href=""><p class="text-center">¿Por qué?</p></a>
+                                <p class="text-center"><a href="#" data-toggle="modal" data-target="#myModal-cumplimiento-[[p.id]]-[[data.id]]">¿Por qué?</a></p>
                               </div>
                               <div class="col-xs-6 col-sm-6 col-md-6">
                                 <p class="text-center">Coherencia</p>
                                 <div class="promise-result text-center">
                                   [[data.coherencia_total]]
                                 </div>
-                                <a href=""><p class="text-center">¿Por qué?</p></a>
+                                <p class="text-center"><a href="#" data-toggle="modal" data-target="#myModal-coherencia-[[p.id]]-[[data.id]]">¿Por qué?</a></p>
                               </div>
                             </div>
                           </div>
@@ -105,6 +105,7 @@ layout: page
         </div><!--panel-group-->
       </div><!--panel-body-->
     </div><!--panel-default-->
+    {% include proyecto_modal.html %}
     {% include cumplimiento_modal.html %}
     {% include coherencia_modal.html %}
   </section>
