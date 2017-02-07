@@ -15,6 +15,18 @@ p {
   background: initial;
 }
 
+a{
+  color: $red-one;
+  &:hover{
+    text-decoration: none;
+    color: $blue-one;
+  }
+  &:focus{
+    text-decoration: none;
+    color: $blue-one;
+  }
+}
+
 span{
   font-weight: 700;
 }
