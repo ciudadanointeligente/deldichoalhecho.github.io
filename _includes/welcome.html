@@ -60,28 +60,26 @@
   </div>
 </div>
 
-
+<section id="resume">
 <div class="container">
-  <h2 class="home-graphic">Balance de cumplimiento de promesas</h2>
-  <h1 class="home-graphic1 text-center">21 de Mayo 2015</h1>
-
+  <h2 class="text-center">Balance de cumplimiento de promesas</h2>
   <div class="row">
     {% assign x = 1 %}
     {% for c in site.data.cumplimientos %}
-      {% assign cnt = forloop.index | modulo: 4 %}
-    <div class="cumplimientos col-sm-3 col-md-3">
-      <h2 class="text-center tit-gra-home"><a href="/cumplimiento.html#cumplimiento-{{x}}" onClick="ga('send', 'event', 'home-{{c.area}}', 'click');">{{c.area}}</a></h2>
+      {% assign cnt = forloop.index | modulo: 3 %}
+    <div class="cumplimientos col-sm-4 col-md-4">
+      <h3 class="text-center tit-gra-home"><span><a href="/cumplimiento.html#cumplimiento-{{x}}" onClick="ga('send', 'event', 'home-{{c.area}}', 'click');">{{c.area}}</a></span></h3>
       <div class="chart-{{ x }}"></div>
-      <p class="porcent-home">{{c.total}}</p>
-      <p class="text-center txt-coherencia">Coherencia con la promesa</p>
-      <p class="text-center escala-home">{{c.escala}} de 4</p>
-      <p class="text-center read-more"><a href="/cumplimiento.html#cumplimiento-{{x}}" onClick="ga('send', 'event', 'home-{{c.area}}-ver-mas', 'click');">ver más</a></p>
+      <div class="text-center promise-result">{{c.total}}</div>
+      <p class="text-center home">de avance</p>
+      <p class="text-center home">Coherencia con la promesa {{c.escala}} de 4</p>
+      <button type="button" class="btn btn-default btn-sm btn-block" href="/cumplimiento.html#cumplimiento-{{x}}" onClick="ga('send', 'event', 'home-{{c.area}}-ver-mas', 'click');">Ver más</button>
       <script>
       new Chartist.Pie('.chart-{{ x }}', {
           series: [{{c.total | remove: '%' }}, 100]
         }, {
           donut: true,
-          donutWidth: 12,
+          donutWidth: 16,
           startAngle: 0,
           total: 100,
           showLabel: false
@@ -96,3 +94,4 @@
     {% endfor %}
   </div>
 </div>
+</section>
