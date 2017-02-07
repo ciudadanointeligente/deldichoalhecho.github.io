@@ -39,7 +39,7 @@ layout: page
                 <div class="col-xs-12 col-sm-4 col-md-4">
                   <h2 class="panel-title">
                     <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#cumplimiento-[[p.id]]" aria-expanded="false" aria-controls="cumplimiento-[[p.id]]">
-                    <i class="fa fa-chevron-circle-down" aria-hidden="true"></i> [[p.category]]
+                     [[p.category]]
                     </a>
                   </h2>
                   <div class="sec-promesas">
@@ -70,13 +70,6 @@ layout: page
               <div class="panel-body">
                 <div class="table-responsive">
                   <table class="table table-striped">
-                    <thead>
-                      <tr class="titulo-tabla">
-                        <th>Promesa</th>
-                        <th class="titulo-tabla text-center">Porcentaje de avance</th>
-                        <th class="text-center">Escala de coherencia (1 a 4)</th>
-                      </tr>
-                    </thead>
                     <tbody>
                       <tr ng-repeat="data in p.data">
                         <td style="white-space: initial"><p style="min-width: 200px;">[[data.promesa]]</p></td>
