@@ -12,17 +12,20 @@ layout: page
         </div>
     </div>
 
-    <div class="panel panel-default leyenda">
+    <div class="panel panel-default legend">
       <div class="row">
-        <div class="hidden-xs col-sm-3 col-md-4">
-          <h4>Categorías</h4>
+        <div class="col-md-9">
+          <h4>Áreas y promesas</h4>
         </div>
-        <div class="hidden-xs col-sm-5 col-md-6 text-center">
-          <h4>Porcentaje de avance</h4>
-        </div>
-        <div class="hidden-xs col-sm-4 col-md-2 text-center">
-          <h4>Escala de coherencia </h4>
-          <h5>(1 a 4)</h5>
+        <div class="hidden-xs hidden-sm col-md-3 text-center">
+          <div class="row">
+            <div class="col-md-6">
+              <h5>Avance</h5>
+            </div>
+            <div class="col-md-6">
+              <h5>Coherencia </h5>
+            </div>
+          </div>
         </div>
       </div>
     </div>
@@ -33,64 +36,76 @@ layout: page
           <div class="panel panel-default" ng-repeat="p in analisis.promisses">
             <div class="panel-heading" role="tab" id="headingOne-[[p.id]]">
               <div class="row">
-                <div class="col-xs-12 col-sm-4 col-md-4">
+                <div class="col-md-4">
                   <h2 class="panel-title">
-                    <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#cumplimiento-[[p.id]]" aria-expanded="false" aria-controls="cumplimiento-[[p.id]]">
+                    <h4 class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#cumplimiento-[[p.id]]" aria-expanded="false" aria-controls="cumplimiento-[[p.id]]"><span>
                      [[p.category]]
-                    </a>
+                   </span></h4>
                   </h2>
                   <div class="sec-promesas">
-
-                    <ul class="list-inline">
-                      <li>[[p.data.length]] promesa(s)</li>
-                      <li>([[p.status.completas]] completas</li>
-                      <li>[[p.status.incompletas]] en proceso</li>
-                      <li>[[p.status.sin_progreso]] sin progreso)</li>
-                    </ul>
+                    <h5>[[p.data.length]] promesa(s)<br>([[p.status.completas]] completas - [[p.status.incompletas]] en proceso - [[p.status.sin_progreso]] sin progreso)</h5>
                   </div>
                 </div>
-                <div class="col-xs-9 col-sm-6 col-md-6">
-                    <div class="category-percentage pull-right">[[p.cumplimiento_total]]%</div>
-
+                <div class="col-md-5">
                   <div class="progress">
                     <div class="progress-bar" role="progressbar" aria-valuenow="[[p.cumplimiento_total]]" aria-valuemin="0" aria-valuemax="100" style="min-width: 2em; width: [[p.cumplimiento_total]]%;"></div>
                   </div>
                 </div>
-                <div class="col-xs-3 col-sm-2 col-md-2">
-                  <div class="category-percentage text-center">
-                    [[p.coherencia_total]]
+                <div class="col-md-3">
+                  <div class="row">
+                    <div class="col-xs-6 col-sm-6 col-md-6">
+                      <p class="hidden-md hidden-lg text-center">Avance</p>
+                      <div class="category-result text-center">
+                        [[p.cumplimiento_total]]%
+                      </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-6 col-md-6">
+                      <p class="hidden-md hidden-lg text-center">Coherencia</p>
+                      <div class="category-result text-center">
+                        [[p.coherencia_total]]
+                      </div>
+                    </div>
                   </div>
                 </div>
-              </div>
-            </div>
+              </div><!--row-->
+            </div><!--panel-heading-->
             <div id="cumplimiento-[[p.id]]" ng-class='hash === "cumplimiento-"+p.id ? "in" : (hash === "" && $first ? "in" : "")' class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne-[[p.id]]">
               <div class="panel-body">
-                <div class="table-responsive">
-                  <table class="table table-striped">
-                    <tbody>
-                      <tr ng-repeat="data in p.data">
-                        <td style="white-space: initial"><p style="min-width: 200px;">[[data.promesa]]</p></td>
-                        <td>
-                          <p class="percentage text-center">[[data.cumplimiento_total]]</p>
-                          <p class="text-center">de avance</p>
-                          <p class="text-center"><a href="#" data-toggle="modal" data-target="#myModal-cumplimiento-[[p.id]]-[[data.id]]">¿Por qué?</a></p>
-                        </td>
-                        <td>
-                          <p class="percentage text-center">[[data.coherencia_total]]</p>
-                          <p class="text-center">escala de coherencia</p>
-                          <p class="text-center"><a href="#" data-toggle="modal" data-target="#myModal-coherencia-[[p.id]]-[[data.id]]">¿Por qué?</a></p>
-                        </td>
-                      </tr>
-                    </tbody>
-                  </table>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-
-      </div>
-    </div>
+                      <div class="panel-promise" ng-repeat="data in p.data">
+                        <div class="row">
+                          <div class="col-md-9">
+                            <h4>Título de la promesa</h4>
+                            <p>[[data.promesa]]</p><br>
+                            <p><span>Proyectos asociados</span> <button type="button" class="btn btn-default btn-xs" data-toggle="modal" data-target="#myModal-proyecto-[[p.id]]-[[data.id]]">Proyecto 14.567</button>
+                            <p><span>Total de urgencias</span> <span class="badge">42</span></p>
+                          </div><br>
+                          <div class="col-md-3 text-center">
+                            <div class="row">
+                              <div class="col-xs-6 col-sm-6 col-md-6">
+                                <p class="text-center">Avance</p>
+                                <div class="promise-result text-center">
+                                  [[data.cumplimiento_total]]
+                                </div>
+                                <p class="text-center"><a href="#" data-toggle="modal" data-target="#myModal-cumplimiento-[[p.id]]-[[data.id]]">¿Por qué?</a></p>
+                              </div>
+                              <div class="col-xs-6 col-sm-6 col-md-6">
+                                <p class="text-center">Coherencia</p>
+                                <div class="promise-result text-center">
+                                  [[data.coherencia_total]]
+                                </div>
+                                <p class="text-center"><a href="#" data-toggle="modal" data-target="#myModal-coherencia-[[p.id]]-[[data.id]]">¿Por qué?</a></p>
+                              </div>
+                            </div>
+                          </div>
+                      </div>
+                  </div>
+              </div><!--panel-body-->
+            </div><!--cumplimiento-->
+          </div><!--panel-default-->
+        </div><!--panel-group-->
+      </div><!--panel-body-->
+    </div><!--panel-default-->
+    {% include proyecto_modal.html %}
     {% include cumplimiento_modal.html %}
     {% include coherencia_modal.html %}
   </section>
