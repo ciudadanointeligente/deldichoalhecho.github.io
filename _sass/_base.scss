@@ -14,3 +14,19 @@ p {
   border-bottom: initial;
   background: initial;
 }
+
+/*PANELS*/
+.panel{
+  border: 0;
+}
+
+.panel-default{
+  .panel-body{
+    padding: 0;
+    .panel-heading{
+      background-color: $dark;
+      color: white;
+      border-radius: 0;
+    }
+  }
+}

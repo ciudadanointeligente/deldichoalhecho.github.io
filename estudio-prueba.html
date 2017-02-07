@@ -65,25 +65,21 @@ layout: page
             </div>
             <div id="cumplimiento-[[p.id]]" ng-class='hash === "cumplimiento-"+p.id ? "in" : (hash === "" && $first ? "in" : "")' class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne-[[p.id]]">
               <div class="panel-body">
-                <div class="table-responsive">
-                  <table class="table table-striped">
-                    <tbody>
-                      <tr ng-repeat="data in p.data">
-                        <td style="white-space: initial"><p style="min-width: 200px;">[[data.promesa]]</p></td>
-                        <td>
-                          <p class="percentage text-center">[[data.cumplimiento_total]]</p>
-                          <p class="text-center">de avance</p>
-                          <p class="text-center"><a href="#" data-toggle="modal" data-target="#myModal-cumplimiento-[[p.id]]-[[data.id]]">¿Por qué?</a></p>
-                        </td>
-                        <td>
-                          <p class="percentage text-center">[[data.coherencia_total]]</p>
-                          <p class="text-center">escala de coherencia</p>
-                          <p class="text-center"><a href="#" data-toggle="modal" data-target="#myModal-coherencia-[[p.id]]-[[data.id]]">¿Por qué?</a></p>
-                        </td>
-                      </tr>
-                    </tbody>
-                  </table>
-                </div>
+                  <div class="row" ng-repeat="data in p.data">
+                      <div class="col-md-9">
+                        <p>[[data.promesa]]</p>
+                      </div>
+                      <div class="col-md-3 text-center">
+                        <div class="row">
+                          <div class="col-md-6 text-center">
+                            <p>[[data.cumplimiento_total]]</p>
+                          </div>
+                          <div class="col-md-6 text-center">
+                            <p>[[data.coherencia_total]]</p>
+                          </div>
+                        </div>
+                      </div>
+                  </div>
               </div>
             </div>
           </div>
