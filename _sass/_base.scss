@@ -55,6 +55,27 @@ h4{
   margin-bottom: 5px;
 }
 
+/*DATA*/
+.progress{
+    height: 26px;
+    border-radius: 15px;
+    margin: 10px 0 20px 0;
+}
+
+.progress-bar{
+  background-color: $blue-one;
+}
+
+.category-result{
+  font-weight: 700;
+  font-size: 30px;
+}
+
+.promise-result{
+  font-weight: 700;
+  font-size: 30px;
+}
+
 /*HIGHLIGHT ELEMENTS*/
 .badge{
   background-color: $red-one;

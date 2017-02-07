@@ -47,7 +47,6 @@ layout: page
                   </div>
                 </div>
                 <div class="col-md-5">
-                  <div class="category-percentage pull-right">[[p.cumplimiento_total]]%</div>
                   <div class="progress">
                     <div class="progress-bar" role="progressbar" aria-valuenow="[[p.cumplimiento_total]]" aria-valuemin="0" aria-valuemax="100" style="min-width: 2em; width: [[p.cumplimiento_total]]%;"></div>
                   </div>
@@ -55,12 +54,14 @@ layout: page
                 <div class="col-md-3">
                   <div class="row">
                     <div class="col-xs-6 col-sm-6 col-md-6">
-                      <div class="category-percentage text-center">
-                        hola
+                      <p class="hidden-md hidden-lg text-center">Avance</p>
+                      <div class="category-result text-center">
+                        [[p.cumplimiento_total]]%
                       </div>
                     </div>
                     <div class="col-xs-6 col-sm-6 col-md-6">
-                      <div class="category-percentage text-center">
+                      <p class="hidden-md hidden-lg text-center">Coherencia</p>
+                      <div class="category-result text-center">
                         [[p.coherencia_total]]
                       </div>
                     </div>
@@ -82,14 +83,14 @@ layout: page
                             <div class="row">
                               <div class="col-xs-6 col-sm-6 col-md-6">
                                 <p class="text-center">Avance</p>
-                                <div class="text-center">
+                                <div class="promise-result text-center">
                                   [[data.cumplimiento_total]]
                                 </div>
                                 <a href=""><p class="text-center">¿Por qué?</p></a>
                               </div>
                               <div class="col-xs-6 col-sm-6 col-md-6">
                                 <p class="text-center">Coherencia</p>
-                                <div class="text-center">
+                                <div class="promise-result text-center">
                                   [[data.coherencia_total]]
                                 </div>
                                 <a href=""><p class="text-center">¿Por qué?</p></a>
