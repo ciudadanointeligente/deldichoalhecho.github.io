@@ -39,6 +39,34 @@ h4{
   font-size: 20px;
 }
 
+/*NAVBAR*/
+.navbar{
+    border-radius: 0;
+}
+
+.navbar-default{
+  background-color: $dark;
+  border: 0;
+}
+
+.navbar-default .navbar-nav>li>a{
+  color: white;
+  &:hover{
+    color: $blue-one;
+  }
+  &:focus{
+    color: $blue-one;
+  }
+}
+
+.navbar-default .navbar-toggle{
+  border: 0;
+}
+
+.navbar-default .navbar-toggle .icon-bar{
+  background-color: $blue-one;
+}
+
 /*SECTIONS*/
 #resume{
   background-color: white;
