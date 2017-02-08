@@ -4,17 +4,18 @@
       <!-- Brand and toggle get grouped for better mobile display -->
 
       <div class="navbar-header">
-        <a class="site-title" href="{{ site.baseurl }}/" onClick="ga('send', 'event', 'homepage', 'click');"><div class="brand"></div></a>
-
-         <span class="hidden">de Ciudadano Inteligente</span>
-        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false" onClick="ga('send', 'event', 'menu-movil', 'click');">
-          <span class="sr-only">Menú navegación</span>
+        <div class="brand">
+          <a class="site-title" href="{{ site.baseurl }}/" onClick="ga('send', 'event', 'homepage', 'click');"><img src="/img/logo-ddah.svg"></a>
+          <div class="sub-brand"><a href="http://ciudadanointeligente.org" target="_blank">un proyecto de Ciudadano Inteligente</a>
+          </div>
+        </div>
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+          <span class="sr-only">Toggle navigation</span>
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
         </button>
       </div>
-
 
       <!-- Collect the nav links, forms, and other content for toggling -->
       <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
