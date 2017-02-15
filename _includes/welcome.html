@@ -68,12 +68,12 @@
     {% for c in site.data.cumplimientos %}
       {% assign cnt = forloop.index | modulo: 3 %}
     <div class="cumplimientos col-sm-4 col-md-4">
-      <h3 class="text-center tit-gra-home"><span><a href="/cumplimiento.html#cumplimiento-{{x}}" onClick="ga('send', 'event', 'home-{{c.area}}', 'click');">{{c.area}}</a></span></h3>
+      <h3 class="text-center tit-gra-home"><a href="/cumplimiento.html#cumplimiento-{{x}}" onClick="ga('send', 'event', 'home-{{c.area}}', 'click');">{{c.area}}</a></h3>
       <div class="chart-{{ x }}"></div>
-      <div class="text-center promise-result">{{c.total}}</div>
+      <div class="text-center promise-result home">{{c.total}}</div>
       <p class="text-center home">de avance</p>
-      <p class="text-center home">Coherencia con la promesa {{c.escala}} de 4</p>
-      <button type="button" class="btn btn-default btn-sm btn-block" href="/cumplimiento.html#cumplimiento-{{x}}" onClick="ga('send', 'event', 'home-{{c.area}}-ver-mas', 'click');">Ver más</button>
+      <p class="text-center">Coherencia con la promesa {{c.escala}} de 4</p>
+      <button type="button" class="btn btn-default btn-sm btn-block home" href="/cumplimiento.html#cumplimiento-{{x}}" onClick="ga('send', 'event', 'home-{{c.area}}-ver-mas', 'click');">Ver más</button>
       <script>
       new Chartist.Pie('.chart-{{ x }}', {
           series: [{{c.total | remove: '%' }}, 100]
