@@ -50,6 +50,8 @@ h4{
 .navbar-default{
   background-color: $dark;
   border: 0;
+  height: 70px;
+  padding-top: 13px;
 }
 
 .navbar-default .navbar-nav>li>a{
@@ -62,12 +64,24 @@ h4{
   }
 }
 
+ul.nav.navbar-nav.navbar-right{
+  margin-top: -3px;
+}
+
+.navbar-toggle{
+    margin-top: -44px;
+}
+
 .navbar-default .navbar-toggle{
   border: 0;
 }
 
 .navbar-default .navbar-toggle .icon-bar{
   background-color: $blue-one;
+}
+
+.brand{
+  margin-left: 10px;
 }
 
 /*SECTIONS*/
