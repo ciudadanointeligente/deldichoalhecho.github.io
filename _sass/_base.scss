@@ -214,6 +214,13 @@ button.btn.btn-default.btn-sm.btn-block.home{
     }
 }
 
+button.btn.btn-default.btn-sm.dark{
+  background-color: $dark;
+    &:hover{
+      background-color: $blue-one;
+    }
+}
+
 /*MODALS*/
 .modal-content{
   border: 0;
