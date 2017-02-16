@@ -68,7 +68,7 @@
     {% for c in site.data.cumplimientos %}
       {% assign cnt = forloop.index | modulo: 3 %}
     <div class="cumplimientos col-sm-4 col-md-4">
-      <h3 class="text-center tit-gra-home"><a href="/cumplimiento.html#cumplimiento-{{x}}" onClick="ga('send', 'event', 'home-{{c.area}}', 'click');">{{c.area}}</a></h3>
+      <h3 class="text-center"><a href="/cumplimiento.html#cumplimiento-{{x}}" onClick="ga('send', 'event', 'home-{{c.area}}', 'click');">{{c.area}}</a></h3>
       <div class="chart-{{ x }}"></div>
       <div class="text-center promise-result home">{{c.total}}</div>
       <p class="text-center home">de avance</p>

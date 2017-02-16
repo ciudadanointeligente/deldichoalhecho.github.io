@@ -5,11 +5,49 @@ layout: page
 <div class="container">
 <section id="fulfillment">
     <div class="row">
-      <h1 class="text-center">Cumplimiento</h1>
+      <h1 class="text-center">Título</h1>
         <div class="col-md-12">
-          <div class="bajada"><p>Del Dicho al Hecho mide el nivel de cumplimiento legislativo al 11 de mayo de 2016 de las promesas enunciadas por la Presidenta Michelle Bachelet en su discurso del 21 de mayo de 2015. Dicho cumplimiento se refleja en un porcentaje de avance de la promesa y en una escala de coherencia de 1 a 4 entre el compromiso y el proyecto de ley que lo satisface.</p>
+          <div class="bajada"><p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.</p>
           </div>
         </div>
+        <div class="col-md-3 col-md-offset-3 text-center">
+          <div class="total-result">
+            10%
+          </div>
+          <h3>de avance <i class="fa fa-info-circle" aria-hidden="true" data-toggle="tooltip" data-placement="top" title="Hola"></i></h3>
+        </div>
+        <div class="col-md-3 text-center">
+          <div class="total-result">
+            100
+          </div>
+          <h3>coherencia total con el programa <i class="fa fa-info-circle" aria-hidden="true" data-toggle="tooltip" data-placement="top" title="Hola"></i></h3>
+        </div>
+    </div>
+    <div class="row">
+      <div class="col-md-3 text-center">
+        <h3 class="sub">Total de promesas</h3>
+        <div class="total-result sub">
+          100
+        </div>
+      </div>
+      <div class="col-md-3 text-center">
+        <h3 class="sub">Total de proyectos enviados</h3>
+        <div class="total-result sub">
+          100
+        </div>
+      </div>
+      <div class="col-md-3 text-center">
+        <h3 class="sub">Capacidad <i class="fa fa-info-circle" aria-hidden="true" data-toggle="tooltip" data-placement="top" title="Hola"></i></h3>
+        <div class="total-result sub">
+          100
+        </div>
+      </div>
+      <div class="col-md-3 text-center">
+        <h3 class="sub">Total de urgencias <i class="fa fa-info-circle" aria-hidden="true" data-toggle="tooltip" data-placement="top" title="Hola"></i></h3>
+        <div class="total-result sub">
+          100
+        </div>
+      </div>
     </div>
 
     <div class="panel panel-default legend">
@@ -20,10 +58,10 @@ layout: page
         <div class="hidden-xs hidden-sm col-md-3 text-center">
           <div class="row">
             <div class="col-md-6">
-              <h5>Avance</h5>
+              <h5>Avance <i class="fa fa-info-circle" aria-hidden="true" data-toggle="tooltip" data-placement="top" title="Hola"></i></h5>
             </div>
             <div class="col-md-6">
-              <h5>Coherencia </h5>
+              <h5>Coherencia <i class="fa fa-info-circle" aria-hidden="true" data-toggle="tooltip" data-placement="top" title="Hola"></i></h5>
             </div>
           </div>
         </div>
@@ -54,13 +92,13 @@ layout: page
                 <div class="col-md-3">
                   <div class="row">
                     <div class="col-xs-6 col-sm-6 col-md-6">
-                      <p class="hidden-md hidden-lg text-center">Avance</p>
+                      <p class="hidden-md hidden-lg text-center">Avance <i class="fa fa-info-circle" aria-hidden="true" data-toggle="tooltip" data-placement="top" title="Hola"></i></p>
                       <div class="category-result text-center">
                         [[p.cumplimiento_total]]%
                       </div>
                     </div>
                     <div class="col-xs-6 col-sm-6 col-md-6">
-                      <p class="hidden-md hidden-lg text-center">Coherencia</p>
+                      <p class="hidden-md hidden-lg text-center">Coherencia <i class="fa fa-info-circle" aria-hidden="true" data-toggle="tooltip" data-placement="top" title="Hola"></i></p>
                       <div class="category-result text-center">
                         [[p.coherencia_total]]
                       </div>
@@ -110,3 +148,9 @@ layout: page
     {% include coherencia_modal.html %}
   </section>
 </div>
+
+<script>
+$(function () {
+  $('[data-toggle="tooltip"]').tooltip()
+})
+</script>
