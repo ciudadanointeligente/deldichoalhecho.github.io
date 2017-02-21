@@ -73,11 +73,11 @@ module.exports = function(grunt) {
         var cumplimientos = []
 
         for (var i=0; i < all_cumplimientos.length; i++){
-          if( all_cumplimientos[i].area !== null || all_cumplimientos[i].area !== "Promedio/Total" ) {
+          if( all_cumplimientos[i].area !== null || all_cumplimientos[i].area !== "Total" || all_cumplimientos[i].area !== "" ) {
             cumplimientos.push({
               "area": all_cumplimientos[i].area,
               "total": all_cumplimientos[i].total,
-              "escala": all_cumplimientos[i].escala
+              "escala": all_cumplimientos[i].escala.replace(',','.')
             })
           }
         }
@@ -89,7 +89,7 @@ module.exports = function(grunt) {
 
         for (var y=1,i=0; i < all_analisis.length; i++){
           if( all_analisis[i].area !== '' && current_category != all_analisis[i].area ) {
-            analisis.promisses.push({"id": y++, "category": all_analisis[i].area, "cumplimiento_total":"", "coherencia_total":"", "status":{ "completas": 0, "incompletas": 0, "sin_progreso": 0 }, "data":[]})
+            analisis.promisses.push({"id": y++, "category": all_analisis[i].area, "avance_total":"", "coherencia":"", "status":{ "completas": 0, "incompletas": 0, "sin_progreso": 0 }, "data":[]})
           }
 
           if(current_category != all_analisis[i].area) {
@@ -100,12 +100,12 @@ module.exports = function(grunt) {
         for (var x=0; x < analisis.promisses.length; x++){
           for (var i=0; i < all_analisis.length; i++){
             if(all_analisis[i].uid != '' && analisis.promisses[x].category == all_analisis[i].area) {
-              analisis.promisses[x].data.push({ "id": all_analisis[i].uid, "promesa": all_analisis[i].promesa, "cumplimiento_total": all_analisis[i].cumplimiento_total, "coherencia_total": all_analisis[i].coherencia_total, "justificacion_avance": all_analisis[i].justificacion_avance, "justificacion_nota": all_analisis[i].justificacion_nota })
-              if(all_analisis[i].cumplimiento_total === "0%")
+              analisis.promisses[x].data.push({ "id": all_analisis[i].uid, "titulo": all_analisis[i].titulo, "promesa": all_analisis[i].promesa, "boletin": all_analisis[i].boletin, "total_urgencias": all_analisis[i].total_urgencias ,"avance_total": all_analisis[i].avance_total, "coherencia": all_analisis[i].coherencia, "nombre_avance": all_analisis[i].nombre_avance, "link":all_analisis[i].link, "justificacion_avance": all_analisis[i].justificacion_avance, "justificacion_nota": all_analisis[i].justificacion_nota })
+              if(all_analisis[i].avance_total === "0%")
                 analisis.promisses[x].status.sin_progreso = analisis.promisses[x].status.sin_progreso+1;
-              if(all_analisis[i].cumplimiento_total === "40%" || all_analisis[i].cumplimiento_total === "70%" || all_analisis[i].cumplimiento_total === "90%")
+              if(all_analisis[i].avance_total === "40%" || all_analisis[i].avance_total === "70%" || all_analisis[i].avance_total === "90%")
                 analisis.promisses[x].status.incompletas = analisis.promisses[x].status.incompletas+1;
-              if(all_analisis[i].cumplimiento_total === "100%")
+              if(all_analisis[i].avance_total === "100%")
                 analisis.promisses[x].status.completas = analisis.promisses[x].status.completas+1;
             }
           }
@@ -113,9 +113,10 @@ module.exports = function(grunt) {
           var ct = 0;
           var coht = 0;
           for (var y=1, i=0; i < all_analisis.length; i++){
+            if(all_analisis[i].coherencia != ''){
             if(all_analisis[i].uid != '' && analisis.promisses[x].category == all_analisis[i].area) {
-              var tmp_ct = parseInt(all_analisis[i].cumplimiento_total);
-              var tmp_coht = parseInt(all_analisis[i].coherencia_total);
+              var tmp_ct = parseInt(all_analisis[i].avance_total);
+              var tmp_coht = parseInt(all_analisis[i].coherencia);
               var tmp_y = y++;
 
               ct = tmp_ct + ct ;
@@ -124,9 +125,9 @@ module.exports = function(grunt) {
               coht = tmp_coht + coht ;
               final_coht = coht / tmp_y;
 
-              analisis.promisses[x].cumplimiento_total = Math.round(final_ct);
-              analisis.promisses[x].coherencia_total = final_coht.toFixed(1);
-            }
+              analisis.promisses[x].avance_total = Math.round(final_ct);
+              analisis.promisses[x].coherencia = final_coht.toFixed(1);
+            }}
           }
         }
 

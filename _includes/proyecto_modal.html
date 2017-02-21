@@ -1,17 +1,17 @@
 <!-- Modal -->
-<div ng-repeat="p in analisis.promisses">
-  <div ng-repeat="data in p.data">
+<div>
+  <div>
     <div class="modal fade" id="myModal-proyecto-[[p.id]]-[[data.id]]" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
       <div class="modal-dialog" role="document">
         <div class="modal-content">
           <div class="modal-body">
             <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-            <span class="label label-default">Proyecto 14.567</span><br>
-            <h4 class="modal-title" id="myModalLabel">Título del proyecto</h4><br>
-            <p><span>Estado de avance</span>: Comisión mixta</p>
-            <p><span>Coherencia</span>: 1 de 4</p><br>
-            <p> Lorem ipsum dolor sit amet</p><br>
-            <button type="button" class="btn btn-default btn-sm btn-right dark" href="link del servel">Ir al proyecto</button>
+            <span class="label label-default">Proyecto [[data.boletin]]</span><br>
+            <h4 class="modal-title" id="myModalLabel">[[data.titulo]]</h4><br>
+            <p><span>Estado de avance</span>: [[data.nombre_avance]]</p>
+            <!-- <p><span>Coherencia</span>: 1 de 4</p><br> -->
+            <p>[[data.justificacion_avance]]</p><br>
+            <a type="button" class="btn btn-default btn-sm btn-right dark" href="[[data.link]]" target="_blank">Ir al proyecto</a>
           </div>
         </div>
       </div>

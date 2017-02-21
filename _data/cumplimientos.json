@@ -2,106 +2,106 @@
     {
         "area": "Agricultura",
         "total": "28%",
-        "escala": "2,0"
+        "escala": "2.0"
     },
     {
         "area": "Cultura",
         "total": "13%",
-        "escala": "1,0"
+        "escala": "1.1"
     },
     {
         "area": "Defensa",
         "total": "0%",
-        "escala": "1,0"
+        "escala": "1.0"
     },
     {
         "area": "Democracia",
-        "total": "57%",
-        "escala": "2,7"
+        "total": "50%",
+        "escala": "2.5"
     },
     {
         "area": "Desarrollo Social",
         "total": "16%",
-        "escala": "1,7"
+        "escala": "1.7"
     },
     {
         "area": "Economía y Comercio",
         "total": "34%",
-        "escala": "2,0"
+        "escala": "2.0"
     },
     {
         "area": "Educación",
         "total": "75%",
-        "escala": "2,8"
+        "escala": "3.6"
     },
     {
         "area": "Energía",
         "total": "39%",
-        "escala": "2,3"
+        "escala": "2.3"
     },
     {
         "area": "Equidad de Género",
-        "total": "51%",
-        "escala": "2,3"
+        "total": "44%",
+        "escala": "2.6"
     },
     {
         "area": "Estado",
         "total": "17%",
-        "escala": "1,7"
+        "escala": "1.7"
     },
     {
         "area": "Infancia y Jóvenes",
         "total": "11%",
-        "escala": "1,7"
+        "escala": "1.7"
     },
     {
         "area": "Justicia y DDHH",
-        "total": "37%",
-        "escala": "2,4"
+        "total": "31%",
+        "escala": "2.1"
     },
     {
         "area": "Medio Ambiente",
-        "total": "24%",
-        "escala": "1,8"
+        "total": "16%",
+        "escala": "1.6"
     },
     {
         "area": "Minería",
         "total": "20%",
-        "escala": "1,2"
+        "escala": "1.2"
     },
     {
         "area": "Obras Públicas",
         "total": "35%",
-        "escala": "2,5"
+        "escala": "2.5"
     },
     {
         "area": "Pueblos Indígenas",
         "total": "20%",
-        "escala": "2,0"
+        "escala": "2.0"
     },
     {
         "area": "Salud",
-        "total": "75%",
-        "escala": "3,3"
+        "total": "67%",
+        "escala": "3.0"
     },
     {
         "area": "Seguridad Ciudadana",
-        "total": "44%",
-        "escala": "2,2"
+        "total": "38%",
+        "escala": "2.0"
     },
     {
         "area": "Trabajo y Prevision Social",
         "total": "49%",
-        "escala": "2,6"
+        "escala": "2.6"
     },
     {
         "area": "Transporte y Telecomunicaciones",
         "total": "8%",
-        "escala": "1,6"
+        "escala": "1.6"
     },
     {
         "area": "Vivienda y Urbanismo",
         "total": "17%",
-        "escala": "0,2"
+        "escala": "1.2"
     }
 ]
