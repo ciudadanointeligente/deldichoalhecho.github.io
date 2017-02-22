@@ -1,4 +1,12 @@
 {
+    "nro_promesas": "199",
+    "nro_proyectos": "88",
+    "promesas_con_proyectos": "78",
+    "promesas_areas": "9,5",
+    "capacidad": "33",
+    "promedio_avance": "31%",
+    "promedio_coherencia": "2,0",
+    "nro_urgencias": "1460",
     "promisses": [
         {
             "id": 1,

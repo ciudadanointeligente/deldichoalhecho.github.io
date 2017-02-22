@@ -84,8 +84,19 @@ module.exports = function(grunt) {
 
         /*analisis*/
         var all_analisis = tabletop.models.analisis.elements;
-        var analisis = { "promisses": [] };
+        var analisis = { "nro_promesas":0, "nro_proyectos":0, "promesas_con_proyectos":0, "promesas_areas":0, "capacidad":0, "promedio_avance":0, "promedio_coherencia":0, "nro_urgencias":0, "promisses": [] };
         var current_category = '';
+
+        // totales
+        var totales = tabletop.models.totales.elements;
+        analisis.nro_promesas = totales[0].nro_promesas;
+        analisis.nro_proyectos = totales[0].nro_proyectos;
+        analisis.promesas_con_proyectos = totales[0].promesas_con_proyectos;
+        analisis.promesas_areas = totales[0].promesas_areas;
+        analisis.capacidad = totales[0].capacidad;
+        analisis.promedio_avance = totales[0].promedio_avance;
+        analisis.promedio_coherencia = totales[0].promedio_coherencia;
+        analisis.nro_urgencias = totales[0].nro_urgencias;
 
         for (var y=1,i=0; i < all_analisis.length; i++){
           if( all_analisis[i].area !== '' && current_category != all_analisis[i].area ) {
