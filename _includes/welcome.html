@@ -76,7 +76,7 @@
       <button type="button" class="btn btn-default btn-sm btn-block home" href="/estudio.html#cumplimiento-{{x}}" onClick="ga('send', 'event', 'home-{{c.area}}-ver-mas', 'click');">Ver más</button>
       <script>
       new Chartist.Pie('.chart-{{ x }}', {
-          series: [{{c.total | remove: '%' }}, 100]
+          series: [100, {{c.total | remove: '%' }}]
         }, {
           donut: true,
           donutWidth: 16,
