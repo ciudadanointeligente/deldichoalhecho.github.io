@@ -3,10 +3,10 @@ title: 'Del Dicho al Hecho · 2017'
 email: info@ciudadanointeligente.org
 description: 'Plataforma de Ciudadano Inteligente que mide el avance de las promesas legislativas enunciadas por la Presidenta Bachelet en su discurso del 21 de mayo 2015.'
 keywords: 'fiscalización,control ciudadano,ciudadania,rendición de cuentas,rendicion de cuentas,cuenta,cuentas publicas,cuentas públicas,21 de mayo,discurso,cumplimiento,promesas,agenda,programa de gobierno,información pública,informacion publica,leyes,compromiso,bachelete,michelle bachelet,bachelet presidenta,presidenta chile,chile,congreso'
-baseurl: '//21m16.deldichoalhecho.cl/' # the subpath of your site, e.g. /blog/
-url: 'http://7m17.deldichoalhecho.cl/' # the base hostname & protocol for your site
+baseurl: '//07m17.deldichoalhecho.cl/' # the subpath of your site, e.g. /blog/
+url: 'http://07m17.deldichoalhecho.cl/' # the base hostname & protocol for your site
 analytics: 'UA-48506201-5' # google analytics tracking code
 twitter_username: ciudadanoi
-launched: true
+launched: false
 # build settings
 markdown: kramdown
