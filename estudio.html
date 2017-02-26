@@ -14,13 +14,13 @@ layout: page
           <div class="total-result">
             [[analisis.promedio_avance]]
           </div>
-          <h3>de avance <i class="fa fa-info-circle" aria-hidden="true" data-toggle="tooltip" data-placement="top" title="Hola"></i></h3>
+          <h3>cumplimiento total <i class="fa fa-info-circle" aria-hidden="true" data-toggle="tooltip" data-placement="top" title="Porcentaje que indica el promedio de avance de todas las promesas contenidas en el estudio"></i></h3>
         </div>
         <div class="col-md-3 text-center">
           <div class="total-result">
             [[analisis.promedio_coherencia]]
           </div>
-          <h3>coherencia total con el programa <i class="fa fa-info-circle" aria-hidden="true" data-toggle="tooltip" data-placement="top" title="Hola"></i></h3>
+          <h3>coherencia total <i class="fa fa-info-circle" aria-hidden="true" data-toggle="tooltip" data-placement="top" title="Número que indica el promedio de consistencia de todas las promesas respecto a los proyectos de ley enviados al Congreso"></i></h3>
         </div>
     </div>
     <div class="row">
@@ -37,13 +37,13 @@ layout: page
         </div>
       </div>
       <div class="col-md-3 text-center">
-        <h3 class="sub">Capacidad <i class="fa fa-info-circle" aria-hidden="true" data-toggle="tooltip" data-placement="top" title="Hola"></i></h3>
+        <h3 class="sub">Capacidad <i class="fa fa-info-circle" aria-hidden="true" data-toggle="tooltip" data-placement="top" title="Indicador que señala el número de promesas que presentan puntuación máxima en su nivel de avance (100%) y su grado de coherencia (4)"></i></h3>
         <div class="total-result sub">
           [[analisis.capacidad]]
         </div>
       </div>
       <div class="col-md-3 text-center">
-        <h3 class="sub">Total de urgencias <i class="fa fa-info-circle" aria-hidden="true" data-toggle="tooltip" data-placement="top" title="Hola"></i></h3>
+        <h3 class="sub">Total de urgencias <i class="fa fa-info-circle" aria-hidden="true" data-toggle="tooltip" data-placement="top" title="Es la suma de todas las urgencias asociadas a los proyectos de ley contenidos en el estudio"></i></h3>
         <div class="total-result sub">
           [[analisis.nro_urgencias]]
         </div>
@@ -58,10 +58,10 @@ layout: page
         <div class="hidden-xs hidden-sm col-md-3 text-center">
           <div class="row">
             <div class="col-md-6">
-              <h5>Avance <i class="fa fa-info-circle" aria-hidden="true" data-toggle="tooltip" data-placement="top" title="Hola"></i></h5>
+              <h5>Avance</h5>
             </div>
             <div class="col-md-6">
-              <h5>Coherencia <i class="fa fa-info-circle" aria-hidden="true" data-toggle="tooltip" data-placement="top" title="Hola"></i></h5>
+              <h5>Coherencia</h5>
             </div>
           </div>
         </div>
@@ -92,13 +92,13 @@ layout: page
                 <div class="col-md-3">
                   <div class="row">
                     <div class="col-xs-6 col-sm-6 col-md-6">
-                      <p class="hidden-md hidden-lg text-center">Avance <i class="fa fa-info-circle" aria-hidden="true" data-toggle="tooltip" data-placement="top" title="Hola"></i></p>
+                      <p class="hidden-md hidden-lg text-center">Avance</p>
                       <div class="category-result text-center">
                         [[p.avance_total]]%
                       </div>
                     </div>
                     <div class="col-xs-6 col-sm-6 col-md-6">
-                      <p class="hidden-md hidden-lg text-center">Coherencia <i class="fa fa-info-circle" aria-hidden="true" data-toggle="tooltip" data-placement="top" title="Hola"></i></p>
+                      <p class="hidden-md hidden-lg text-center">Coherencia</p>
                       <div class="category-result text-center">
                         [[p.coherencia]]
                       </div>
@@ -115,19 +115,19 @@ layout: page
                             <h4>[[data.titulo]]</h4>
                             <p>[[data.promesa]]</p><br>
                             <p ng-if="data.boletin != ''"><span>Proyectos asociados</span> <button type="button" class="btn btn-default btn-xs" data-toggle="modal" data-target="#myModal-proyecto-[[p.id]]-[[data.id]]">Proyecto [[data.boletin]]</button>
-                            <p ng-if="data.total_urgencias > 0"><span>Total de urgencias</span> <span class="badge">[[data.total_urgencias]]</span></p>
+                            <p ng-if="data.total_urgencias > 0"><span>Total de urgencias <i class="fa fa-info-circle" aria-hidden="true" data-toggle="tooltip" data-placement="top" title="El número total de urgencias indica la suma de las distintas urgencias -simple, suma, discusión inmediata- que tiene un proyecto de ley asociado a una promesa"></i></span> <span class="badge">[[data.total_urgencias]]</span></p>
                           </div><br>
                           <div class="col-md-3 text-center">
                             <div class="row">
                               <div class="col-xs-6 col-sm-6 col-md-6">
-                                <p class="text-center">Avance</p>
+                                <p class="text-center">Avance <i class="fa fa-info-circle" aria-hidden="true" data-toggle="tooltip" data-placement="top" title="Porcentaje que indica el nivel de cumplimiento de una promesa presidencial, en su estado de tramitación en el Congreso"></i></p>
                                 <div class="promise-result text-center">
                                   [[data.avance_total]]
                                 </div>
                                 <p class="text-center"><a href="#" data-toggle="modal" data-target="#myModal-cumplimiento-[[p.id]]-[[data.id]]">¿Por qué?</a></p>
                               </div>
                               <div class="col-xs-6 col-sm-6 col-md-6">
-                                <p class="text-center">Coherencia</p>
+                                <p class="text-center">Coherencia <i class="fa fa-info-circle" aria-hidden="true" data-toggle="tooltip" data-placement="top" title="Indicador que determina el grado de consistencia entre los contenidos de una promesa presidencial y un proyecto de ley enviado al Congreso"></i></p>
                                 <div class="promise-result text-center">
                                   [[data.coherencia]]
                                 </div>

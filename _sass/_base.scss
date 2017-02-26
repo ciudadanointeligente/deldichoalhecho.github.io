@@ -183,14 +183,18 @@ ul.nav.navbar-nav.navbar-right{
 
 .tooltip{
   width: 280px;
+  opacity: 1;
+  font-weight: 700;
 }
 
 .tooltip-inner{
-  background-color: $blue-one;
+  background-color: $red-two;
+  opacity: 1;
 }
 
 .tooltip.top .tooltip-arrow{
-  border-top-color: $blue-one;
+  border-top-color: $red-two;
+  opacity: 1;
 }
 
 /*BUTTONS*/
