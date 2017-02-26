@@ -103,6 +103,7 @@ section{
 .panel{
   border: 0;
   background-color: transparent;
+  box-shadow: none;
 }
 .panel.panel-default.legend{
     background-color: $stone;
