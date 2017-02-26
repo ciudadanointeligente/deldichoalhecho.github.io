@@ -91,13 +91,27 @@ ul.nav.navbar-nav.navbar-right{
 
 /*SECTIONS*/
 section{
-  margin-bottom: 60px;
+  padding-top: 30px;
+  padding-bottom: 60px;
+  margin-top: -20px;
 }
 
 #resume{
   background-color: white;
 }
 
+#que-es{
+  background-color: white;
+}
+
+#metodologia{
+  background-color: white;
+}
+
+.concepto{
+  background-color: white;
+  padding-bottom: 20px;
+}
 
 /*PANELS*/
 .panel{
