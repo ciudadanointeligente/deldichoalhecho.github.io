@@ -90,6 +90,10 @@ ul.nav.navbar-nav.navbar-right{
 }
 
 /*SECTIONS*/
+section{
+  margin-bottom: 60px;
+}
+
 #resume{
   background-color: white;
 }
@@ -134,16 +138,18 @@ ul.nav.navbar-nav.navbar-right{
 
 .ct-series-b .ct-bar, .ct-series-b .ct-line, .ct-series-b .ct-point, .ct-series-b .ct-slice-donut{
   stroke: $blue-one;
+  stroke-width: 17px;
 }
 
 .ct-series-a .ct-bar, .ct-series-a .ct-line, .ct-series-a .ct-point, .ct-series-a .ct-slice-donut{
-  stroke: $dark;
+  stroke: $sky;
 }
 
 .progress{
     height: 26px;
     border-radius: 15px;
     margin: 10px 0 20px 0;
+    background-color: $sky;
 }
 
 .progress-bar{
