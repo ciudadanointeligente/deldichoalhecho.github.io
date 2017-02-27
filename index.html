@@ -1,4 +1,8 @@
 ---
 layout: default
 ---
+{% if site.launched %}
   {% include welcome.html %}
+{% else %}
+  {% include countdown.html %}
+{% endif %}

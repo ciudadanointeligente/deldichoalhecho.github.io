@@ -1,6 +1,4 @@
-<!-- Modal -->
-<div ng-repeat="p in analisis.promisses">
-  <div ng-repeat="data in p.data">
+<!-- Modal coherencia -->
     <div class="modal fade" id="myModal-coherencia-[[p.id]]-[[data.id]]" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
       <div class="modal-dialog" role="document">
         <div class="modal-content">
@@ -9,10 +7,10 @@
             <h4 class="modal-title" id="myModalLabel">[[data.coherencia]]/4 escala de coherencia - ¿Por qué?</h4>
           </div>
           <div class="modal-body">
-            <p>[[data.justificacion_avance]]</p>
+            <p></p>
+            <p ng-if="data.coherencia > 1">[[data.justificacion_avance]]</p>
+            <p ng-if="data.coherencia == 1">Promesa no cuenta con proyecto de ley asociado</p>
           </div>
         </div>
       </div>
     </div>
-  </div>
-</div>
