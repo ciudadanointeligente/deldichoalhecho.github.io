@@ -153,7 +153,6 @@ section{
 
 .ct-series-b .ct-bar, .ct-series-b .ct-line, .ct-series-b .ct-point, .ct-series-b .ct-slice-donut{
   stroke: $blue-one;
-  stroke-width: 17px;
 }
 
 .ct-series-a .ct-bar, .ct-series-a .ct-line, .ct-series-a .ct-point, .ct-series-a .ct-slice-donut{
@@ -190,6 +189,20 @@ section{
   &.sub{
     font-size: 40px;
     margin-bottom: 30px;
+  }
+}
+
+.estudio-total{
+  .ct-series-b .ct-bar, .ct-series-b .ct-line, .ct-series-b .ct-point, .ct-series-b .ct-slice-donut{
+    stroke: $red-one;
+  }
+  .ct-series-a .ct-bar, .ct-series-a .ct-line, .ct-series-a .ct-point, .ct-series-a .ct-slice-donut{
+    stroke: $red-four;
+  }
+  .ct-label{
+    font-size: 38px;
+    fill: $dark;
+    font-weight: 700;
   }
 }
 
