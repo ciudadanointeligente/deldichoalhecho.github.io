@@ -2,9 +2,12 @@
   <div class="jumbotron">
     <div class="container">
       <div class="row">
-        <h1>Un título</h1>
-          <div class="col-md-6">
-            <div class="estudio-total"></div>
+        <h1 class="text-center">Un título</h1>
+          <div class="col-md-3 col-md-offset-3">
+            <div class="estudio-total">
+              <p class="label-total text-center">30%</p>
+              <h3 class="label-title text-center">cumplimiento total</h3>
+            </div>
             <script>
             new Chartist.Pie('.estudio-total', {
                 labels: [" ","30%"],
@@ -14,11 +17,17 @@
                 donutWidth: 19,
                 startAngle: 0,
                 total: 100,
-                showLabel: true,
+                showLabel: false,
                 labelOffset: -60,
               });
             </script>
-        </div>
+          </div>
+          <div class="col-md-3">
+            <div class="estudio-total">
+              <p class="label-total text-center">2.0 de 4</p>
+              <h3 class="label-title text-center">coherencia total</h3>
+            </div>
+          </div>
       </div>
       <div class="row">
         <div class="col-xs-4 col-sm-3 col-md-6">

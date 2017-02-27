@@ -113,6 +113,11 @@ section{
   padding-bottom: 20px;
 }
 
+.estudio-total{
+  margin-top: -70px;
+  margin-bottom: 50px;
+}
+
 /*PANELS*/
 .panel{
   border: 0;
@@ -187,7 +192,7 @@ section{
   font-weight: 700;
   font-size: 50px;
   &.sub{
-    font-size: 40px;
+    font-size: 30px;
     margin-bottom: 30px;
   }
 }
@@ -199,11 +204,19 @@ section{
   .ct-series-a .ct-bar, .ct-series-a .ct-line, .ct-series-a .ct-point, .ct-series-a .ct-slice-donut{
     stroke: $red-four;
   }
-  .ct-label{
-    font-size: 38px;
-    fill: $dark;
-    font-weight: 700;
-  }
+}
+
+p.label-total{
+  font-size: 38px;
+  color: $dark;
+  font-weight: 700;
+  position: relative;
+  top: 152px;
+}
+
+.label-title{
+  position: relative;
+  top: 182px;
 }
 
 /*HIGHLIGHT ELEMENTS*/
