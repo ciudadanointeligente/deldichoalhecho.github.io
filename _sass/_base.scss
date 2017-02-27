@@ -90,15 +90,43 @@ ul.nav.navbar-nav.navbar-right{
 }
 
 /*SECTIONS*/
+section{
+  padding-top: 30px;
+  padding-bottom: 60px;
+  margin-top: -20px;
+}
+
+#welcome{
+  margin-top: -20px;
+}
+
 #resume{
   background-color: white;
 }
 
+#que-es{
+  background-color: white;
+}
+
+#metodologia{
+  background-color: white;
+}
+
+.concepto{
+  background-color: white;
+  padding-bottom: 20px;
+}
+
+.estudio-total{
+  margin-top: -70px;
+  margin-bottom: 50px;
+}
 
 /*PANELS*/
 .panel{
   border: 0;
   background-color: transparent;
+  box-shadow: none;
 }
 .panel.panel-default.legend{
     background-color: $stone;
@@ -137,13 +165,14 @@ ul.nav.navbar-nav.navbar-right{
 }
 
 .ct-series-a .ct-bar, .ct-series-a .ct-line, .ct-series-a .ct-point, .ct-series-a .ct-slice-donut{
-  stroke: $dark;
+  stroke: $sky;
 }
 
 .progress{
     height: 26px;
     border-radius: 15px;
     margin: 10px 0 20px 0;
+    background-color: white;
 }
 
 .progress-bar{
@@ -167,9 +196,31 @@ ul.nav.navbar-nav.navbar-right{
   font-weight: 700;
   font-size: 50px;
   &.sub{
-    font-size: 40px;
+    font-size: 30px;
     margin-bottom: 30px;
   }
+}
+
+.estudio-total{
+  .ct-series-b .ct-bar, .ct-series-b .ct-line, .ct-series-b .ct-point, .ct-series-b .ct-slice-donut{
+    stroke: $red-one;
+  }
+  .ct-series-a .ct-bar, .ct-series-a .ct-line, .ct-series-a .ct-point, .ct-series-a .ct-slice-donut{
+    stroke: $red-four;
+  }
+}
+
+p.label-total{
+  font-size: 38px;
+  color: $dark;
+  font-weight: 700;
+  position: relative;
+  top: 152px;
+}
+
+.label-title{
+  position: relative;
+  top: 182px;
 }
 
 /*HIGHLIGHT ELEMENTS*/
@@ -183,14 +234,18 @@ ul.nav.navbar-nav.navbar-right{
 
 .tooltip{
   width: 280px;
+  opacity: 1;
+  font-weight: 700;
 }
 
 .tooltip-inner{
-  background-color: $blue-one;
+  background-color: $red-two;
+  opacity: 1;
 }
 
 .tooltip.top .tooltip-arrow{
-  border-top-color: $blue-one;
+  border-top-color: $red-two;
+  opacity: 1;
 }
 
 /*BUTTONS*/
@@ -240,4 +295,69 @@ footer{
   a{
     color: white;
   }
+}
+
+/*HOME CHARTS*/
+.chart-1 {
+  background: url(../img/i-agr.svg) 50%/auto no-repeat;
+}
+.chart-2 {
+  background: url(../img/i-cul.svg) 50%/auto no-repeat;
+}
+.chart-3 {
+  background: url(../img/i-def.svg) 50%/auto no-repeat;
+}
+.chart-4 {
+  background: url(../img/i-dem.svg) 50%/auto no-repeat;
+}
+.chart-5 {
+  background: url(../img/i-des.svg) 50%/auto no-repeat;
+}
+.chart-6 {
+  background: url(../img/i-eco.svg) 50%/auto no-repeat;
+}
+.chart-7 {
+  background: url(../img/i-edu.svg) 50%/auto no-repeat;
+}
+.chart-8 {
+  background: url(../img/i-ene.svg) 50%/auto no-repeat;
+}
+.chart-9 {
+  background: url(../img/i-equ.svg) 50%/auto no-repeat;
+}
+.chart-10 {
+  background: url(../img/i-est.svg) 50%/auto no-repeat;
+}
+.chart-11 {
+  background: url(../img/i-inf.svg) 50%/auto no-repeat;
+}
+.chart-12 {
+  background: url(../img/i-jus.svg) 50%/auto no-repeat;
+}
+.chart-13 {
+  background: url(../img/i-med.svg) 50%/auto no-repeat;
+}
+.chart-14 {
+  background: url(../img/i-min.svg) 50%/auto no-repeat;
+}
+.chart-15 {
+  background: url(../img/i-obr.svg) 50%/auto no-repeat;
+}
+.chart-16 {
+  background: url(../img/i-pue.svg) 50%/auto no-repeat;
+}
+.chart-17 {
+  background: url(../img/i-sal.svg) 50%/auto no-repeat;
+}
+.chart-18 {
+  background: url(../img/i-seg.svg) 50%/auto no-repeat;
+}
+.chart-19 {
+  background: url(../img/i-tra.svg) 50%/auto no-repeat;
+}
+.chart-20 {
+  background: url(../img/i-tran.svg) 50%/auto no-repeat;
+}
+.chart-21 {
+  background: url(../img/i-viv.svg) 50%/auto no-repeat;
 }
