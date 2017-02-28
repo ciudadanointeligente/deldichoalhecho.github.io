@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="110px" height="110px" viewBox="0 0 110 110" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard Copy 8</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 39 71.467 39 71.467 0.026 0 0.026"></polygon>
+    </defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-Copy-8">
+            <g id="Page-1" transform="translate(19.000000, 35.000000)">
+                <polygon id="Fill-1" fill="#F8CBCE" points="28.736 16.4355 41.128 16.4355 41.128 12.6945 28.736 12.6945"></polygon>
+                <polygon id="Fill-2" fill="#F8CBCE" points="28.736 23.4955 41.128 23.4955 41.128 19.7545 28.736 19.7545"></polygon>
+                <g id="Group-18" transform="translate(0.000000, 0.974500)">
+                    <path d="M17.6385,14.7468 C17.6385,10.0418 13.8245,6.2278 9.1185,6.2278 C4.4135,6.2278 0.6005,10.0418 0.6005,14.7468 C0.6005,19.4518 4.4135,23.2668 9.1185,23.2668 C13.8245,23.2668 17.6385,19.4518 17.6385,14.7468 Z" id="Stroke-3" stroke="#E94D59" stroke-width="1.2"></path>
+                    <path d="M9.119,23.2664 L9.119,38.9994" id="Stroke-5" stroke="#E94D59" stroke-width="1.2"></path>
+                    <path d="M3.4803,28.7556 L14.7583,28.7556" id="Stroke-7" stroke="#E94D59" stroke-width="1.2"></path>
+                    <path d="M65.2645,14.7468 C65.2645,10.0418 61.4505,6.2278 56.7445,6.2278 C52.0395,6.2278 48.2265,10.0418 48.2265,14.7468 C48.2265,19.4518 52.0395,23.2668 56.7445,23.2668 C61.4505,23.2668 65.2645,19.4518 65.2645,14.7468 Z" id="Stroke-9" stroke="#E94D59" stroke-width="1.2"></path>
+                    <path d="M62.7694,8.7234 L70.8814,0.6114" id="Stroke-11" stroke="#E94D59" stroke-width="1.2"></path>
+                    <polyline id="Stroke-13" stroke="#E94D59" stroke-width="1.2" points="70.867 7.2214 70.867 0.6254 64.27 0.6254"></polyline>
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Clip-16"></g>
+                    <polygon id="Stroke-15" stroke="#E94D59" stroke-width="1.2" mask="url(#mask-2)" points="26.736 12.916 39.128 12.916 39.128 9.175 26.736 9.175"></polygon>
+                    <polygon id="Stroke-17" stroke="#E94D59" stroke-width="1.2" mask="url(#mask-2)" points="26.736 19.976 39.128 19.976 39.128 16.235 26.736 16.235"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
