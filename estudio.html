@@ -1,14 +1,13 @@
 ---
 layout: page
 ---
-
 <section id="fulfillment">
   <div class="container">
     <div class="row">
       <h1 class="text-center">¿Cuánto ha cumplido el gobierno de Michele Bachelet?</h1>
-        <div class="col-md-8 col-md-offset-2">
-          <p class="text-center">Tras cumplirse el tercer año de Michelle Bachelet en el poder, lanzamos una nueva versión del estudio “Del Dicho al Hecho”. Revisa aquí los avances del cumplimiento de sus promesas de gobierno.</p>
-        </div>
+      <div class="col-md-8 col-md-offset-2">
+        <p class="text-center">Tras cumplirse el tercer año de Michelle Bachelet en el poder, lanzamos una nueva versión del estudio “Del Dicho al Hecho”. Revisa aquí los avances del cumplimiento de sus promesas de gobierno.</p>
+      </div>
     </div>
     <div class="row">
       <div class="col-md-3 col-md-offset-3">
@@ -17,10 +16,10 @@ layout: page
           <h3 class="label-title text-center">cumplimiento total <i class="fa fa-info-circle" aria-hidden="true" data-toggle="tooltip" data-placement="top" title="Porcentaje que indica el promedio de avance de todas las promesas contenidas en el estudio"></i></h3>
         </div>
         <script>
-        new Chartist.Pie('.estudio-total', {
+          new Chartist.Pie('.estudio-total', {
             labels: [" ","30%"],
             series: [100, 30]
-          }, {
+            }, {
             donut: true,
             donutWidth: 19,
             startAngle: 0,
@@ -63,7 +62,6 @@ layout: page
         </div>
       </div>
     </div>
-
     <div class="panel panel-default legend">
       <div class="row">
         <div class="col-md-9">
@@ -81,7 +79,6 @@ layout: page
         </div>
       </div>
     </div>
-
     <div class="panel panel-default">
       <div class="panel-body">
         <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
@@ -89,11 +86,7 @@ layout: page
             <div class="panel-heading" role="tab" id="headingOne-[[p.id]]">
               <div class="row">
                 <div class="col-md-4">
-                  <h2 class="panel-title">
-                    <h4 class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#cumplimiento-[[p.id]]" aria-expanded="false" aria-controls="cumplimiento-[[p.id]]"><span>
-                     [[p.category]]
-                   </span></h4>
-                  </h2>
+                  <h4 class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#cumplimiento-[[p.id]]" aria-expanded="false" aria-controls="cumplimiento-[[p.id]]"><span>[[p.category]]</span></h4>
                   <div class="sec-promesas">
                     <h5>[[p.data.length]] promesa(s)<br>([[p.status.completas]] completas - [[p.status.incompletas]] en proceso - [[p.status.sin_progreso]] sin progreso)</h5>
                   </div>
@@ -123,48 +116,48 @@ layout: page
             </div><!--panel-heading-->
             <div id="cumplimiento-[[p.id]]" ng-class='hash === "cumplimiento-"+p.id ? "in" : (hash === "" && $first ? "in" : "")' class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne-[[p.id]]">
               <div class="panel-body">
-                      <div class="panel-promise" ng-repeat="data in p.data">
-                        <div class="row">
-                          <div class="col-md-9">
-                            <h4>[[data.titulo]]</h4>
-                            <p>[[data.promesa]]</p><br>
-                            <p ng-if="data.boletin != ''"><span>Proyectos asociados</span> <button type="button" class="btn btn-default btn-xs" data-toggle="modal" data-target="#myModal-proyecto-[[p.id]]-[[data.id]]">Proyecto [[data.boletin]]</button>
-                            <p ng-if="data.total_urgencias > 0"><span>Total de urgencias <i class="fa fa-info-circle" aria-hidden="true" data-toggle="tooltip" data-placement="top" title="El número total de urgencias indica la suma de las distintas urgencias -simple, suma, discusión inmediata- que tiene un proyecto de ley asociado a una promesa"></i></span> <span class="badge">[[data.total_urgencias]]</span></p>
-                          </div><br>
-                          <div class="col-md-3 text-center">
-                            <div class="row">
-                              <div class="col-xs-6 col-sm-6 col-md-6">
-                                <p class="text-center">Avance <i class="fa fa-info-circle" aria-hidden="true" data-toggle="tooltip" data-placement="top" title="Porcentaje que indica el nivel de cumplimiento de una promesa presidencial, en su estado de tramitación en el Congreso"></i></p>
-                                <div class="promise-result text-center">
-                                  [[data.avance_total]]
-                                </div>
-                                <p class="text-center"><a href="#" data-toggle="modal" data-target="#myModal-cumplimiento-[[p.id]]-[[data.id]]">¿Por qué?</a></p>
-                              </div>
-                              <div class="col-xs-6 col-sm-6 col-md-6">
-                                <p class="text-center">Coherencia <i class="fa fa-info-circle" aria-hidden="true" data-toggle="tooltip" data-placement="top" title="Indicador que determina el grado de consistencia entre los contenidos de una promesa presidencial y un proyecto de ley enviado al Congreso"></i></p>
-                                <div class="promise-result text-center">
-                                  [[data.coherencia]]
-                                </div>
-                                <p class="text-center"><a href="#" data-toggle="modal" data-target="#myModal-coherencia-[[p.id]]-[[data.id]]">¿Por qué?</a></p>
-                              </div>
-                            </div>
+                <div class="panel-promise" ng-repeat="data in p.data">
+                  <div class="row">
+                    <div class="col-md-9">
+                      <h4>[[data.titulo]]</h4>
+                      <p>[[data.promesa]]</p><br>
+                      <p ng-if="data.boletin != ''"><span>Proyectos asociados</span> <button type="button" class="btn btn-default btn-xs" data-toggle="modal" data-target="#myModal-proyecto-[[p.id]]-[[data.id]]">Proyecto [[data.boletin]]</button>
+                      <p ng-if="data.total_urgencias > 0"><span>Total de urgencias <i class="fa fa-info-circle" aria-hidden="true" data-toggle="tooltip" data-placement="top" title="El número total de urgencias indica la suma de las distintas urgencias -simple, suma, discusión inmediata- que tiene un proyecto de ley asociado a una promesa"></i></span> <span class="badge">[[data.total_urgencias]]</span></p>
+                    </div>
+
+                    <div class="col-md-3 text-center">
+                      <div class="row">
+                        <div class="col-xs-6 col-sm-6 col-md-6">
+                          <p class="text-center">Avance <i class="fa fa-info-circle" aria-hidden="true" data-toggle="tooltip" data-placement="top" title="Porcentaje que indica el nivel de cumplimiento de una promesa presidencial, en su estado de tramitación en el Congreso"></i></p>
+                          <div class="promise-result text-center">
+                            [[data.avance_total]]
                           </div>
-                          {% include proyecto_modal.html %}
-                      </div>
-                  </div>
+                          <p class="text-center"><a href="#" data-toggle="modal" data-target="#myModal-cumplimiento-[[p.id]]-[[data.id]]">¿Por qué?</a></p>
+                        </div>
+                        <div class="col-xs-6 col-sm-6 col-md-6">
+                          <p class="text-center">Coherencia <i class="fa fa-info-circle" aria-hidden="true" data-toggle="tooltip" data-placement="top" title="Indicador que determina el grado de consistencia entre los contenidos de una promesa presidencial y un proyecto de ley enviado al Congreso"></i></p>
+                          <div class="promise-result text-center">
+                            [[data.coherencia]]
+                          </div>
+                          <p class="text-center"><a href="#" data-toggle="modal" data-target="#myModal-coherencia-[[p.id]]-[[data.id]]">¿Por qué?</a></p>
+                        </div>
+                      </div><!--row-->
+                    </div><!--text-center-->
+                    {% include proyecto_modal.html %}
+                    {% include cumplimiento_modal.html %}
+                    {% include coherencia_modal.html %}
+                  </div><!--row-->
+                </div><!--panel-promises-->
               </div><!--panel-body-->
-            </div><!--cumplimiento-->
+            </div><!--col-md-4-->
           </div><!--panel-default-->
         </div><!--panel-group-->
       </div><!--panel-body-->
     </div><!--panel-default-->
-    {% include cumplimiento_modal.html %}
-    {% include coherencia_modal.html %}
-  </div>
+  </div><!--panel-container-->
 </section>
-
 <script>
 $(function () {
-  $('[data-toggle="tooltip"]').tooltip()
-})
+  $('[data-toggle="tooltip"]').tooltip();
+});
 </script>

@@ -289,7 +289,7 @@ button.btn.btn-default.btn-sm.dark{
 
 /*FOOTER*/
 footer{
-  background-color: $stone;
+  background-color: $dark;
   color: white;
   padding: 50px 0 50px 0;
   a{
@@ -360,4 +360,26 @@ footer{
 }
 .chart-21 {
   background: url(../img/i-viv.svg) 50%/auto no-repeat;
+}
+
+/*COUNTDOWN*/
+#contador{
+  background-color: $dark;
+  padding-top: 150px;
+  padding-bottom: 190px;
+  color: white;
+  font-size: 18px;
+}
+
+.digit{
+  background-color: $blue-two;
+}
+
+.digit.static{
+  background-color: $blue-two;
+  background-image: none;
+}
+
+.countDiv:before, .countDiv:after{
+  background-color: $red-one;
 }
