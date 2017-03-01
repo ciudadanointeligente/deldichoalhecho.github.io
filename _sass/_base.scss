@@ -179,6 +179,18 @@ section{
   margin-bottom: 5px;
 }
 
+.panel.panel-glosario{
+  border-radius: 0;
+  .panel-heading{
+    background-color: $dark;
+    color: white;
+    border-radius: 0;
+  }
+  .panel-body{
+    background-color: white;
+  }
+}
+
 /*DATA*/
 .cumplimientos{
     min-height: 350px;
