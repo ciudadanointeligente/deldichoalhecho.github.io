@@ -110,6 +110,7 @@ section{
 }
 
 #resume{
+  padding-top: 60px;
   h2{
     color: $red-one;
   }
@@ -273,8 +274,14 @@ p.label-total{
 
 .fa-inverse{
   color: $dark;
+}
+
+ul{
   a{
     color: white;
+    &:hover{
+      color: $blue-one;
+    }
   }
 }
 
