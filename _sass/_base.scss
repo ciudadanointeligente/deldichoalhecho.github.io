@@ -90,18 +90,42 @@ ul.nav.navbar-nav.navbar-right{
 }
 
 /*SECTIONS*/
+.jumbotron{
+    background-color: $sky;
+}
+
 section{
   padding-top: 30px;
   padding-bottom: 60px;
   margin-top: -20px;
 }
 
-#welcome{
-  margin-top: -20px;
+#que-es-home{
+  background-color: white;
+  padding-top: 130px;
+  margin-top: -150px;
+  h2{
+    color: $red-one;
+  }
 }
 
 #resume{
-  background-color: white;
+  padding-top: 60px;
+  h2{
+    color: $red-one;
+  }
+  h3{
+    a{
+    color: $dark;
+      &:hover{
+        color: $blue-one;
+      }
+    }
+  }
+}
+
+#welcome{
+  margin-top: -20px;
 }
 
 #que-es{
@@ -119,7 +143,7 @@ section{
 
 .estudio-total{
   margin-top: -70px;
-  margin-bottom: 50px;
+  margin-bottom: 100px;
 }
 
 /*PANELS*/
@@ -129,11 +153,11 @@ section{
   box-shadow: none;
 }
 .panel.panel-default.legend{
-    background-color: $stone;
+    background-color: $dark;
     color: white;
     padding: 5px 15px 5px 15px;
     border-radius: 0;
-    margin: 0;
+    margin: 0 0 5px 0;
 }
 
 .panel-default{
@@ -165,7 +189,7 @@ section{
 }
 
 .ct-series-a .ct-bar, .ct-series-a .ct-line, .ct-series-a .ct-point, .ct-series-a .ct-slice-donut{
-  stroke: $sky;
+  stroke: white;
 }
 
 .progress{
@@ -206,7 +230,7 @@ section{
     stroke: $red-one;
   }
   .ct-series-a .ct-bar, .ct-series-a .ct-line, .ct-series-a .ct-point, .ct-series-a .ct-slice-donut{
-    stroke: $red-four;
+    stroke: white;
   }
 }
 
@@ -248,8 +272,36 @@ p.label-total{
   opacity: 1;
 }
 
+.fa-inverse{
+  color: $dark;
+}
+
+.fa{
+  margin: -16px 0 -7px 0;
+}
+
+ul{
+  a{
+    color: white;
+    &:hover{
+      color: $blue-one;
+    }
+  }
+}
+
 /*BUTTONS*/
-button.btn.btn-default{
+a.btn.btn-primary.btn-lg{
+  background-color: $blue-one;
+  color: white;
+  border: none;
+  font-weight: 400;
+  border-radius: 40px;
+    &:hover{
+      background-color: $red-one;
+    }
+}
+
+a.btn.btn-default{
   background-color: $red-one;
   color: white;
   border: none;
@@ -260,16 +312,17 @@ button.btn.btn-default{
     }
 }
 
-button.btn.btn-default.btn-sm.btn-block.home{
+a.btn.btn-default.btn-sm.btn-block.home{
   margin: auto;
   max-width: 70px;
   background-color: $red-two;
+  color: white;
     &:hover{
       background-color: $blue-one;
     }
 }
 
-button.btn.btn-default.btn-sm.dark{
+a.btn.btn-default.btn-sm.dark{
   background-color: $dark;
     &:hover{
       background-color: $blue-one;
