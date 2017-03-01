@@ -101,7 +101,7 @@
       <div class="text-center promise-result home">{{c.total}}</div>
       <p class="text-center home">de avance</p>
       <p class="text-center">Coherencia con la promesa {{c.escala}} de 4</p>
-      <button type="button" class="btn btn-default btn-sm btn-block home" href="/estudio.html#cumplimiento-{{x}}" onClick="ga('send', 'event', 'home-{{c.area}}-ver-mas', 'click');">Ver más</button>
+      <a class="btn btn-default btn-sm btn-block home" href="/estudio.html#cumplimiento-{{x}}" onClick="ga('send', 'event', 'home-{{c.area}}-ver-mas', 'click');">Ver más</a>
       <script>
       new Chartist.Pie('.chart-{{ x }}', {
           series: [100, {{c.total | remove: '%' }}]

@@ -96,12 +96,19 @@ section{
   margin-top: -20px;
 }
 
-#welcome{
-  margin-top: -20px;
+#resume{
+  h3{
+    a{
+    color: $dark;
+      &:hover{
+        color: $blue-one;
+      }
+    }
+  }
 }
 
-#resume{
-  background-color: white;
+#welcome{
+  margin-top: -20px;
 }
 
 #que-es{
@@ -165,7 +172,7 @@ section{
 }
 
 .ct-series-a .ct-bar, .ct-series-a .ct-line, .ct-series-a .ct-point, .ct-series-a .ct-slice-donut{
-  stroke: $sky;
+  stroke: white;
 }
 
 .progress{
@@ -249,7 +256,7 @@ p.label-total{
 }
 
 /*BUTTONS*/
-button.btn.btn-default{
+a.btn.btn-default{
   background-color: $red-one;
   color: white;
   border: none;
@@ -260,16 +267,17 @@ button.btn.btn-default{
     }
 }
 
-button.btn.btn-default.btn-sm.btn-block.home{
+a.btn.btn-default.btn-sm.btn-block.home{
   margin: auto;
   max-width: 70px;
   background-color: $red-two;
+  color: white;
     &:hover{
       background-color: $blue-one;
     }
 }
 
-button.btn.btn-default.btn-sm.dark{
+a.btn.btn-default.btn-sm.dark{
   background-color: $dark;
     &:hover{
       background-color: $blue-one;
