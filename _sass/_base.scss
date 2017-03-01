@@ -96,7 +96,19 @@ section{
   margin-top: -20px;
 }
 
+#que-es-home{
+  background-color: white;
+  padding-top: 130px;
+  margin-top: -150px;
+  h2{
+    color: $red-one;
+  }
+}
+
 #resume{
+  h2{
+    color: $red-one;
+  }
   h3{
     a{
     color: $dark;
@@ -126,7 +138,7 @@ section{
 
 .estudio-total{
   margin-top: -70px;
-  margin-bottom: 50px;
+  margin-bottom: 100px;
 }
 
 /*PANELS*/
