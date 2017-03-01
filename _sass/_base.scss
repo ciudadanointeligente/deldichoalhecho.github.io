@@ -90,6 +90,10 @@ ul.nav.navbar-nav.navbar-right{
 }
 
 /*SECTIONS*/
+.jumbotron{
+    background-color: $sky;
+}
+
 section{
   padding-top: 30px;
   padding-bottom: 60px;
@@ -267,7 +271,25 @@ p.label-total{
   opacity: 1;
 }
 
+.fa-inverse{
+  color: $dark;
+  a{
+    color: white;
+  }
+}
+
 /*BUTTONS*/
+a.btn.btn-primary.btn-lg{
+  background-color: $blue-one;
+  color: white;
+  border: none;
+  font-weight: 400;
+  border-radius: 40px;
+    &:hover{
+      background-color: $red-one;
+    }
+}
+
 a.btn.btn-default{
   background-color: $red-one;
   color: white;
