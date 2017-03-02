@@ -317,6 +317,7 @@ a.btn.btn-primary.btn-lg{
   border: none;
   font-weight: 400;
   border-radius: 40px;
+  width: auto;
     &:hover{
       background-color: $red-one;
     }
@@ -326,8 +327,9 @@ a.btn.btn-primary{
   background-color: $blue-one;
   color: white;
   border: none;
-  font-weight: 400;
+  font-weight: 700;
   border-radius: 40px;
+  width: auto;
     &:hover{
       background-color: $red-one;
     }
