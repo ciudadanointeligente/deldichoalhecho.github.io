@@ -322,6 +322,17 @@ a.btn.btn-primary.btn-lg{
     }
 }
 
+a.btn.btn-primary{
+  background-color: $blue-one;
+  color: white;
+  border: none;
+  font-weight: 400;
+  border-radius: 40px;
+    &:hover{
+      background-color: $red-one;
+    }
+}
+
 a.btn.btn-default{
   background-color: $red-one;
   color: white;
@@ -456,4 +467,14 @@ footer{
 
 .countDiv:before, .countDiv:after{
   background-color: $red-one;
+}
+
+@media (max-width: 991px) {
+  .estudio-total{
+    margin-top: -70px;
+    margin-bottom: 0;
+  }
+  .row.movil{
+    margin-top: 200px;
+  }
 }
