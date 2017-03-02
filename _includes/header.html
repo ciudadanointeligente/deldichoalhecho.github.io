@@ -6,15 +6,15 @@
       <div class="navbar-header">
         <div class="brand">
           <a class="site-title" href="{{ site.baseurl }}/" onClick="ga('send', 'event', 'homepage', 'click');"><img src="/img/logo-ddah.svg"></a>
-          <div class="sub-brand"><a href="http://ciudadanointeligente.org" target="_blank">un proyecto de Ciudadano Inteligente</a>
+          <div class="sub-brand"><a href="http://ciudadanointeligente.org" target="_blank" onClick="ga('send', 'event', 'sub-brand', 'click');">un proyecto de Ciudadano Inteligente</a>
           </div>
         </div>
-        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+        <a type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false" aria-controls="navbar" onClick="ga('send', 'event', 'menu-mobile', 'click');">
           <span class="sr-only">Toggle navigation</span>
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
-        </button>
+        </a>
       </div>
 
       <!-- Collect the nav links, forms, and other content for toggling -->

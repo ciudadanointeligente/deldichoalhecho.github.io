@@ -93,6 +93,11 @@ ul.nav.navbar-nav.navbar-right{
   margin-left: 10px;
 }
 
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+  border-color: #031424;
+  background-color: #031424;
+}
+
 /*SECTIONS*/
 .jumbotron{
     background-color: $sky;
