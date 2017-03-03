@@ -1,7 +1,7 @@
 # site settings
 title: 'Del Dicho al Hecho · 2017'
 email: info@ciudadanointeligente.org
-description: '¿Cuánto ha cumplido Michelle Bachelet en tres años de Gobierno? Descúbrelo en http://deldichoalhecho.cl de Ciudadano Inteligente.'
+description: '¿Cuánto ha cumplido Michelle Bachelet en tres años de Gobierno? Descúbrelo en https://deldichoalhecho.cl de Ciudadano Inteligente.'
 keywords: 'Fiscalización, control ciudadano, rendición de cuentas, cumplimiento, promesas, agenda, programa de gobierno, información pública, leyes, compromiso, Bachelet, Michelle Bachelet, soberanía popular, responsabilidad política, ejercicio de la ciudadanía, transparencia, participación ciudadana, derecho a la información, ¿cuánto cumple el gobierno?, candidatos'
 baseurl: '' # the subpath of your site, e.g. /blog/
 url: '//deldichoalhecho.cl/' # the base hostname & protocol for your site
