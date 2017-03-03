@@ -3,14 +3,17 @@
     <div class="container">
       <div class="row">
         <h1 class="text-center">Un título</h1>
-          <div class="col-md-4 col-md-offset-4">
+          <div class="col-md-4 hidden-sm hidden-xs">
+            <img src="/img/welcome.svg">
+          </div>
+          <div class="col-md-4">
             <div class="estudio-total">
-              <p class="label-total text-center">30%</p>
+              <p class="label-total text-center">48%</p>
               <h3 class="label-title text-center">cumplimiento total <i class="fa fa-info-circle" aria-hidden="true" data-toggle="tooltip" data-placement="top" title="Porcentaje que indica el promedio de avance de todas las promesas contenidas en el estudio" tooltip></i></h3>
             </div>
             <script>
             new Chartist.Pie('.estudio-total', {
-                labels: [" ","30%"],
+                labels: [" ","48%"],
                 series: [100, 30]
               }, {
                 donut: true,
@@ -24,7 +27,7 @@
           </div>
           <div class="col-md-4">
             <div class="estudio-total">
-              <p class="label-total text-center">2.0 de 4</p>
+              <p class="label-total text-center">2.5 de 4</p>
               <h3 class="label-title text-center">coherencia total <i class="fa fa-info-circle" aria-hidden="true" data-toggle="tooltip" data-placement="top" title="Número que indica el promedio de consistencia de todas las promesas respecto a los proyectos de ley enviados al Congreso" tooltip></i></h3>
             </div>
           </div>
