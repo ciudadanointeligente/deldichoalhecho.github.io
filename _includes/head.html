@@ -8,7 +8,7 @@
   <meta property="og:type"          content="website" />
   <meta property="og:title"         content="{{ site.title }}" />
   <meta property="og:description"   content="{{ site.description }}" />
-  <meta property="og:image"         content="{{ site.url }}img/og-img.png" />
+  <meta property="og:image"         content="https:{{ site.url }}img/og-img.png" />
 
   <!-- twitter card -->
   <meta name="twitter:card" content="summary_large_image">
@@ -16,7 +16,7 @@
   <meta name="twitter:creator" content="@ciudadanoi">
   <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
   <meta name="twitter:description" content="{{ site.description }}">
-  <meta name="twitter:image" content="{{ site.url }}img/og-img.png">
+  <meta name="twitter:image" content="https:{{ site.url }}img/og-img.png">
 
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
