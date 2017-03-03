@@ -2,7 +2,7 @@
   <div class="jumbotron">
     <div class="container">
       <div class="row">
-        <h1 class="text-center">Un título</h1>
+        <h1 class="text-center">¿Cuánto cumple el gobierno?</h1>
           <div class="col-md-4 hidden-sm hidden-xs">
             <img src="/img/welcome.svg">
           </div>
@@ -72,8 +72,8 @@
           </ul>
         </div>
         <div class="col-xs-6 col-xs-offset-2 col-sm-9 col-sm-offset-0 col-md-6 col-md-offset-0 text-right">
-          <a href="{{ site.baseurl }}estudio.html" class="hidden-xs btn btn-primary btn-lg" onclick="ga('send','event','home-ver-estudio-desktop','click')">Ver estudio</a>
-          <a href="{{ site.baseurl }}estudio.html" class="visible-xs btn btn-primary" onclick="ga('send','event','home-ver-estudio-mobile','click')">Ver estudio</a>
+          <a href="{{ site.baseurl }}estudio.html" class="hidden-xs btn btn-primary btn-lg" onclick="ga('send','event','home-ver-estudio-desktop','click')">Ver estudio completo</a>
+          <a href="{{ site.baseurl }}estudio.html" class="visible-xs btn btn-primary" onclick="ga('send','event','home-ver-estudio-mobile','click')">Ver estudio completo</a>
         </div>
       </div>
     </div>
@@ -85,7 +85,7 @@
     <h2 class="text-center">¿Qué es Del Dicho al Hecho?</h2>
     <div class="row">
       <div class="col-md-8 col-md-offset-2">
-        <p>Del Dicho al Hecho es un estudio que mide el cumplimiento de las promesas legislativas establecidas por el Gobierno en su Programa presidencial y discurso del 21 de mayo.</p><br>Con esto buscamos dar información que empodera a los ciudadanos y ciudadanas en el ejercicio de su derecho a exigir el cumplimiento de las promesas realizadas por los representantes, fortaleciendo su capacidad de fiscalización y control de gestión.</p>
+        <p class="home">Del Dicho al Hecho es un estudio de <a href="//ciudadanointeligente.org" target="_blank">Ciudadano Inteligente</a> que mide el cumplimiento de las promesas legislativas establecidas por el Gobierno en su Programa presidencial y discurso del 21 de mayo.</p><br><p class="home">Con esto buscamos dar información que empodera a los ciudadanos y ciudadanas en el ejercicio de su derecho a exigir el cumplimiento de las promesas realizadas por los representantes, fortaleciendo su capacidad de fiscalización y control de gestión.</p>
       </div>
     </div>
   </div>
@@ -93,7 +93,7 @@
 
 <section id="resume">
 <div class="container">
-  <h2 class="text-center">Título</h2>
+  <h2 class="text-center">Cumplimiento de promesas al tercer año de gobierno de Bachelet</h2>
   <div class="row">
     {% assign x = 1 %}
     {% for c in site.data.cumplimientos %}
