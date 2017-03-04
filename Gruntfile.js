@@ -109,17 +109,27 @@ module.exports = function(grunt) {
         }
 
         for (var x=0; x < analisis.promisses.length; x++){
+          var p = [];
           for (var i=0; i < all_analisis.length; i++){
             if(all_analisis[i].uid != '' && analisis.promisses[x].category == all_analisis[i].area) {
-              analisis.promisses[x].data.push({ "id": all_analisis[i].uid, "titulo": all_analisis[i].titulo, "promesa": all_analisis[i].promesa, "boletin": all_analisis[i].boletin, "total_urgencias": all_analisis[i].total_urgencias ,"avance_total": all_analisis[i].avance_total, "coherencia": all_analisis[i].coherencia, "nombre_avance": all_analisis[i].nombre_avance, "link":all_analisis[i].link, "justificacion_avance": all_analisis[i].justificacion_avance, "justificacion_nota": all_analisis[i].justificacion_nota })
               if(all_analisis[i].avance_total === "0%")
                 analisis.promisses[x].status.sin_progreso = analisis.promisses[x].status.sin_progreso+1;
               if(all_analisis[i].avance_total === "40%" || all_analisis[i].avance_total === "70%" || all_analisis[i].avance_total === "90%")
                 analisis.promisses[x].status.incompletas = analisis.promisses[x].status.incompletas+1;
               if(all_analisis[i].avance_total === "100%")
                 analisis.promisses[x].status.completas = analisis.promisses[x].status.completas+1;
+
+                if(p.find( y=>y.id === all_analisis[i].uid)) {
+                  p[p.length-1].proyecto_ley.push({"boletin":all_analisis[i].boletin, "link":all_analisis[i].link, "nombre_avance": all_analisis[i].nombre_avance, "justificacion_avance":all_analisis[i].justificacion_avance});
+                } else {
+                  var pl = [];
+                  if(all_analisis[i].boletin)
+                    pl.push({"boletin":all_analisis[i].boletin, "link":all_analisis[i].link, "nombre_avance": all_analisis[i].nombre_avance, "justificacion_avance":all_analisis[i].justificacion_avance});
+                  p.push({ "id": all_analisis[i].uid, "titulo": all_analisis[i].titulo, "promesa": all_analisis[i].promesa, "proyecto_ley":pl, "total_urgencias": all_analisis[i].total_urgencias ,"avance_total": all_analisis[i].avance_total, "coherencia": all_analisis[i].coherencia, "justificacion_nota": all_analisis[i].justificacion_nota })
+                }
             }
           }
+          analisis.promisses[x].data = p;
 
           var ct = 0;
           var coht = 0;
