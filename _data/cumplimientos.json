@@ -103,5 +103,15 @@
         "area": "Vivienda y Urbanismo",
         "total": "33%",
         "escala": "2.0"
+    },
+    {
+        "area": "Totales",
+        "total": "",
+        "escala": ""
+    },
+    {
+        "area": "",
+        "total": "",
+        "escala": ""
     }
 ]

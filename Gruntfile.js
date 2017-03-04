@@ -125,7 +125,7 @@ module.exports = function(grunt) {
                   var pl = [];
                   if(all_analisis[i].boletin)
                     pl.push({"boletin":all_analisis[i].boletin, "link":all_analisis[i].link, "nombre_avance": all_analisis[i].nombre_avance, "justificacion_avance":all_analisis[i].justificacion_avance});
-                  p.push({ "id": all_analisis[i].uid, "titulo": all_analisis[i].titulo, "promesa": all_analisis[i].promesa, "proyecto_ley":pl, "total_urgencias": all_analisis[i].total_urgencias ,"avance_total": all_analisis[i].avance_total, "coherencia": all_analisis[i].coherencia, "justificacion_nota": all_analisis[i].justificacion_nota })
+                  p.push({ "id": all_analisis[i].uid, "titulo": all_analisis[i].titulo, "promesa": all_analisis[i].promesa, "proyecto_ley":pl, "total_urgencias": all_analisis[i].total_urgencias ,"avance_total": all_analisis[i].avance_total, "coherencia": all_analisis[i].coherencia, "justificacion_nota": all_analisis[i].justificacion_nota, "ja_porque": all_analisis[i].ja_porque, "jn_porque": all_analisis[i].jn_porque })
                 }
             }
           }

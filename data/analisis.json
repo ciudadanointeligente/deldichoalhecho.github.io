@@ -27,7 +27,9 @@
                     "total_urgencias": "0",
                     "avance_total": "0%",
                     "coherencia": "1",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "El proyecto formaliza la participación de las Fuerzas Armadas en la preparación y respuesta a la emergencia. Dicha participación se justifica plenamente ante la vulnerabilidad que una situación como ésta puede representar para la seguridad nacional.",
+                    "jn_porque": ""
                 },
                 {
                     "id": "5",
@@ -44,7 +46,9 @@
                     "total_urgencias": "1",
                     "avance_total": "40%",
                     "coherencia": "3",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "",
+                    "jn_porque": ""
                 }
             ]
         },
@@ -67,7 +71,9 @@
                     "total_urgencias": "0",
                     "avance_total": "0%",
                     "coherencia": "1",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "",
+                    "jn_porque": ""
                 },
                 {
                     "id": "12",
@@ -84,7 +90,9 @@
                     "total_urgencias": "15",
                     "avance_total": "70%",
                     "coherencia": "4",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "Se reemplaza el sistema electoral binominal por uno proporcional moderado.",
+                    "jn_porque": ""
                 },
                 {
                     "id": "13",
@@ -94,7 +102,9 @@
                     "total_urgencias": "0",
                     "avance_total": "0%",
                     "coherencia": "1",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "",
+                    "jn_porque": ""
                 },
                 {
                     "id": "14",
@@ -111,7 +121,9 @@
                     "total_urgencias": "7",
                     "avance_total": "90%",
                     "coherencia": "2",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "",
+                    "jn_porque": ""
                 },
                 {
                     "id": "15",
@@ -128,7 +140,9 @@
                     "total_urgencias": "11",
                     "avance_total": "70%",
                     "coherencia": "2",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "Pretende modificar la constitución estableciendo que el cargo de Intendente se elige por votación popular y dura 4 años con posibilidad de reelección inmediata. Sin embargo, para que este proyecto sea efectivo, es necesario contar con una Ley Orgánica que regule la elección, la que aún no a sido enviada al congreso",
+                    "jn_porque": ""
                 },
                 {
                     "id": "16",
@@ -138,7 +152,9 @@
                     "total_urgencias": "0",
                     "avance_total": "0%",
                     "coherencia": "1",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "Establece que el gobierno de cada región reside en un Gobernador Regional, que será elegido en votación directa. Sin embargo, para que este proyecto sea efectivo, es necesario contar con una Ley Orgánica que regule la elección de Gobernadores Regionales, la que aún no a sido enviada al congreso",
+                    "jn_porque": ""
                 }
             ]
         },
@@ -168,7 +184,9 @@
                     "total_urgencias": "36",
                     "avance_total": "70%",
                     "coherencia": "3",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "Establece el procedimiento de transferencia de funciones y atribuciones es de carácter administrativo y permite que una o más competencias dejen de ser ejercidas por un ministerio o servicio público, para ser desempeñadas por uno o más gobiernos regionales, sin necesidad de modificaciones orgánicas.",
+                    "jn_porque": ""
                 },
                 {
                     "id": "18",
@@ -178,7 +196,9 @@
                     "total_urgencias": "0",
                     "avance_total": "0%",
                     "coherencia": "1",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "Ver Reforma Constitucional: http://www.leychile.cl/Navegar?idLey=20748&tipoVersion=0",
+                    "jn_porque": ""
                 },
                 {
                     "id": "19",
@@ -188,7 +208,9 @@
                     "total_urgencias": "0",
                     "avance_total": "0%",
                     "coherencia": "1",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "Proyecto de ley aborda la inscripción y cambio de domicilio de los chilenos que sufraguen en el exterior, y la modalidad de votación en el extranjero. ",
+                    "jn_porque": ""
                 }
             ]
         },
@@ -218,7 +240,9 @@
                     "total_urgencias": "19",
                     "avance_total": "100%",
                     "coherencia": "4",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "",
+                    "jn_porque": ""
                 },
                 {
                     "id": "22",
@@ -228,7 +252,9 @@
                     "total_urgencias": "0",
                     "avance_total": "0%",
                     "coherencia": "1",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "Crea el El Comité Paralímpico de Chile será la máxima organización paralímpica del país.",
+                    "jn_porque": ""
                 },
                 {
                     "id": "23",
@@ -238,7 +264,9 @@
                     "total_urgencias": "0",
                     "avance_total": "0%",
                     "coherencia": "1",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "",
+                    "jn_porque": ""
                 },
                 {
                     "id": "24",
@@ -267,7 +295,9 @@
                     "total_urgencias": "24",
                     "avance_total": "87%",
                     "coherencia": "2,7",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "La promesa cuenta con 3 proyectos de ley asociados en distintos trámtes consitucionales, el avance total de la promesa es el promedio dle avance de esos proyectos. Uno ya es ley, otro se encuentra en proceso de ser promulgado y el otro en su segundo trámite constitucional.",
+                    "ja_porque": "Tipifica el delito de incitación al odio pero no contempla todas las categorías de la Ley que Establece Medidas contra la Discriminación, tales como: la situación socioeconómica, el idioma, la opinión política, la sindicación o participación en organizaciones gremiales o la falta de ellas, la identidad de género, el estado civil, la edad, la filiación y la apariencia personal.",
+                    "jn_porque": "La promesa cuenta con 3 proyectos de ley asociados en distintos trámtes consitucionales, el avance total de la promesa es el promedio dle avance de esos proyectos. Uno ya es ley, otro se encuentra en proceso de ser promulgado y el otro en su segundo trámite constitucional."
                 },
                 {
                     "id": "26",
@@ -290,7 +320,9 @@
                     "total_urgencias": "2",
                     "avance_total": "100%",
                     "coherencia": "4",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "La promesa cuenta con 2 proyectos de ley asociados que están totalemente tramitados y son ley de la República. El avance total de la promesa es el promedio dle avance de esos proyectos.",
+                    "ja_porque": "La ley establece que los beneficiarios del Sistema de Pensiones Solidarias que no sean causantes de asignación por muerte o cuota mortuoria en algún régimen de seguridad social causarán asignación por muerte",
+                    "jn_porque": "La promesa cuenta con 2 proyectos de ley asociados que están totalemente tramitados y son ley de la República. El avance total de la promesa es el promedio dle avance de esos proyectos."
                 }
             ]
         },
@@ -313,7 +345,9 @@
                     "total_urgencias": "0",
                     "avance_total": "0%",
                     "coherencia": "1",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "El Fondo concursable al que se refiere el artículo anterior considerará una línea especial de financiamiento permanente a dichas asociaciones para el desarrollo de sus funciones",
+                    "jn_porque": ""
                 },
                 {
                     "id": "83",
@@ -330,7 +364,9 @@
                     "total_urgencias": "0",
                     "avance_total": "100%",
                     "coherencia": "4",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "Se contemplan indemnizaciones punitivas y se aumentos a las indemnizaciones cuando proceden ciertas circunstancias.",
+                    "jn_porque": ""
                 },
                 {
                     "id": "85",
@@ -340,7 +376,9 @@
                     "total_urgencias": "0",
                     "avance_total": "0%",
                     "coherencia": "1",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "",
+                    "jn_porque": ""
                 },
                 {
                     "id": "86",
@@ -357,7 +395,9 @@
                     "total_urgencias": "21",
                     "avance_total": "40%",
                     "coherencia": "3",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "Plantea la creación de un Ministerio de Ciencia y Tecnología, el que, actuando como órgano rector, promoverá y orientará el desarrollo científico-tecnológico del país y sus regiones. Por ende se cumple la promesa, estableciendo una institucionalidad mayor a la planteada por la promesa.",
+                    "jn_porque": ""
                 },
                 {
                     "id": "150",
@@ -374,7 +414,9 @@
                     "total_urgencias": "2",
                     "avance_total": "100%",
                     "coherencia": "4",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "Se ingresa una reforma tributaria con 4 grandes objetivos: aumentar la carga tributaria para financiar, con ingresos permanentes, los gastos permanentes de la reforma educacional; avanzar en equidad tributaria, mejorando la distribución del ingreso; introducir nuevos y más eficientes mecanismos de incentivos al ahorro e inversión, y avanzar en medidas que disminuyan la evasión y la elusión.",
+                    "jn_porque": ""
                 },
                 {
                     "id": "151",
@@ -391,7 +433,9 @@
                     "total_urgencias": "0",
                     "avance_total": "40%",
                     "coherencia": "4",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "El proyecto fortalece al Sernac y le otorga mayores facultades de fiscalización y de sanción en materia de derechos de los consumidores",
+                    "jn_porque": ""
                 },
                 {
                     "id": "152",
@@ -408,7 +452,9 @@
                     "total_urgencias": "3",
                     "avance_total": "100%",
                     "coherencia": "4",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "El proyecto se preserva y perfecciona la facultad del SERNAC de llevar a cabo mediaciones colectivas con anterioridad al ejercicio de las acciones judiciales, regulando su procedencia, su plazo de duración, su publicidad a fin de que los consumidores afectados o las Asociaciones de Consumidores puedan efectuar observaciones y sugerir ajustes en las soluciones propuestas, y sus efectos en el caso en que se arribe a un acuerdo que solucione el conflicto. Sin embargo no hay modificaciones a los procesos de juicios colectivos.",
+                    "jn_porque": ""
                 }
             ]
         },
@@ -438,7 +484,9 @@
                     "total_urgencias": "0",
                     "avance_total": "70%",
                     "coherencia": "4",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "",
+                    "jn_porque": ""
                 },
                 {
                     "id": "20",
@@ -455,7 +503,9 @@
                     "total_urgencias": "0",
                     "avance_total": "70%",
                     "coherencia": "4",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "La iniciativa propone establecer un régimen de dedicación exclusiva para los integrantes titulares del Tribunal. En consecuencia, los ministros no podrán prestar servicios de ningún tipo a personas naturales o jurídicas, o ejercer en cualquier forma aquellas actividades propias del título o calidad profesional que poseen. No se contemplan normas relativas a la compensación por el cese en el cargo.",
+                    "jn_porque": ""
                 },
                 {
                     "id": "31",
@@ -472,7 +522,9 @@
                     "total_urgencias": "0",
                     "avance_total": "70%",
                     "coherencia": "4",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "El proyecto cambia el tope máximo de las sanciones por el doble del beneficio ecónomico reportado por la infracción, o hasta por el 30% de las ventas del infractor correspondientes a la línea de productos y, o servicios asociada a la infracción durante el período por el cual ésta se haya extendido; se introduce las limitaciones para los involucrados sobre la prohibición de contratacion en los organismos centralizados y descentralidos, organismos, empresas o servicios que el estado efectúe aportes, congreso y poder judicial durante 5 años. No existe sanción adicional para las empresas involucradas para evitar su participación en las licitaciones del Estado.",
+                    "jn_porque": ""
                 },
                 {
                     "id": "43",
@@ -482,7 +534,9 @@
                     "total_urgencias": "0",
                     "avance_total": "0%",
                     "coherencia": "1",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "Efectivamente se refuerzan las normas contra la colusión, además de asignar una pena para los carletes más gravosos, incluyendo pena de reclusión  mayor en su grado minimo para quienes se agrupen para lograr un mayor poder de mercado.",
+                    "jn_porque": ""
                 },
                 {
                     "id": "44",
@@ -499,7 +553,9 @@
                     "total_urgencias": "0",
                     "avance_total": "40%",
                     "coherencia": "4",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "Se establece que la FNE debe realizar un control preventivo y obligatorio de operaciones de concentración, las que deberán ser desechadas si significan una disminución significativa de la competencia.",
+                    "jn_porque": ""
                 },
                 {
                     "id": "45",
@@ -516,7 +572,9 @@
                     "total_urgencias": "7",
                     "avance_total": "100%",
                     "coherencia": "3",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "FNE podrá recabar información tanto de particulares como de instituciones públicas. Además, podrá emitir advertencias a empresas en el contexto del control de operaciones de fusiones y concentraciones. Por otra parte, se contempla el aumento de los recursos humanos y financieros de la FNE. Sin embargo, no se establecen plazos más acotados de para las investigaciones, aunque sí se incorpora un estatuto de garantías para los investigados.",
+                    "jn_porque": ""
                 },
                 {
                     "id": "46",
@@ -533,7 +591,9 @@
                     "total_urgencias": "45",
                     "avance_total": "70%",
                     "coherencia": "4",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "Se le otorgan facultades de fiscalización a la SBIF sobre ciertas cooperativas",
+                    "jn_porque": ""
                 },
                 {
                     "id": "47",
@@ -550,7 +610,9 @@
                     "total_urgencias": "45",
                     "avance_total": "70%",
                     "coherencia": "3",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "",
+                    "jn_porque": ""
                 },
                 {
                     "id": "48",
@@ -560,7 +622,9 @@
                     "total_urgencias": "0",
                     "avance_total": "0%",
                     "coherencia": "1",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "Modificaciones en materia de funciones  del Sernapesca. Aumento de dotacion en 20 cupos para el efectivo cumplimiento de las funciones de Sernapesca, nuevas facultades para el monitoreo, control y vigilancia además de la creación de de nuevas obligaciones para los agentes de actividades pesqueras, nuevas infracciones y delitos.",
+                    "jn_porque": ""
                 },
                 {
                     "id": "49",
@@ -577,7 +641,9 @@
                     "total_urgencias": "34",
                     "avance_total": "100%",
                     "coherencia": "3",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "",
+                    "jn_porque": ""
                 },
                 {
                     "id": "50",
@@ -594,7 +660,9 @@
                     "total_urgencias": "34",
                     "avance_total": "100%",
                     "coherencia": "3",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "El proyecto crea el INDESPA con presencia en cada región y cuyo objeto será la facilitación del acceso al crédito, la asistencia técnica y capacitación a los beneficiarios en todo el país, el financiamiento de aportes no reembolsables, así como también aquellos destinados a atender situaciones de catástrofe.",
+                    "jn_porque": ""
                 },
                 {
                     "id": "51",
@@ -611,7 +679,9 @@
                     "total_urgencias": "34",
                     "avance_total": "100%",
                     "coherencia": "4",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "",
+                    "jn_porque": ""
                 },
                 {
                     "id": "52",
@@ -628,7 +698,9 @@
                     "total_urgencias": "34",
                     "avance_total": "100%",
                     "coherencia": "4",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "",
+                    "jn_porque": ""
                 },
                 {
                     "id": "53",
@@ -645,7 +717,9 @@
                     "total_urgencias": "34",
                     "avance_total": "100%",
                     "coherencia": "3",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "",
+                    "jn_porque": ""
                 },
                 {
                     "id": "54",
@@ -662,7 +736,9 @@
                     "total_urgencias": "18",
                     "avance_total": "100%",
                     "coherencia": "2",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "Rendir la evaluación diagnóstica será un requisito de titulación para el estudiante",
+                    "jn_porque": ""
                 },
                 {
                     "id": "55",
@@ -672,7 +748,9 @@
                     "total_urgencias": "0",
                     "avance_total": "0%",
                     "coherencia": "1",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "",
+                    "jn_porque": ""
                 },
                 {
                     "id": "142",
@@ -689,7 +767,9 @@
                     "total_urgencias": "15",
                     "avance_total": "70%",
                     "coherencia": "4",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "El proyecto fue aprobado y su implementación ya comenzó, creándose tanto la Subsecretaría de Educación Parvularia como la intendencia respectiva asegurándose una institucionalidad mínima y especializada para hacerse cargo de este nivel estratégico para el desarrollo humano de Chile (Información entregada por Educación 2020). ",
+                    "jn_porque": ""
                 },
                 {
                     "id": "143",
@@ -699,7 +779,9 @@
                     "total_urgencias": "0",
                     "avance_total": "0%",
                     "coherencia": "1",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "La ley que pone fin al lucro, el copago y la selección transforma en gratuitos a los colegios particulares subvencionados que antes cobraban un co-pago para complementar la subvención estatal. El final del financiamiento compartido llegará una vez que se haya reemplazado el monto del co-pago con el del aporte por gratuidad (Información entregada por Educación 2020).",
+                    "jn_porque": ""
                 },
                 {
                     "id": "144",
@@ -716,7 +798,9 @@
                     "total_urgencias": "21",
                     "avance_total": "70%",
                     "coherencia": "4",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "La ley que pone fin al lucro, el copago y la selección transforma en gratuitos a los colegios particulares subvencionados que antes cobraban un co-pago para complementar la subvención estatal. El final del financiamiento compartido llegará una vez que se haya reemplazado el monto del co-pago con el del aporte por gratuidad (Información entregada por Educación 2020).",
+                    "jn_porque": ""
                 },
                 {
                     "id": "145",
@@ -726,7 +810,9 @@
                     "total_urgencias": "0",
                     "avance_total": "0%",
                     "coherencia": "1",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "Como parte del compromiso de este gobierno, la ley que pone fin al co-pago, el lucro y la selección en la educación particular subvencionada, entró en vigencia el día 01 de marzo del año 2016, iniciando una implementación gradual para los procesos de selección a los establecimientos. Es así como la primera región que ingresó al nuevo régimen de postulación en 2016 fue la región de Magallanes. El año 2017 corresponderá la entrada de las regiones de Coquimbo, Tarapacá, del Libertador General Bernardo O'Higgins y Los Lagos (DFL N° 1 de 2016). El fin de la selección ha tenido críticas que se deben atender en materia de funcionamiento del sistema, esto porque el 13,7% fue asignado por el sistema a algún establecimiento que no habían seleccionado dentro de su listado al momento de postular, lo que puede generar problemas a los estudiantes y sus familias (Información entregada por Educación 2020).\n",
+                    "jn_porque": ""
                 },
                 {
                     "id": "146",
@@ -736,7 +822,9 @@
                     "total_urgencias": "0",
                     "avance_total": "0%",
                     "coherencia": "1",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "El gobierno ingresó a tramitación el proyecto respectivo para hacerse cargo de la desmunicipalización de la educación pública, sin embargo el avance del proyecto no ha estado exento de obstaculos. Fue aprobado por la Cámara de diputados y se encuentra en el Senado a la espera de ser discutido en particular  (Información entregada por Educación 2020). ",
+                    "jn_porque": ""
                 },
                 {
                     "id": "147",
@@ -746,7 +834,9 @@
                     "total_urgencias": "0",
                     "avance_total": "0%",
                     "coherencia": "1",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "La ley que crea el Sistema de Desarrollo Profesional Docente se encuentra en fase de implementación, ya el año 2017 se aumentan los requisitos académicos de entrada a las carreras de pedagogía, comienzan los procesos de inducción de profesores noveles y se aumentan las horas no lectivas a un 30% de las horas de trabajo de los docentes, además  las evaluaciones que permiten encasillar a los y las profesoras dentro de la carrera docente ya comenzó el año pasado y los resultados serán informados por la subsecretaría de educación antes del 30 de junio del presente año.  Nos parece insuficiente el avance de las horas no lectivas así como el mecanismo que la ley establece para que eso ocurra. La posibilidad de contar con tiempo para la preparación de clases entre otras actividades relacionadas con mejorar el desempeño profesional del docente, es una parte vital para mejorar el proceso de enseñanza y aprendizaje en el aula (Información entregada por Educación 2020). ",
+                    "jn_porque": ""
                 }
             ]
         },
@@ -776,7 +866,9 @@
                     "total_urgencias": "0",
                     "avance_total": "100%",
                     "coherencia": "4",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "Si bien el gobierno presentó un proyecto de reforma a la educación superior que contiene la formula para la expansión de la gratuidad hasta volverse universal, lo cierto es que dicho proyecto aún no ha sido aprobado y la gratuidad ha sido implementada a través de leyes transitorias que asignan recursos para el sector público y se tramitan año a año. Una vez aprobado el proyecto, se espera que la ampliación de cobertura en los decils beneficiados no dependa de la voluntad del gobierno de turno sino que sea un proceso mandatado por una ley de carácter permanente. La promesa de lograr la gratuidad universal en 6 años no puede considerarse cumplida porque se ha condicionado su expansión al cumplimiento de condiciones macroeconómicas relacionadas a ingresos fiscales. Con esto, la gratuidad universal se estaría cumpliendo posterior a los 6 años prometidos por el gobierno (Información entregada por Educación 2020).\n\n",
+                    "jn_porque": ""
                 },
                 {
                     "id": "56",
@@ -786,7 +878,9 @@
                     "total_urgencias": "0",
                     "avance_total": "0%",
                     "coherencia": "1",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "Debido a que su creación depende de un proyecto que aún se encuentra en su primer trámite constitucional, todavía queda un largo camino para poder considerar como cumplido el compromiso  (Información entregada por Educación 2020).",
+                    "jn_porque": ""
                 },
                 {
                     "id": "57",
@@ -803,7 +897,9 @@
                     "total_urgencias": "15",
                     "avance_total": "100%",
                     "coherencia": "4",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "Debido a que su creación depende de un proyecto que aún se encuentra en su primer trámite constitucional, todavía queda un largo camino para poder considerar como cumplido el compromiso  (Información entregada por Educación 2020).",
+                    "jn_porque": ""
                 },
                 {
                     "id": "58",
@@ -820,7 +916,9 @@
                     "total_urgencias": "14",
                     "avance_total": "100%",
                     "coherencia": "4",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "Debido a que su creación depende de un proyecto que aún se encuentra en su primer trámite constitucional, todavía queda un largo camino para poder considerar como cumplido el compromiso  (Información entregada por Educación 2020).",
+                    "jn_porque": ""
                 },
                 {
                     "id": "59",
@@ -837,7 +935,9 @@
                     "total_urgencias": "14",
                     "avance_total": "100%",
                     "coherencia": "4",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "Este compromiso ya es ley de la república desde el día 26 de diciembre de 2014, siendo una de las primeras leyes de la reforma en ser aprobadas y hemos podido verla en operación como ejemplo en el caso de la Universidad Arcis (Información entregada por Educación 2020).",
+                    "jn_porque": ""
                 },
                 {
                     "id": "60",
@@ -854,7 +954,9 @@
                     "total_urgencias": "14",
                     "avance_total": "100%",
                     "coherencia": "4",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "Debido a que su creación depende de un proyecto que aún se encuentra en su primer trámite constitucional, todavía queda un largo camino para poder considerar como cumplido el compromiso  (Información entregada por Educación 2020).",
+                    "jn_porque": ""
                 },
                 {
                     "id": "61",
@@ -871,7 +973,9 @@
                     "total_urgencias": "21",
                     "avance_total": "70%",
                     "coherencia": "3",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "Compromiso legislado y en plena implementación. Para el año 2017 la Universidad de O´Higgins recibió a 3.268 postulantes a las 10 carreras que ofrece. Por su parte la Universidad de Aysen tuvo un número menor de postulantes pero se encuentra funcionando según lo proyectado  (Información entregada por Educación 2020). ",
+                    "jn_porque": ""
                 },
                 {
                     "id": "62",
@@ -888,7 +992,9 @@
                     "total_urgencias": "10",
                     "avance_total": "100%",
                     "coherencia": "3",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "El proyecto de ley fue aprobado y ya se encuentra en su etapa de implementación  (Información entregada por Educación 2020). ",
+                    "jn_porque": ""
                 },
                 {
                     "id": "63",
@@ -905,7 +1011,9 @@
                     "total_urgencias": "8",
                     "avance_total": "40%",
                     "coherencia": "2",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "Ley aumenta crea las secreatarías regionales y crea más cargos de planta.",
+                    "jn_porque": ""
                 },
                 {
                     "id": "64",
@@ -922,7 +1030,9 @@
                     "total_urgencias": "8",
                     "avance_total": "40%",
                     "coherencia": "3",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "El proyecto propone que las licitaciones de suministro eléctrico constituyan un mecanismo que garantice el suministro contratado de clientes regulados a precios competitivos, asegurando condiciones de eficiencia económica, competencia, seguridad y diversificación del sistema eléctrico, conforme la ley.",
+                    "jn_porque": ""
                 },
                 {
                     "id": "65",
@@ -939,7 +1049,9 @@
                     "total_urgencias": "8",
                     "avance_total": "40%",
                     "coherencia": "3",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "",
+                    "jn_porque": ""
                 },
                 {
                     "id": "66",
@@ -956,7 +1068,9 @@
                     "total_urgencias": "8",
                     "avance_total": "40%",
                     "coherencia": "3",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "El proyecto permite la licitación de bloques horarios lo que facilita la participación de generadores de energía solar, pero no se establecen mecanismos que faciliten la participación de otras fuentes de ERNC. Ver Ley 20.805 (http://www.leychile.cl/Navegar?idLey=20805&tipoVersion=0)",
+                    "jn_porque": ""
                 },
                 {
                     "id": "67",
@@ -973,7 +1087,9 @@
                     "total_urgencias": "13",
                     "avance_total": "100%",
                     "coherencia": "4",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "Proyecto de ley capitaliza ENAP por un monto de 400 millones de USD y moderniza su gobierno corporativo de acuerdo a estándares internacionales y a las normas vigentes en el país para otro tipo de sociedades.",
+                    "jn_porque": ""
                 },
                 {
                     "id": "68",
@@ -990,7 +1106,9 @@
                     "total_urgencias": "8",
                     "avance_total": "40%",
                     "coherencia": "2",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "Se clarifican las facultades normativas de la CNE y se aumenta su dotación de personal. Además, se eliminan las ambigüedades de los espacios de regulación entre la Comisión, el Panel de Expertos y el Coordinador estableciéndose claramente la delimitación de facultades y prelación de los actos de cada organismo.",
+                    "jn_porque": ""
                 },
                 {
                     "id": "69",
@@ -1007,7 +1125,9 @@
                     "total_urgencias": "13",
                     "avance_total": "100%",
                     "coherencia": "4",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "",
+                    "jn_porque": ""
                 },
                 {
                     "id": "70",
@@ -1024,7 +1144,9 @@
                     "total_urgencias": "30",
                     "avance_total": "100%",
                     "coherencia": "4",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "Proyecto crea un organismo independiente, sin fines de lucro, ad hoc y dotado de personalidad jurídica propia para efectos de realizar la función de coordinación del sistema y reemplaza los actuales CDEC",
+                    "jn_porque": ""
                 }
             ]
         },
@@ -1054,7 +1176,9 @@
                     "total_urgencias": "0",
                     "avance_total": "100%",
                     "coherencia": "4",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "Créase el Fondo para la Equidad de Género, administrado por el Servicio Nacional de la Mujer y la Equidad de Género, con el objeto de contribuir al financiamiento de proyectos nacionales, regionales o locales, de programas y actividades de educación y difusión, destinados a fortalecer la participación, asociatividad y liderazgo de las mujeres, en el marco de la equidad de género y los derechos humanos de las mismas",
+                    "jn_porque": ""
                 },
                 {
                     "id": "72",
@@ -1077,7 +1201,9 @@
                     "total_urgencias": "7",
                     "avance_total": "100%",
                     "coherencia": "2,5",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "La promesa cuenta con 2 proyectos de ley asociados que están totalemente tramitados y son ley de la República. El avance total de la promesa es el promedio dle avance de esos proyectos.",
+                    "ja_porque": "Ver ley 20.820: http://www.leychile.cl/Navegar?idLey=20820&tipoVersion=0",
+                    "jn_porque": "La promesa cuenta con 2 proyectos de ley asociados que están totalemente tramitados y son ley de la República. El avance total de la promesa es el promedio dle avance de esos proyectos."
                 },
                 {
                     "id": "73",
@@ -1094,7 +1220,9 @@
                     "total_urgencias": "7",
                     "avance_total": "100%",
                     "coherencia": "2",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "Establece modificaciones a la Ley de Violencia intrafamiliar, modifica el Código Penal con el fin de subsanar las deficiniencias en la actual tificación del delito de femicidio. Se regula como falta el acoso sexual sin contacto corporal.",
+                    "jn_porque": ""
                 },
                 {
                     "id": "75",
@@ -1111,7 +1239,9 @@
                     "total_urgencias": "17",
                     "avance_total": "70%",
                     "coherencia": "4",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "",
+                    "jn_porque": ""
                 },
                 {
                     "id": "76",
@@ -1134,7 +1264,9 @@
                     "total_urgencias": "19",
                     "avance_total": "100%",
                     "coherencia": "2,5",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "La promesa cuenta con 2 proyectos de ley asociados que están totalemente tramitados y son ley de la República. El avance total de la promesa es el promedio dle avance de esos proyectos.",
+                    "ja_porque": "Se establece una cuota de género, requiriendo a cada partido político, integre o no un pacto, que su nómina total de postulantes a la Cámara y al Senado cumpla el requisito de que ningún género esté representado por sobre 3/5 ni por debajo de los 2/5 del total. Complementariamente, establece un mayor aporte fiscal para los partidos en función del número de mujeres que elijan, tanto a la Cámara de Diputados como al Senado, ello para alentarlos a presentar candidatas. No se establecen estas medidas para otros órganos o instituciones además del Congreso Nacional.",
+                    "jn_porque": "La promesa cuenta con 2 proyectos de ley asociados que están totalemente tramitados y son ley de la República. El avance total de la promesa es el promedio dle avance de esos proyectos."
                 },
                 {
                     "id": "77",
@@ -1151,7 +1283,9 @@
                     "total_urgencias": "19",
                     "avance_total": "100%",
                     "coherencia": "4",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "La indicación sustitutiva del Gobierno establece un procedimiento para transferir competencias del Gobierno central a los regionales  en ordenamiento territorial, fomento de las actividades productivas y desarrollo social y cultural.",
+                    "jn_porque": ""
                 }
             ]
         },
@@ -1181,7 +1315,9 @@
                     "total_urgencias": "0",
                     "avance_total": "100%",
                     "coherencia": "4",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "El proyecto de ley contempla mecanismos de colaboración entre los nuevos gobiernos regionales y las municipalidades como convenios por proyectos que pueden implicar inversión de presupuesto en las comunas.",
+                    "jn_porque": ""
                 },
                 {
                     "id": "78",
@@ -1198,7 +1334,9 @@
                     "total_urgencias": "20",
                     "avance_total": "100%",
                     "coherencia": "4",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "",
+                    "jn_porque": ""
                 },
                 {
                     "id": "79",
@@ -1215,7 +1353,9 @@
                     "total_urgencias": "15",
                     "avance_total": "70%",
                     "coherencia": "4",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "",
+                    "jn_porque": ""
                 },
                 {
                     "id": "80",
@@ -1232,7 +1372,9 @@
                     "total_urgencias": "0",
                     "avance_total": "40%",
                     "coherencia": "4",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "El proyecto integra diversos servicios públicos al Sistema de Alta Dirección Pública, tanto en sus cargos de jefatura superior del servicio como en las direcciones regionales.",
+                    "jn_porque": ""
                 },
                 {
                     "id": "81",
@@ -1242,7 +1384,9 @@
                     "total_urgencias": "0",
                     "avance_total": "0%",
                     "coherencia": "1",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "Para el fortalecimiento de los procesos de negocio asociados a las concesiones, se plantea que la institucionalidad orgánica recoja las buenas prácticas y procesos de la experiencia de la Coordinación de Concesiones de Obras Públicas, alojando en la DGCOP las funciones y atribuciones que permitan desarrollar todo el proceso de la infraestructura concesionada.",
+                    "jn_porque": ""
                 },
                 {
                     "id": "82",
@@ -1265,7 +1409,9 @@
                     "total_urgencias": "19",
                     "avance_total": "100%",
                     "coherencia": "3",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "La promesa cuenta con 2 proyectos de ley asociados que están totalemente tramitados y son ley de la República. El avance total de la promesa es el promedio dle avance de esos proyectos.",
+                    "ja_porque": "",
+                    "jn_porque": "La promesa cuenta con 2 proyectos de ley asociados que están totalemente tramitados y son ley de la República. El avance total de la promesa es el promedio dle avance de esos proyectos."
                 }
             ]
         },
@@ -1295,7 +1441,9 @@
                     "total_urgencias": "14",
                     "avance_total": "70%",
                     "coherencia": "4",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "fortalecimiento de la dirección nacional del servicio civil, además de la inclusión de nuevos servicios y la regulación de los altos cargos y del resto de los funcionarios entre otras modificiaciones.",
+                    "jn_porque": ""
                 },
                 {
                     "id": "35",
@@ -1312,7 +1460,9 @@
                     "total_urgencias": "14",
                     "avance_total": "70%",
                     "coherencia": "4",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "Ley de Probidad en la Función Pública 20.880: http://www.leychile.cl/Navegar?idNorma=1086062&idVersion=Diferido",
+                    "jn_porque": ""
                 },
                 {
                     "id": "36",
@@ -1322,7 +1472,9 @@
                     "total_urgencias": "0",
                     "avance_total": "0%",
                     "coherencia": "1",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "Proyecto de ley establece que ex autoridades y funcionarios de las entidades fiscalizadoras quedarán inhabilitados, por un plazo de seis meses, de prestar servicios o participar en la propiedad de las entidades fiscalizadas, sólo si intervinieron directa y personalmente en decisiones que las afectaron, dentro de los doce meses anteriores al cese de funciones. También estarán inhabilitados a prestar servicios de cualquier tipo o participar en la propiedad de las entidades fiscalizadas durante un plazo de tres meses. Tendrán prohibido desarrollar actividades de lobby a favor de las entidades sujetas a fiscalización del órgano en que se desempeñaban, por el plazo de dos años. La infracción a dichas normas se sancionan con multas.",
+                    "jn_porque": ""
                 },
                 {
                     "id": "37",
@@ -1332,7 +1484,9 @@
                     "total_urgencias": "0",
                     "avance_total": "0%",
                     "coherencia": "1",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "Ley de Probidad en la Función Pública 20.880: http://www.leychile.cl/Navegar?idNorma=1086062&idVersion=Diferido",
+                    "jn_porque": ""
                 },
                 {
                     "id": "38",
@@ -1349,7 +1503,9 @@
                     "total_urgencias": "16",
                     "avance_total": "100%",
                     "coherencia": "4",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "",
+                    "jn_porque": ""
                 },
                 {
                     "id": "122",
@@ -1366,7 +1522,9 @@
                     "total_urgencias": "6",
                     "avance_total": "40%",
                     "coherencia": "4",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "Se propone en el proyecto de ley la modernización del INE a través del de la creación de una nueva institucionalidad orgánica del Instituto Nacional de Estadistica, destacando las siguientes caracteristicas: sea un Organismo técnico, independiente y descentralizado, con personalidad jurídica y patrimonio propio. Adémas de agregar nuevas funciones al instituto y la creación de un Consejo Estadístico Nacional.\n",
+                    "jn_porque": ""
                 },
                 {
                     "id": "123",
@@ -1376,7 +1534,9 @@
                     "total_urgencias": "0",
                     "avance_total": "0%",
                     "coherencia": "1",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "",
+                    "jn_porque": ""
                 },
                 {
                     "id": "124",
@@ -1386,7 +1546,9 @@
                     "total_urgencias": "0",
                     "avance_total": "0%",
                     "coherencia": "1",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "",
+                    "jn_porque": ""
                 },
                 {
                     "id": "125",
@@ -1403,7 +1565,9 @@
                     "total_urgencias": "16",
                     "avance_total": "100%",
                     "coherencia": "4",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "",
+                    "jn_porque": ""
                 },
                 {
                     "id": "126",
@@ -1420,7 +1584,9 @@
                     "total_urgencias": "61",
                     "avance_total": "100%",
                     "coherencia": "4",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "",
+                    "jn_porque": ""
                 },
                 {
                     "id": "127",
@@ -1437,7 +1603,9 @@
                     "total_urgencias": "12",
                     "avance_total": "40%",
                     "coherencia": "4",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "",
+                    "jn_porque": ""
                 },
                 {
                     "id": "128",
@@ -1454,7 +1622,9 @@
                     "total_urgencias": "61",
                     "avance_total": "100%",
                     "coherencia": "4",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "Se dispone que se facultará a las municipalidades para que cada 10 años, a propuesta de los Alcaldes, con acuerdo de 2/3 de los integrantes en ejercicio del concejo y dentro de sus disponibilidades presupuestarias; fijen o modifiquen su respectiva planta. El proyecto no entrega mayores facultades al Consejo Municipal.",
+                    "jn_porque": ""
                 },
                 {
                     "id": "129",
@@ -1464,7 +1634,9 @@
                     "total_urgencias": "0",
                     "avance_total": "0%",
                     "coherencia": "1",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "La iniciativa posibilita el aumento de las plantas municipales de la actual dotación, con especial focalización en cargos de profesionales y técnicos. Así, faculta a que sean las propias municipalidades las que determinen sus plantas de personal. Se dispone que se facultará a las municipalidades para que cada 10 años, a propuesta de los Alcaldes, con acuerdo de 2/3 de los integrantes en ejercicio del concejo y dentro de sus disponibilidades presupuestarias; fijen o modifiquen su respectiva planta.",
+                    "jn_porque": ""
                 },
                 {
                     "id": "130",
@@ -1481,7 +1653,9 @@
                     "total_urgencias": "0",
                     "avance_total": "40%",
                     "coherencia": "4",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "",
+                    "jn_porque": ""
                 },
                 {
                     "id": "131",
@@ -1491,7 +1665,9 @@
                     "total_urgencias": "0",
                     "avance_total": "0%",
                     "coherencia": "1",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "",
+                    "jn_porque": ""
                 },
                 {
                     "id": "132",
@@ -1501,7 +1677,9 @@
                     "total_urgencias": "0",
                     "avance_total": "0%",
                     "coherencia": "1",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "",
+                    "jn_porque": ""
                 },
                 {
                     "id": "133",
@@ -1511,7 +1689,9 @@
                     "total_urgencias": "0",
                     "avance_total": "0%",
                     "coherencia": "1",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "Ley busca proteger integralmente los derechos de los niños reconocidos por al constitución tales como provición de servicios y ley de garantías aunque se centra únicamente en los niños sin incluir a los adolescentes de manera explicita",
+                    "jn_porque": ""
                 },
                 {
                     "id": "134",
@@ -1521,7 +1701,9 @@
                     "total_urgencias": "0",
                     "avance_total": "0%",
                     "coherencia": "1",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "",
+                    "jn_porque": ""
                 },
                 {
                     "id": "136",
@@ -1531,7 +1713,9 @@
                     "total_urgencias": "0",
                     "avance_total": "0%",
                     "coherencia": "1",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "Se presentan indicaciones al proyecto donde se establece que la adopción tiene por objeto velar por el interés superior del adoptado, y amparar su derecho a vivir y desarrollarse en el seno de una familia que le brinde el afecto y le procure los cuidados tendientes a satisfacer sus necesidades espirituales y materiales, cuando ello no le pueda ser proporcionado por su familia de origen.",
+                    "jn_porque": ""
                 },
                 {
                     "id": "137",
@@ -1548,7 +1732,9 @@
                     "total_urgencias": "17",
                     "avance_total": "100%",
                     "coherencia": "2",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "",
+                    "jn_porque": ""
                 },
                 {
                     "id": "138",
@@ -1565,7 +1751,9 @@
                     "total_urgencias": "17",
                     "avance_total": "100%",
                     "coherencia": "3",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "El proyecto incorpora un nuevo inciso final al numeral 3° del artículo 19 de la Constitución, que establece que los crímenes y delitos que conforme al derecho nacional o internacional sean calificables de genocidio, lesa humanidad o guerra, no serán susceptibles de amnistía o prescripción –total o parcial- , con independencia de la fecha en que ellas se hubieren cometido, adaptando con ello la legislación chilena a las exigencias del Derecho Internacional sobre la materia. Sin embargo no señala nada sobre la interpretación de las normas de acuerdo a los tratados internacionales",
+                    "jn_porque": ""
                 },
                 {
                     "id": "139",
@@ -1575,7 +1763,9 @@
                     "total_urgencias": "0",
                     "avance_total": "0%",
                     "coherencia": "1",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "Establece que los crímenes y delitos de guerra, lesa humanidad y genocidio, cualquiera sea la fecha en que se hayan cometido, son imprescritpibles e inamnistiables, como también que no se podrá conceder indulto o cualquier otro beneficio alternativo que implique la reducción o sustitución de las condenas privativas de libertad a los autores de estos crímenes y delitos. ",
+                    "jn_porque": ""
                 },
                 {
                     "id": "140",
@@ -1585,7 +1775,9 @@
                     "total_urgencias": "0",
                     "avance_total": "0%",
                     "coherencia": "1",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "Establece que no se podrán aplicar las normas sobre amnistía o prescripción cuando según las reglas del derecho internacional se refiera a hechos que configuren delitos de genocidio o crímenes de lesa humanidad o de guerra, así como la inaplicabilidad de la denominada prescripción gradual de la pena o media prescripción.",
+                    "jn_porque": ""
                 },
                 {
                     "id": "141",
@@ -1595,7 +1787,9 @@
                     "total_urgencias": "0",
                     "avance_total": "0%",
                     "coherencia": "1",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "Califica a los crímenes de guerra y de lesa humanidad entre los delitos de derecho internacional más graves y expresa el principio de la imprescriptibilidad de estos crímenes y, asimismo, asegura su aplicación universal.",
+                    "jn_porque": ""
                 }
             ]
         },
@@ -1625,7 +1819,9 @@
                     "total_urgencias": "27",
                     "avance_total": "40%",
                     "coherencia": "3",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "Declara nulo el DL de amnistía y establece que son imprescritibles e inamnistiables los delitos calificados como crímenes de guerra o crímenes de lesa humanidad, de conformidad a los Tratados Internacionales ratificados por Chile y que se encuentran vigentes, así como por los Principios Generales del Derecho Internacional.",
+                    "jn_porque": ""
                 },
                 {
                     "id": "90",
@@ -1635,7 +1831,9 @@
                     "total_urgencias": "0",
                     "avance_total": "0%",
                     "coherencia": "1",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "Ver ley 20.885 en: http://www.leychile.cl/Navegar?idLey=20885&tipoVersion=0 crea subsecretaría de derechos humanos",
+                    "jn_porque": ""
                 },
                 {
                     "id": "92",
@@ -1652,7 +1850,9 @@
                     "total_urgencias": "6",
                     "avance_total": "40%",
                     "coherencia": "4",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "Establece que todos los órganos del Estado deberán velar por que los registros que estén a su cargo reconozcan y expresen como víctimas de desaparición forzada a las personas detenidas desaparecidas cuyos nombres aparecen incluidos en los informes de las comisiones creadas en la búsqueda de verdad y justicia y que dichos registros deberán actualizarse dentro de un año.",
+                    "jn_porque": ""
                 },
                 {
                     "id": "95",
@@ -1662,7 +1862,9 @@
                     "total_urgencias": "0",
                     "avance_total": "0%",
                     "coherencia": "1",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "Proyecto de ley que tiene por objeto establecer un aporte único, de carácter reparatorio a todas y todos  los  calificados como víctimas de prisión política y tortura reconocidos por la Comisión Nacional sobre Prisión Política y Tortura, y la Comisión Asesora para la calificación de Detenidos Desaparecidos, Ejecutados Políticos y víctimas de Prisión Política y Tortura, incluyendo a las cónyuges sobrevivientes",
+                    "jn_porque": ""
                 }
             ]
         },
@@ -1692,7 +1894,9 @@
                     "total_urgencias": "28",
                     "avance_total": "40%",
                     "coherencia": "3",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "",
+                    "jn_porque": ""
                 },
                 {
                     "id": "28",
@@ -1727,7 +1931,9 @@
                     "total_urgencias": "26",
                     "avance_total": "55%",
                     "coherencia": "4",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "La promesa cuenta con 4 proyectos de ley asociados en distintos trámtes consitucionales, el avance total de la promesa es el promedio dle avance de esos proyectos. 2 se encuentran en segundo trámite constitucional, otros 2 en primer trámite constitucional.",
+                    "ja_porque": "",
+                    "jn_porque": "La promesa cuenta con 4 proyectos de ley asociados en distintos trámtes consitucionales, el avance total de la promesa es el promedio dle avance de esos proyectos. 2 se encuentran en segundo trámite constitucional, otros 2 en primer trámite constitucional."
                 },
                 {
                     "id": "29",
@@ -1744,7 +1950,9 @@
                     "total_urgencias": "21",
                     "avance_total": "100%",
                     "coherencia": "4",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "El proyecto crea un nuevo Código Procesal Civil consagrando el acceso ciudadano a un sistema procesal civil moderno ",
+                    "jn_porque": ""
                 },
                 {
                     "id": "30",
@@ -1767,7 +1975,9 @@
                     "total_urgencias": "0",
                     "avance_total": "70%",
                     "coherencia": "4",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "La promesa cuenta con 2 proyectos de ley asociados en distintos trámtes consitucionales. El avance total de la promesa es el promedio dle avance de esos proyectos. Uno se encuentra en primer trámite constitucional y el otro ya es ley de la República.",
+                    "ja_porque": "",
+                    "jn_porque": "La promesa cuenta con 2 proyectos de ley asociados en distintos trámtes consitucionales. El avance total de la promesa es el promedio dle avance de esos proyectos. Uno se encuentra en primer trámite constitucional y el otro ya es ley de la República."
                 },
                 {
                     "id": "32",
@@ -1777,7 +1987,9 @@
                     "total_urgencias": "0",
                     "avance_total": "0%",
                     "coherencia": "1",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "",
+                    "jn_porque": ""
                 },
                 {
                     "id": "87",
@@ -1787,7 +1999,9 @@
                     "total_urgencias": "0",
                     "avance_total": "0%",
                     "coherencia": "1",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "",
+                    "jn_porque": ""
                 },
                 {
                     "id": "88",
@@ -1804,7 +2018,9 @@
                     "total_urgencias": "31",
                     "avance_total": "40%",
                     "coherencia": "4",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "El proyecto tiene como objeto homologar, en la mayor cantidad de casos posibles, a los cónyuges con los convivientes civiles.",
+                    "jn_porque": ""
                 },
                 {
                     "id": "96",
@@ -1814,7 +2030,9 @@
                     "total_urgencias": "0",
                     "avance_total": "0%",
                     "coherencia": "1",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "",
+                    "jn_porque": ""
                 },
                 {
                     "id": "97",
@@ -1824,7 +2042,9 @@
                     "total_urgencias": "0",
                     "avance_total": "0%",
                     "coherencia": "1",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "",
+                    "jn_porque": ""
                 },
                 {
                     "id": "98",
@@ -1841,7 +2061,9 @@
                     "total_urgencias": "26",
                     "avance_total": "70%",
                     "coherencia": "4",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "El proyecto permite la provisión de defensa penal especializada de adolescentes, no obstante no hace referencia a la modificación del sistema judicial, de fiscales y de policía. Ver http://www.leychile.cl/Navegar?idLey=20802&tipoVersion=0",
+                    "jn_porque": ""
                 },
                 {
                     "id": "99",
@@ -1851,7 +2073,9 @@
                     "total_urgencias": "0",
                     "avance_total": "0%",
                     "coherencia": "1",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "",
+                    "jn_porque": ""
                 },
                 {
                     "id": "100",
@@ -1861,7 +2085,9 @@
                     "total_urgencias": "0",
                     "avance_total": "0%",
                     "coherencia": "1",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "El proyecto crea el Servicio de Biodiversidad y Áreas Protegidas con funciones tales como administrar el Sistema Nacional de Áreas Protegidas y elaborar y ejecutar estudios y programas de investigación, conducentes a conocer el estado de la biodiversidad, entre otras.",
+                    "jn_porque": ""
                 },
                 {
                     "id": "101",
@@ -1871,7 +2097,9 @@
                     "total_urgencias": "0",
                     "avance_total": "0%",
                     "coherencia": "1",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "",
+                    "jn_porque": ""
                 },
                 {
                     "id": "102",
@@ -1881,7 +2109,9 @@
                     "total_urgencias": "0",
                     "avance_total": "0%",
                     "coherencia": "1",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "Sanciona el transporte de deshechos hacia vertederos clandestinos, pero no constituye una ley integral en materia de deshechos. Ver ley 20.879: http://www.leychile.cl/Navegar?idLey=20879&tipoVersion=0",
+                    "jn_porque": ""
                 },
                 {
                     "id": "103",
@@ -1898,7 +2128,9 @@
                     "total_urgencias": "31",
                     "avance_total": "100%",
                     "coherencia": "4",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "El objetivo del proyecto es incentivar la prevención en la generación de residuos y fomentar su reutilización, reciclaje y otro tipo de valorización, a fin de proteger la salud de las personas y el medio ambiente.",
+                    "jn_porque": ""
                 },
                 {
                     "id": "104",
@@ -1908,7 +2140,9 @@
                     "total_urgencias": "0",
                     "avance_total": "0%",
                     "coherencia": "1",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "",
+                    "jn_porque": ""
                 },
                 {
                     "id": "105",
@@ -1918,7 +2152,9 @@
                     "total_urgencias": "0",
                     "avance_total": "0%",
                     "coherencia": "1",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "El proyecto perfecciona la forma de cálculo de la vida útil de los proyectos mineros y en relación al SERNAGEOMIN lo faculta para exigir la entrega de información geológica básica de carácter general y establece sanción de multa en caso de incumplimiento. No hay más normas relativas al fortalecimiento de dicho Servicio. Ver ley 20819: http://www.leychile.cl/Navegar?idLey=20819&tipoVersion=0",
+                    "jn_porque": ""
                 },
                 {
                     "id": "106",
@@ -1935,7 +2171,9 @@
                     "total_urgencias": "9",
                     "avance_total": "100%",
                     "coherencia": "2",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "Se propone establecer un Directorio orientado a una dirección, gestión y administración profesional de ENAMI, buscando proteger su doble rol de fomento y de actividad comercial. Proyecto fue retirado por el gobierno: Ver en https://www.camara.cl/pley/pley_detalle.aspx?prmID=11615&prmBoletin=11101-19",
+                    "jn_porque": ""
                 }
             ]
         },
@@ -1958,7 +2196,9 @@
                     "total_urgencias": "0",
                     "avance_total": "0%",
                     "coherencia": "1",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "",
+                    "jn_porque": ""
                 },
                 {
                     "id": "110",
@@ -1975,7 +2215,9 @@
                     "total_urgencias": "24",
                     "avance_total": "40%",
                     "coherencia": "4",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "",
+                    "jn_porque": ""
                 },
                 {
                     "id": "111",
@@ -1985,7 +2227,9 @@
                     "total_urgencias": "0",
                     "avance_total": "0%",
                     "coherencia": "1",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "El proyecto contempla que se permita a la Administración limitar el ejercicio de los derechos de aprovechamiento en función del interés público, ya sea reduciéndolos temporalmente o redistribuyendo las aguas y establece el consumo humano y el saneamiento como usos prioritarios del agua, los que siempre prevalecerán en el otorgamiento como en la limitación del ejercicio del derecho de aprovechamiento",
+                    "jn_porque": ""
                 },
                 {
                     "id": "115",
@@ -2008,7 +2252,9 @@
                     "total_urgencias": "17",
                     "avance_total": "100%",
                     "coherencia": "3,5",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "La promesa cuenta con 2 proyectos de ley asociados que están totalemente tramitados y son ley de la República. El avance total de la promesa es el promedio dle avance de esos proyectos.",
+                    "ja_porque": "Se establece que las concesiones caducarán por el solo ministerio de la ley si no se hace un uso efectivo del recurso en un plazo de cuatro o de ocho años, según tengan el carácter de derechos consuntivos o no consuntivos.",
+                    "jn_porque": "La promesa cuenta con 2 proyectos de ley asociados que están totalemente tramitados y son ley de la República. El avance total de la promesa es el promedio dle avance de esos proyectos."
                 }
             ]
         },
@@ -2031,7 +2277,9 @@
                     "total_urgencias": "0",
                     "avance_total": "0%",
                     "coherencia": "1",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "Proyecto establece que los procesos de consulta serán financiados con cargo a los presupuestos vigentes de los servicios que correspondan. ",
+                    "jn_porque": ""
                 },
                 {
                     "id": "118",
@@ -2048,7 +2296,9 @@
                     "total_urgencias": "10",
                     "avance_total": "100%",
                     "coherencia": "2",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "",
+                    "jn_porque": ""
                 },
                 {
                     "id": "119",
@@ -2065,7 +2315,9 @@
                     "total_urgencias": "0",
                     "avance_total": "0%",
                     "coherencia": "1",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "",
+                    "jn_porque": ""
                 },
                 {
                     "id": "120",
@@ -2075,7 +2327,9 @@
                     "total_urgencias": "0",
                     "avance_total": "0%",
                     "coherencia": "1",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "",
+                    "jn_porque": ""
                 }
             ]
         },
@@ -2098,7 +2352,9 @@
                     "total_urgencias": "0",
                     "avance_total": "0%",
                     "coherencia": "1",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "Proyecto crea la Secretaría de Estado encargada de colaborar con el Presidente de la República, en el diseño, coordinación y evaluación de las políticas, planes y programas destinados a promover y fortalecer los derechos de los pueblos indígenas, su desarrollo económico social y cultural.",
+                    "jn_porque": ""
                 },
                 {
                     "id": "7",
@@ -2115,7 +2371,9 @@
                     "total_urgencias": "23",
                     "avance_total": "70%",
                     "coherencia": "4",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "Proyecto crear un Consejo Nacional de los Pueblos Indígenas y los Consejos de Pueblos,  para efectos de generar instancias de representación de los intereses, las necesidades y los derechos colectivos de los pueblos indígenas ante los organismos del Estado.",
+                    "jn_porque": ""
                 },
                 {
                     "id": "8",
@@ -2132,7 +2390,9 @@
                     "total_urgencias": "23",
                     "avance_total": "70%",
                     "coherencia": "4",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "El proyecto contempla medidas que constituyen incentivos que permitan atraer y retener a profesionales de la salud, especialmente médicos.",
+                    "jn_porque": ""
                 },
                 {
                     "id": "9",
@@ -2149,7 +2409,9 @@
                     "total_urgencias": "23",
                     "avance_total": "70%",
                     "coherencia": "4",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "Proyecto de ley tiene por objeto mejorar los estímulos que fortalezcan el proceso de ingreso y de formación en especialidades médicas y odontológicas, previo a su ingreso a la especialidad, para hacer más atractiva esta etapa de la vida profesional. Para lo anterior, se establecen  nuevos beneficios durante el desempeño de las becas de formación otorgadas tanto por el Ministerio de Salud, como por los Servicios de Salud",
+                    "jn_porque": ""
                 }
             ]
         },
@@ -2179,7 +2441,9 @@
                     "total_urgencias": "0",
                     "avance_total": "40%",
                     "coherencia": "4",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "",
+                    "jn_porque": ""
                 },
                 {
                     "id": "154",
@@ -2189,7 +2453,9 @@
                     "total_urgencias": "0",
                     "avance_total": "0%",
                     "coherencia": "1",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "El proyecto incorpora al Régimen General de Garantías en Salud el Sistema de Protección Financiera para Tratamientos de Alto Costo. Ver Ley: http://www.leychile.cl/Navegar?idLey=20850&tipoVersion=0",
+                    "jn_porque": ""
                 },
                 {
                     "id": "155",
@@ -2199,7 +2465,9 @@
                     "total_urgencias": "0",
                     "avance_total": "0%",
                     "coherencia": "1",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "El proyecto incrementa la dotación de la PDI en un poco más de 1.200 funcionarios",
+                    "jn_porque": ""
                 },
                 {
                     "id": "156",
@@ -2209,7 +2477,9 @@
                     "total_urgencias": "0",
                     "avance_total": "0%",
                     "coherencia": "1",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "El proyecto modifica las normas relativas a las sanciones mixtas con el objeto de restringir su campo de acción para el caso de délitos de alto impacto social, tales como robos, homicidios, delitos financieros y de trafico de estupefacientes, sin embargo no trata las reforma de las sanciones ni las medidas alternativas al proceso. Tampoco se refiere a la la efectividad de las mismas.",
+                    "jn_porque": ""
                 },
                 {
                     "id": "157",
@@ -2226,7 +2496,9 @@
                     "total_urgencias": "0",
                     "avance_total": "40%",
                     "coherencia": "4",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "",
+                    "jn_porque": ""
                 },
                 {
                     "id": "158",
@@ -2243,7 +2515,9 @@
                     "total_urgencias": "11",
                     "avance_total": "40%",
                     "coherencia": "4",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "El proyecto modifica nuestra legislación antiterrorista tomando en cuenta las recomendaciones realizadas por los informes de las organizaciones internacionales sobre el tema.",
+                    "jn_porque": ""
                 }
             ]
         },
@@ -2279,7 +2553,9 @@
                     "total_urgencias": "3",
                     "avance_total": "100%",
                     "coherencia": "4",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "La promesa cuenta con 2 proyectos de ley asociados que están totalemente tramitados y son ley de la República. El avance total de la promesa es el promedio dle avance de esos proyectos.",
+                    "ja_porque": "El proyecto busca fortalecer el rol Municipal en la seguridad pública, establecer un plan comunal de seguridad pública como instrumento de gestión comunal y la creación de los consejos comunales de seguridad pública.",
+                    "jn_porque": "La promesa cuenta con 2 proyectos de ley asociados que están totalemente tramitados y son ley de la República. El avance total de la promesa es el promedio dle avance de esos proyectos."
                 },
                 {
                     "id": "161",
@@ -2289,7 +2565,9 @@
                     "total_urgencias": "0",
                     "avance_total": "0%",
                     "coherencia": "1",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "",
+                    "jn_porque": ""
                 },
                 {
                     "id": "162",
@@ -2306,7 +2584,9 @@
                     "total_urgencias": "6",
                     "avance_total": "100%",
                     "coherencia": "4",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "Se establece la facultad del Ministerio para solicitar a las Fuerzas de Orden y Seguridad Pública, al menos semestralmente, informes, antecedentes y estadísticas tendientes a materializar una evaluación de las medidas y programas adoptados por dichas Fuerzas para una eficaz, racional y eficiente mantención del orden público. Sin embargo, faltan otras ramas de las policías.",
+                    "jn_porque": ""
                 }
             ]
         },
@@ -2336,7 +2616,9 @@
                     "total_urgencias": "0",
                     "avance_total": "100%",
                     "coherencia": "4",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "El proyecto crea la Fiscalía Especial de Alta Complejidad, dedicada a la investigación y persecución de cierto tipo de delitos cuya gravedad y significancia social requiere de una dedicación exclusiva y con personal especializado en la materia. Con esto también se pretende lograr una descongestión en el trabajo de las fiscalías locales. No realiza modificaciones a la Ley Orgánica del Ministerio Público.",
+                    "jn_porque": ""
                 },
                 {
                     "id": "135",
@@ -2353,7 +2635,9 @@
                     "total_urgencias": "39",
                     "avance_total": "100%",
                     "coherencia": "2",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "La indicación sustitutiva tiene por objeto el  fortalecimiento integral y modernización del Ministerio Público, potenciando tres áreas: 1) el desarrollo institucional; 2) la investigación y tramitación de causas menos complejas y complejas; 3) la atención de víctimas y testigos. Ver ley 20861: http://www.leychile.cl/Navegar?idLey=20861&tipoVersion=0",
+                    "jn_porque": ""
                 },
                 {
                     "id": "153",
@@ -2363,7 +2647,9 @@
                     "total_urgencias": "0",
                     "avance_total": "0%",
                     "coherencia": "1",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "",
+                    "jn_porque": ""
                 },
                 {
                     "id": "159",
@@ -2380,7 +2666,9 @@
                     "total_urgencias": "5",
                     "avance_total": "40%",
                     "coherencia": "4",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "Se otorgan facultades a la Presidenta para modificar la planta del Servicio Médico Legal y se concede un bono especial a ciertos funcionarios",
+                    "jn_porque": ""
                 },
                 {
                     "id": "163",
@@ -2397,7 +2685,9 @@
                     "total_urgencias": "32",
                     "avance_total": "100%",
                     "coherencia": "4",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "El proyecto de ley busca fortalecer el ISP mediante el otorgamiento al personal del Instituto de Salud Pública de una asignación de fortalecimiento de la autoridad sanitaria; el\tperfeccionamiento de la asignación de dedicación exclusiva; y el incremento de la rendición de cuentas del ISP,",
+                    "jn_porque": ""
                 },
                 {
                     "id": "167",
@@ -2407,7 +2697,9 @@
                     "total_urgencias": "0",
                     "avance_total": "0%",
                     "coherencia": "1",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "El proyecto incrementa en 6.000 efectivos la dotación de Carabineros, en un período de cuatro años, entre el año 2015 y el año 2018, en un rango de 1.500 anuales.",
+                    "jn_porque": ""
                 },
                 {
                     "id": "168",
@@ -2417,7 +2709,9 @@
                     "total_urgencias": "0",
                     "avance_total": "0%",
                     "coherencia": "1",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "",
+                    "jn_porque": ""
                 },
                 {
                     "id": "169",
@@ -2434,7 +2728,9 @@
                     "total_urgencias": "6",
                     "avance_total": "100%",
                     "coherencia": "2",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "",
+                    "jn_porque": ""
                 },
                 {
                     "id": "170",
@@ -2457,7 +2753,9 @@
                     "total_urgencias": "9",
                     "avance_total": "70%",
                     "coherencia": "3",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "La promesa cuenta con 2 proyectos de ley asociados en distintos trámtes consitucionales. El avance total de la promesa es el promedio dle avance de esos proyectos. Uno se encuentra en primer trámite constitucional y el otro ya es ley de la República.",
+                    "ja_porque": "",
+                    "jn_porque": "La promesa cuenta con 2 proyectos de ley asociados en distintos trámtes consitucionales. El avance total de la promesa es el promedio dle avance de esos proyectos. Uno se encuentra en primer trámite constitucional y el otro ya es ley de la República."
                 },
                 {
                     "id": "171",
@@ -2467,7 +2765,9 @@
                     "total_urgencias": "0",
                     "avance_total": "0%",
                     "coherencia": "1",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "El proyecto realiza diversas modificaciones tales como: ampliación de la cobertura de la negociación colectiva a trabajadores que hoy están excluidos de ejercer este derecho, simplificación del procedimiento de negociación colectiva reglada, ampliación de materias de la negociación colectiva, equilibrio de las partes en el proceso negociador en relación al derecho a huelga, entre otras. Sin embargo, la titularidad sindical no prosperó, elemento considerado fundamental para dotar de representatividad a los sindicatos y fortalcerlos.",
+                    "jn_porque": ""
                 },
                 {
                     "id": "172",
@@ -2490,7 +2790,9 @@
                     "total_urgencias": "4",
                     "avance_total": "100%",
                     "coherencia": "4",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "La promesa cuenta con 2 proyectos de ley asociados que están totalemente tramitados y son ley de la República. El avance total de la promesa es el promedio dle avance de esos proyectos.",
+                    "ja_porque": "Se propone, entre otras medidas, flexibilizar los requisitos necesarios para la constitución de las cooperativas y fortalecer su capacidad de gestión preservando su carácter participativo.",
+                    "jn_porque": "La promesa cuenta con 2 proyectos de ley asociados que están totalemente tramitados y son ley de la República. El avance total de la promesa es el promedio dle avance de esos proyectos."
                 },
                 {
                     "id": "173",
@@ -2507,7 +2809,9 @@
                     "total_urgencias": "6",
                     "avance_total": "100%",
                     "coherencia": "4",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "El proyecto propone una capitalización al Banco Estado con el objeto de expandir de manera significativa los créditos, ampliar la capacidad operativa del FOGAPE (Fondo de Garantía para Pequeños Empresarios) y una ampliación transitoria de la cobertura del FOGAPE.",
+                    "jn_porque": ""
                 }
             ]
         },
@@ -2530,7 +2834,9 @@
                     "total_urgencias": "0",
                     "avance_total": "0%",
                     "coherencia": "1",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "El proyecto crea una AFP estatal con el objeto de aumentar la cobertura en materia de pensiones de los trabajadores de menores rentas, trabajadores independientes y trabajadores de zonas geográficas alejadas de centros urbanos, así como introducir mayor competencia en el Sistema de las AFP.",
+                    "jn_porque": ""
                 },
                 {
                     "id": "40",
@@ -2540,7 +2846,9 @@
                     "total_urgencias": "0",
                     "avance_total": "0%",
                     "coherencia": "1",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "",
+                    "jn_porque": ""
                 },
                 {
                     "id": "84",
@@ -2550,7 +2858,9 @@
                     "total_urgencias": "0",
                     "avance_total": "0%",
                     "coherencia": "1",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "El proyecto propone la aprobación del Convenio 189, Sobre el Trabajo Decente para las Trabajadoras y los Trabajadores Domésticos, de la OIT.",
+                    "jn_porque": ""
                 },
                 {
                     "id": "93",
@@ -2567,7 +2877,9 @@
                     "total_urgencias": "3",
                     "avance_total": "100%",
                     "coherencia": "4",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "",
+                    "jn_porque": ""
                 },
                 {
                     "id": "94",
@@ -2584,7 +2896,9 @@
                     "total_urgencias": "19",
                     "avance_total": "100%",
                     "coherencia": "2",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "El proyecto busca permitir que el espectro radioeléctrico que se encuentre subutilizado, pueda ser ofrecido a demás concesionarias o empresas que requieran aumentar su capacidad espectral, durante la vigencia de las autorizaciones dadas previamente por el Estado, para  extender la cobertura geográfica de los servicios y mejorar la calidad de los mismos.",
+                    "jn_porque": ""
                 },
                 {
                     "id": "109",
@@ -2601,7 +2915,9 @@
                     "total_urgencias": "30",
                     "avance_total": "100%",
                     "coherencia": "4",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "",
+                    "jn_porque": ""
                 },
                 {
                     "id": "116",
@@ -2618,7 +2934,9 @@
                     "total_urgencias": "10",
                     "avance_total": "100%",
                     "coherencia": "4",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "",
+                    "jn_porque": ""
                 },
                 {
                     "id": "121",
@@ -2635,7 +2953,9 @@
                     "total_urgencias": "2",
                     "avance_total": "100%",
                     "coherencia": "4",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "",
+                    "jn_porque": ""
                 },
                 {
                     "id": "148",
@@ -2652,7 +2972,9 @@
                     "total_urgencias": "5",
                     "avance_total": "40%",
                     "coherencia": "4",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "",
+                    "jn_porque": ""
                 },
                 {
                     "id": "149",
@@ -2662,7 +2984,9 @@
                     "total_urgencias": "0",
                     "avance_total": "0%",
                     "coherencia": "1",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "",
+                    "jn_porque": ""
                 },
                 {
                     "id": "164",
@@ -2679,7 +3003,9 @@
                     "total_urgencias": "3",
                     "avance_total": "100%",
                     "coherencia": "4",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "",
+                    "jn_porque": ""
                 },
                 {
                     "id": "165",
@@ -2689,7 +3015,9 @@
                     "total_urgencias": "0",
                     "avance_total": "0%",
                     "coherencia": "1",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "El proyecto de ley establece sistemas de compensación al impacto que generan grandes proyectos a nivel de movilidad y espacios públicos.",
+                    "jn_porque": ""
                 }
             ]
         },
@@ -2719,7 +3047,9 @@
                     "total_urgencias": "13",
                     "avance_total": "40%",
                     "coherencia": "4",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "",
+                    "jn_porque": ""
                 },
                 {
                     "id": "112",
@@ -2729,7 +3059,9 @@
                     "total_urgencias": "0",
                     "avance_total": "0%",
                     "coherencia": "1",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "",
+                    "jn_porque": ""
                 },
                 {
                     "id": "113",
@@ -2739,7 +3071,9 @@
                     "total_urgencias": "0",
                     "avance_total": "0%",
                     "coherencia": "1",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "",
+                    "jn_porque": ""
                 },
                 {
                     "id": "114",
@@ -2749,7 +3083,9 @@
                     "total_urgencias": "0",
                     "avance_total": "0%",
                     "coherencia": "1",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "",
+                    "jn_porque": ""
                 },
                 {
                     "id": "166",
@@ -2759,7 +3095,9 @@
                     "total_urgencias": "0",
                     "avance_total": "0%",
                     "coherencia": "1",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "",
+                    "jn_porque": ""
                 }
             ]
         },
@@ -2782,7 +3120,9 @@
                     "total_urgencias": "0",
                     "avance_total": "0%",
                     "coherencia": "1",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "",
+                    "jn_porque": ""
                 },
                 {
                     "id": "11",
@@ -2792,7 +3132,9 @@
                     "total_urgencias": "0",
                     "avance_total": "0%",
                     "coherencia": "1",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "",
+                    "jn_porque": ""
                 },
                 {
                     "id": "42",
@@ -2809,7 +3151,9 @@
                     "total_urgencias": "0",
                     "avance_total": "100%",
                     "coherencia": "4",
-                    "justificacion_nota": ""
+                    "justificacion_nota": "",
+                    "ja_porque": "",
+                    "jn_porque": ""
                 }
             ]
         }

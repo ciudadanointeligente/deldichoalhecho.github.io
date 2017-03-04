@@ -7,7 +7,7 @@
             <h4 class="modal-title" id="myModalLabel">[[data.avance_total]] de avance - ¿Por qué?</h4>
           </div>
           <div class="modal-body">
-            <p ng-if="data.avance_total.slice(0,-1) > 0">Se encuentra <b>[[data.nombre_avance]]</b></p>
+            <p ng-if="data.avance_total.slice(0,-1) > 0">[[data.ja_porque]]</p>
             <p ng-if="data.avance_total.slice(0,-1) == 0">Promesa no presenta avance</p>
           </div>
         </div>
