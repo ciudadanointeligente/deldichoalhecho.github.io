@@ -18,6 +18,15 @@ p {
   }
 }
 
+.home{
+  a{
+    color: $blue-one;
+    &:hover{
+      color: $red-one;
+    }
+  }
+}
+
 a{
   color: $red-one;
   &:hover{
@@ -151,7 +160,7 @@ section{
 }
 
 .estudio-total{
-  margin-top: -70px;
+  margin-top: -40px;
   margin-bottom: 100px;
 }
 
@@ -312,26 +321,27 @@ ul{
 
 /*BUTTONS*/
 a.btn.btn-primary.btn-lg{
-  background-color: $blue-one;
+  background-color: $red-one;
   color: white;
   border: none;
-  font-weight: 400;
+  font-weight: 700;
   border-radius: 40px;
   width: auto;
+  margin-top: -20px;
     &:hover{
-      background-color: $red-one;
+      background-color: $dark;
     }
 }
 
 a.btn.btn-primary{
-  background-color: $blue-one;
+  background-color: $red-one;
   color: white;
   border: none;
   font-weight: 700;
   border-radius: 40px;
   width: auto;
     &:hover{
-      background-color: $red-one;
+      background-color: $dark;
     }
 }
 
@@ -339,7 +349,7 @@ a.btn.btn-default{
   background-color: $red-one;
   color: white;
   border: none;
-  font-weight: 400;
+  font-weight: 700;
   border-radius: 20px;
     &:hover{
       background-color: $blue-one;
@@ -479,4 +489,18 @@ footer{
   .row.movil{
     margin-top: 200px;
   }
+
+  #que-es-home{
+    padding-top: 70px;
+    margin-top: 0;
+  }
+
+  .rrss{
+    margin-top: 40px;
+  }
+}
+
+
+.img-responsive{
+  margin: 0 auto;
 }
