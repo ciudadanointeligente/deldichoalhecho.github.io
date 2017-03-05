@@ -7,6 +7,6 @@ baseurl: '' # the subpath of your site, e.g. /blog/
 url: '//deldichoalhecho.cl/' # the base hostname & protocol for your site
 analytics: 'UA-48506201-6' # google analytics tracking code
 twitter_username: ciudadanoi
-launched: false
+launched: true
 # build settings
 markdown: kramdown
