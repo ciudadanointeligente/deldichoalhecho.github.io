@@ -4,7 +4,7 @@
     "promesas_con_proyectos": "104",
     "promesas_areas": "8,2",
     "capacidad": "37",
-    "promedio_avance": "47%",
+    "promedio_avance": "47,45%",
     "promedio_coherencia": "2,5",
     "nro_urgencias": "1720",
     "promisses": [
@@ -346,7 +346,7 @@
                     "avance_total": "0%",
                     "coherencia": "1",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "No se conocen proyectos de ley asociados a esta promesa",
                     "jn_porque": "No se conocen proyectos de ley asociados a esta promesa"
                 },
                 {
@@ -365,7 +365,7 @@
                     "avance_total": "100%",
                     "coherencia": "4",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "El proyecto de ley asociado se encuentra en publicado y es Ley de la República.",
                     "jn_porque": "El proyecto de ley es totalmente coherente con la promesa realizada."
                 },
                 {
@@ -377,7 +377,7 @@
                     "avance_total": "0%",
                     "coherencia": "1",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "No se conocen proyectos de ley asociados a esta promesa",
                     "jn_porque": "No se conocen proyectos de ley asociados a esta promesa"
                 },
                 {
@@ -396,7 +396,7 @@
                     "avance_total": "40%",
                     "coherencia": "3",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "El proyecto de ley asociado se encuentra en primer trámite constitucional.",
                     "jn_porque": "El proyecto de ley es parcialmente coherente con la promesa realizada."
                 },
                 {
@@ -415,7 +415,7 @@
                     "avance_total": "100%",
                     "coherencia": "4",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "El proyecto de ley asociado se encuentra en publicado y es Ley de la República.",
                     "jn_porque": "El proyecto de ley es totalmente coherente con la promesa realizada."
                 },
                 {
@@ -434,7 +434,7 @@
                     "avance_total": "40%",
                     "coherencia": "4",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "El proyecto de ley asociado se encuentra en primer trámite constitucional.",
                     "jn_porque": "El proyecto de ley es totalmente coherente con la promesa realizada."
                 },
                 {
@@ -453,7 +453,7 @@
                     "avance_total": "100%",
                     "coherencia": "4",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "El proyecto de ley asociado se encuentra en publicado y es Ley de la República.",
                     "jn_porque": "El proyecto de ley es totalmente coherente con la promesa realizada."
                 }
             ]
@@ -523,7 +523,7 @@
                     "avance_total": "70%",
                     "coherencia": "4",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "El proyecto de ley asociado se encuentra en segundo trámite constitucional.",
                     "jn_porque": "El proyecto de ley es totalmente coherente con la promesa realizada."
                 },
                 {
@@ -535,7 +535,7 @@
                     "avance_total": "0%",
                     "coherencia": "1",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "No se conocen proyectos de ley asociados a esta promesa",
                     "jn_porque": "No se conocen proyectos de ley asociados a esta promesa"
                 },
                 {
@@ -554,7 +554,7 @@
                     "avance_total": "40%",
                     "coherencia": "4",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "El proyecto de ley asociado se encuentra en primer trámite constitucional.",
                     "jn_porque": "El proyecto de ley es totalmente coherente con la promesa realizada."
                 },
                 {
@@ -573,7 +573,7 @@
                     "avance_total": "100%",
                     "coherencia": "3",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "El proyecto de ley asociado se encuentra en publicado y es Ley de la República.",
                     "jn_porque": "El proyecto de ley es parcialmente coherente con la promesa realizada."
                 },
                 {
@@ -592,7 +592,7 @@
                     "avance_total": "70%",
                     "coherencia": "4",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "El proyecto de ley asociado se encuentra en segundo trámite constitucional.",
                     "jn_porque": "El proyecto de ley es totalmente coherente con la promesa realizada."
                 },
                 {
@@ -611,7 +611,7 @@
                     "avance_total": "70%",
                     "coherencia": "3",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "El proyecto de ley asociado se encuentra en segundo trámite constitucional.",
                     "jn_porque": "El proyecto de ley es parcialmente coherente con la promesa realizada."
                 },
                 {
@@ -623,7 +623,7 @@
                     "avance_total": "0%",
                     "coherencia": "1",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "No se conocen proyectos de ley asociados a esta promesa",
                     "jn_porque": "No se conocen proyectos de ley asociados a esta promesa"
                 },
                 {
@@ -642,7 +642,7 @@
                     "avance_total": "100%",
                     "coherencia": "3",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "El proyecto de ley asociado se encuentra en publicado y es Ley de la República.",
                     "jn_porque": "El proyecto de ley es parcialmente coherente con la promesa realizada."
                 },
                 {
@@ -661,7 +661,7 @@
                     "avance_total": "100%",
                     "coherencia": "3",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "El proyecto de ley asociado se encuentra en publicado y es Ley de la República.",
                     "jn_porque": "El proyecto de ley es parcialmente coherente con la promesa realizada."
                 },
                 {
@@ -680,7 +680,7 @@
                     "avance_total": "100%",
                     "coherencia": "4",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "El proyecto de ley asociado se encuentra en publicado y es Ley de la República.",
                     "jn_porque": "El proyecto de ley es totalmente coherente con la promesa realizada."
                 },
                 {
@@ -699,7 +699,7 @@
                     "avance_total": "100%",
                     "coherencia": "4",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "El proyecto de ley asociado se encuentra en publicado y es Ley de la República.",
                     "jn_porque": "El proyecto de ley es totalmente coherente con la promesa realizada."
                 },
                 {
@@ -718,7 +718,7 @@
                     "avance_total": "100%",
                     "coherencia": "3",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "El proyecto de ley asociado se encuentra en publicado y es Ley de la República.",
                     "jn_porque": "El proyecto de ley es parcialmente coherente con la promesa realizada."
                 },
                 {
@@ -737,7 +737,7 @@
                     "avance_total": "100%",
                     "coherencia": "2",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "El proyecto de ley asociado se encuentra en publicado y es Ley de la República.",
                     "jn_porque": "El proyecto de ley es marginalmente coherente con la promesa realizada."
                 },
                 {
@@ -749,7 +749,7 @@
                     "avance_total": "0%",
                     "coherencia": "1",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "No se conocen proyectos de ley asociados a esta promesa",
                     "jn_porque": "No se conocen proyectos de ley asociados a esta promesa"
                 },
                 {
@@ -768,7 +768,7 @@
                     "avance_total": "70%",
                     "coherencia": "4",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "El proyecto de ley asociado se encuentra en segundo trámite constitucional.",
                     "jn_porque": "El proyecto de ley es totalmente coherente con la promesa realizada."
                 },
                 {
@@ -780,7 +780,7 @@
                     "avance_total": "0%",
                     "coherencia": "1",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "No se conocen proyectos de ley asociados a esta promesa",
                     "jn_porque": "No se conocen proyectos de ley asociados a esta promesa"
                 },
                 {
@@ -799,7 +799,7 @@
                     "avance_total": "70%",
                     "coherencia": "4",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "El proyecto de ley asociado se encuentra en segundo trámite constitucional.",
                     "jn_porque": "El proyecto de ley es totalmente coherente con la promesa realizada."
                 },
                 {
@@ -811,7 +811,7 @@
                     "avance_total": "0%",
                     "coherencia": "1",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "No se conocen proyectos de ley asociados a esta promesa",
                     "jn_porque": "No se conocen proyectos de ley asociados a esta promesa"
                 },
                 {
@@ -823,7 +823,7 @@
                     "avance_total": "0%",
                     "coherencia": "1",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "No se conocen proyectos de ley asociados a esta promesa",
                     "jn_porque": "No se conocen proyectos de ley asociados a esta promesa"
                 },
                 {
@@ -835,7 +835,7 @@
                     "avance_total": "0%",
                     "coherencia": "1",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "No se conocen proyectos de ley asociados a esta promesa",
                     "jn_porque": "No se conocen proyectos de ley asociados a esta promesa"
                 }
             ]
@@ -867,7 +867,7 @@
                     "avance_total": "100%",
                     "coherencia": "4",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "El proyecto de ley asociado se encuentra en publicado y es Ley de la República.",
                     "jn_porque": "El proyecto de ley es totalmente coherente con la promesa realizada."
                 },
                 {
@@ -879,7 +879,7 @@
                     "avance_total": "0%",
                     "coherencia": "1",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "No se conocen proyectos de ley asociados a esta promesa",
                     "jn_porque": "No se conocen proyectos de ley asociados a esta promesa"
                 },
                 {
@@ -898,7 +898,7 @@
                     "avance_total": "100%",
                     "coherencia": "4",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "El proyecto de ley asociado se encuentra en publicado y es Ley de la República.",
                     "jn_porque": "El proyecto de ley es totalmente coherente con la promesa realizada."
                 },
                 {
@@ -917,7 +917,7 @@
                     "avance_total": "100%",
                     "coherencia": "4",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "El proyecto de ley asociado se encuentra en publicado y es Ley de la República.",
                     "jn_porque": "El proyecto de ley es totalmente coherente con la promesa realizada."
                 },
                 {
@@ -936,7 +936,7 @@
                     "avance_total": "100%",
                     "coherencia": "4",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "El proyecto de ley asociado se encuentra en publicado y es Ley de la República.",
                     "jn_porque": "El proyecto de ley es totalmente coherente con la promesa realizada."
                 },
                 {
@@ -955,7 +955,7 @@
                     "avance_total": "100%",
                     "coherencia": "4",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "El proyecto de ley asociado se encuentra en publicado y es Ley de la República.",
                     "jn_porque": "El proyecto de ley es totalmente coherente con la promesa realizada."
                 },
                 {
@@ -974,7 +974,7 @@
                     "avance_total": "70%",
                     "coherencia": "3",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "El proyecto de ley asociado se encuentra en segundo trámite constitucional.",
                     "jn_porque": "El proyecto de ley es parcialmente coherente con la promesa realizada."
                 },
                 {
@@ -993,7 +993,7 @@
                     "avance_total": "100%",
                     "coherencia": "3",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "El proyecto de ley asociado se encuentra en publicado y es Ley de la República.",
                     "jn_porque": "El proyecto de ley es parcialmente coherente con la promesa realizada."
                 },
                 {
@@ -1012,7 +1012,7 @@
                     "avance_total": "40%",
                     "coherencia": "2",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "El proyecto de ley asociado se encuentra en primer trámite constitucional.",
                     "jn_porque": "El proyecto de ley es marginalmente coherente con la promesa realizada."
                 },
                 {
@@ -1031,7 +1031,7 @@
                     "avance_total": "40%",
                     "coherencia": "3",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "El proyecto de ley asociado se encuentra en primer trámite constitucional.",
                     "jn_porque": "El proyecto de ley es parcialmente coherente con la promesa realizada."
                 },
                 {
@@ -1050,7 +1050,7 @@
                     "avance_total": "40%",
                     "coherencia": "3",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "El proyecto de ley asociado se encuentra en primer trámite constitucional.",
                     "jn_porque": "El proyecto de ley es parcialmente coherente con la promesa realizada."
                 },
                 {
@@ -1069,7 +1069,7 @@
                     "avance_total": "40%",
                     "coherencia": "3",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "El proyecto de ley asociado se encuentra en primer trámite constitucional.",
                     "jn_porque": "El proyecto de ley es parcialmente coherente con la promesa realizada."
                 },
                 {
@@ -1088,7 +1088,7 @@
                     "avance_total": "100%",
                     "coherencia": "4",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "El proyecto de ley asociado se encuentra en publicado y es Ley de la República.",
                     "jn_porque": "El proyecto de ley es totalmente coherente con la promesa realizada."
                 },
                 {
@@ -1107,7 +1107,7 @@
                     "avance_total": "40%",
                     "coherencia": "2",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "El proyecto de ley asociado se encuentra en primer trámite constitucional.",
                     "jn_porque": "El proyecto de ley es marginalmente coherente con la promesa realizada."
                 },
                 {
@@ -1126,7 +1126,7 @@
                     "avance_total": "100%",
                     "coherencia": "4",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "El proyecto de ley asociado se encuentra en publicado y es Ley de la República.",
                     "jn_porque": "El proyecto de ley es totalmente coherente con la promesa realizada."
                 },
                 {
@@ -1145,7 +1145,7 @@
                     "avance_total": "100%",
                     "coherencia": "4",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "El proyecto de ley asociado se encuentra en publicado y es Ley de la República.",
                     "jn_porque": "El proyecto de ley es totalmente coherente con la promesa realizada."
                 }
             ]
@@ -1177,7 +1177,7 @@
                     "avance_total": "100%",
                     "coherencia": "4",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "El proyecto de ley asociado se encuentra en publicado y es Ley de la República.",
                     "jn_porque": "El proyecto de ley es totalmente coherente con la promesa realizada."
                 },
                 {
@@ -1221,7 +1221,7 @@
                     "avance_total": "100%",
                     "coherencia": "2",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "El proyecto de ley asociado se encuentra en publicado y es Ley de la República.",
                     "jn_porque": "El proyecto de ley es marginalmente coherente con la promesa realizada."
                 },
                 {
@@ -1240,7 +1240,7 @@
                     "avance_total": "70%",
                     "coherencia": "4",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "El proyecto de ley asociado se encuentra en segundo trámite constitucional.",
                     "jn_porque": "El proyecto de ley es totalmente coherente con la promesa realizada."
                 },
                 {
@@ -1284,7 +1284,7 @@
                     "avance_total": "100%",
                     "coherencia": "4",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "El proyecto de ley asociado se encuentra en publicado y es Ley de la República.",
                     "jn_porque": "El proyecto de ley es totalmente coherente con la promesa realizada."
                 }
             ]
@@ -1316,7 +1316,7 @@
                     "avance_total": "100%",
                     "coherencia": "4",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "El proyecto de ley asociado se encuentra en publicado y es Ley de la República.",
                     "jn_porque": "El proyecto de ley es totalmente coherente con la promesa realizada."
                 },
                 {
@@ -1335,7 +1335,7 @@
                     "avance_total": "100%",
                     "coherencia": "4",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "El proyecto de ley asociado se encuentra en publicado y es Ley de la República.",
                     "jn_porque": "El proyecto de ley es totalmente coherente con la promesa realizada."
                 },
                 {
@@ -1354,7 +1354,7 @@
                     "avance_total": "70%",
                     "coherencia": "4",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "El proyecto de ley asociado se encuentra en segundo trámite constitucional.",
                     "jn_porque": "El proyecto de ley es totalmente coherente con la promesa realizada."
                 },
                 {
@@ -1373,7 +1373,7 @@
                     "avance_total": "40%",
                     "coherencia": "4",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "El proyecto de ley asociado se encuentra en primer trámite constitucional.",
                     "jn_porque": "El proyecto de ley es totalmente coherente con la promesa realizada."
                 },
                 {
@@ -1385,7 +1385,7 @@
                     "avance_total": "0%",
                     "coherencia": "1",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "No se conocen proyectos de ley asociados a esta promesa",
                     "jn_porque": "No se conocen proyectos de ley asociados a esta promesa"
                 },
                 {
@@ -1442,7 +1442,7 @@
                     "avance_total": "70%",
                     "coherencia": "4",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "El proyecto de ley asociado se encuentra en segundo trámite constitucional.",
                     "jn_porque": "El proyecto de ley es totalmente coherente con la promesa realizada."
                 },
                 {
@@ -1461,7 +1461,7 @@
                     "avance_total": "70%",
                     "coherencia": "4",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "El proyecto de ley asociado se encuentra en segundo trámite constitucional.",
                     "jn_porque": "El proyecto de ley es totalmente coherente con la promesa realizada."
                 },
                 {
@@ -1473,7 +1473,7 @@
                     "avance_total": "0%",
                     "coherencia": "1",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "No se conocen proyectos de ley asociados a esta promesa",
                     "jn_porque": "No se conocen proyectos de ley asociados a esta promesa"
                 },
                 {
@@ -1485,7 +1485,7 @@
                     "avance_total": "0%",
                     "coherencia": "1",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "No se conocen proyectos de ley asociados a esta promesa",
                     "jn_porque": "No se conocen proyectos de ley asociados a esta promesa"
                 },
                 {
@@ -1504,7 +1504,7 @@
                     "avance_total": "100%",
                     "coherencia": "4",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "El proyecto de ley asociado se encuentra en publicado y es Ley de la República.",
                     "jn_porque": "El proyecto de ley es totalmente coherente con la promesa realizada."
                 },
                 {
@@ -1523,7 +1523,7 @@
                     "avance_total": "40%",
                     "coherencia": "4",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "El proyecto de ley asociado se encuentra en primer trámite constitucional.",
                     "jn_porque": "El proyecto de ley es totalmente coherente con la promesa realizada."
                 },
                 {
@@ -1535,7 +1535,7 @@
                     "avance_total": "0%",
                     "coherencia": "1",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "No se conocen proyectos de ley asociados a esta promesa",
                     "jn_porque": "No se conocen proyectos de ley asociados a esta promesa"
                 },
                 {
@@ -1547,7 +1547,7 @@
                     "avance_total": "0%",
                     "coherencia": "1",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "No se conocen proyectos de ley asociados a esta promesa",
                     "jn_porque": "No se conocen proyectos de ley asociados a esta promesa"
                 },
                 {
@@ -1566,7 +1566,7 @@
                     "avance_total": "100%",
                     "coherencia": "4",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "El proyecto de ley asociado se encuentra en publicado y es Ley de la República.",
                     "jn_porque": "El proyecto de ley es totalmente coherente con la promesa realizada."
                 },
                 {
@@ -1585,7 +1585,7 @@
                     "avance_total": "100%",
                     "coherencia": "4",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "El proyecto de ley asociado se encuentra en publicado y es Ley de la República.",
                     "jn_porque": "El proyecto de ley es totalmente coherente con la promesa realizada."
                 },
                 {
@@ -1604,7 +1604,7 @@
                     "avance_total": "40%",
                     "coherencia": "4",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "El proyecto de ley asociado se encuentra en primer trámite constitucional.",
                     "jn_porque": "El proyecto de ley es totalmente coherente con la promesa realizada."
                 },
                 {
@@ -1623,7 +1623,7 @@
                     "avance_total": "100%",
                     "coherencia": "4",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "El proyecto de ley asociado se encuentra en publicado y es Ley de la República.",
                     "jn_porque": "El proyecto de ley es totalmente coherente con la promesa realizada."
                 },
                 {
@@ -1635,7 +1635,7 @@
                     "avance_total": "0%",
                     "coherencia": "1",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "No se conocen proyectos de ley asociados a esta promesa",
                     "jn_porque": "No se conocen proyectos de ley asociados a esta promesa"
                 },
                 {
@@ -1654,7 +1654,7 @@
                     "avance_total": "40%",
                     "coherencia": "4",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "El proyecto de ley asociado se encuentra en primer trámite constitucional.",
                     "jn_porque": "El proyecto de ley es totalmente coherente con la promesa realizada."
                 },
                 {
@@ -1666,7 +1666,7 @@
                     "avance_total": "0%",
                     "coherencia": "1",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "No se conocen proyectos de ley asociados a esta promesa",
                     "jn_porque": "No se conocen proyectos de ley asociados a esta promesa"
                 },
                 {
@@ -1678,7 +1678,7 @@
                     "avance_total": "0%",
                     "coherencia": "1",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "No se conocen proyectos de ley asociados a esta promesa",
                     "jn_porque": "No se conocen proyectos de ley asociados a esta promesa"
                 },
                 {
@@ -1690,7 +1690,7 @@
                     "avance_total": "0%",
                     "coherencia": "1",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "No se conocen proyectos de ley asociados a esta promesa",
                     "jn_porque": "No se conocen proyectos de ley asociados a esta promesa"
                 },
                 {
@@ -1702,7 +1702,7 @@
                     "avance_total": "0%",
                     "coherencia": "1",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "No se conocen proyectos de ley asociados a esta promesa",
                     "jn_porque": "No se conocen proyectos de ley asociados a esta promesa"
                 },
                 {
@@ -1714,7 +1714,7 @@
                     "avance_total": "0%",
                     "coherencia": "1",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "No se conocen proyectos de ley asociados a esta promesa",
                     "jn_porque": "No se conocen proyectos de ley asociados a esta promesa"
                 },
                 {
@@ -1733,7 +1733,7 @@
                     "avance_total": "100%",
                     "coherencia": "2",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "El proyecto de ley asociado se encuentra en publicado y es Ley de la República.",
                     "jn_porque": "El proyecto de ley es marginalmente coherente con la promesa realizada."
                 },
                 {
@@ -1752,7 +1752,7 @@
                     "avance_total": "100%",
                     "coherencia": "3",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "El proyecto de ley asociado se encuentra en publicado y es Ley de la República.",
                     "jn_porque": "El proyecto de ley es parcialmente coherente con la promesa realizada."
                 },
                 {
@@ -1764,7 +1764,7 @@
                     "avance_total": "0%",
                     "coherencia": "1",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "No se conocen proyectos de ley asociados a esta promesa",
                     "jn_porque": "No se conocen proyectos de ley asociados a esta promesa"
                 },
                 {
@@ -1776,7 +1776,7 @@
                     "avance_total": "0%",
                     "coherencia": "1",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "No se conocen proyectos de ley asociados a esta promesa",
                     "jn_porque": "No se conocen proyectos de ley asociados a esta promesa"
                 },
                 {
@@ -1788,7 +1788,7 @@
                     "avance_total": "0%",
                     "coherencia": "1",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "No se conocen proyectos de ley asociados a esta promesa",
                     "jn_porque": "No se conocen proyectos de ley asociados a esta promesa"
                 }
             ]
@@ -1820,7 +1820,7 @@
                     "avance_total": "40%",
                     "coherencia": "3",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "El proyecto de ley asociado se encuentra en primer trámite constitucional.",
                     "jn_porque": "El proyecto de ley es parcialmente coherente con la promesa realizada."
                 },
                 {
@@ -1832,7 +1832,7 @@
                     "avance_total": "0%",
                     "coherencia": "1",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "No se conocen proyectos de ley asociados a esta promesa",
                     "jn_porque": "No se conocen proyectos de ley asociados a esta promesa"
                 },
                 {
@@ -1851,7 +1851,7 @@
                     "avance_total": "40%",
                     "coherencia": "4",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "El proyecto de ley asociado se encuentra en primer trámite constitucional.",
                     "jn_porque": "El proyecto de ley es totalmente coherente con la promesa realizada."
                 },
                 {
@@ -1863,7 +1863,7 @@
                     "avance_total": "0%",
                     "coherencia": "1",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "No se conocen proyectos de ley asociados a esta promesa",
                     "jn_porque": "No se conocen proyectos de ley asociados a esta promesa"
                 }
             ]
@@ -1895,7 +1895,7 @@
                     "avance_total": "40%",
                     "coherencia": "3",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "El proyecto de ley asociado se encuentra en primer trámite constitucional.",
                     "jn_porque": "El proyecto de ley es parcialmente coherente con la promesa realizada."
                 },
                 {
@@ -1951,7 +1951,7 @@
                     "avance_total": "100%",
                     "coherencia": "4",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "El proyecto de ley asociado se encuentra en publicado y es Ley de la República.",
                     "jn_porque": "El proyecto de ley es totalmente coherente con la promesa realizada."
                 },
                 {
@@ -1988,7 +1988,7 @@
                     "avance_total": "0%",
                     "coherencia": "1",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "No se conocen proyectos de ley asociados a esta promesa",
                     "jn_porque": "No se conocen proyectos de ley asociados a esta promesa"
                 },
                 {
@@ -2000,7 +2000,7 @@
                     "avance_total": "0%",
                     "coherencia": "1",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "No se conocen proyectos de ley asociados a esta promesa",
                     "jn_porque": "No se conocen proyectos de ley asociados a esta promesa"
                 },
                 {
@@ -2019,7 +2019,7 @@
                     "avance_total": "40%",
                     "coherencia": "4",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "El proyecto de ley asociado se encuentra en primer trámite constitucional.",
                     "jn_porque": "El proyecto de ley es totalmente coherente con la promesa realizada."
                 },
                 {
@@ -2031,7 +2031,7 @@
                     "avance_total": "0%",
                     "coherencia": "1",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "No se conocen proyectos de ley asociados a esta promesa",
                     "jn_porque": "No se conocen proyectos de ley asociados a esta promesa"
                 },
                 {
@@ -2043,7 +2043,7 @@
                     "avance_total": "0%",
                     "coherencia": "1",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "No se conocen proyectos de ley asociados a esta promesa",
                     "jn_porque": "No se conocen proyectos de ley asociados a esta promesa"
                 },
                 {
@@ -2062,7 +2062,7 @@
                     "avance_total": "70%",
                     "coherencia": "4",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "El proyecto de ley asociado se encuentra en segundo trámite constitucional.",
                     "jn_porque": "El proyecto de ley es totalmente coherente con la promesa realizada."
                 },
                 {
@@ -2074,7 +2074,7 @@
                     "avance_total": "0%",
                     "coherencia": "1",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "No se conocen proyectos de ley asociados a esta promesa",
                     "jn_porque": "No se conocen proyectos de ley asociados a esta promesa"
                 },
                 {
@@ -2086,7 +2086,7 @@
                     "avance_total": "0%",
                     "coherencia": "1",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "No se conocen proyectos de ley asociados a esta promesa",
                     "jn_porque": "No se conocen proyectos de ley asociados a esta promesa"
                 },
                 {
@@ -2098,7 +2098,7 @@
                     "avance_total": "0%",
                     "coherencia": "1",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "No se conocen proyectos de ley asociados a esta promesa",
                     "jn_porque": "No se conocen proyectos de ley asociados a esta promesa"
                 },
                 {
@@ -2110,7 +2110,7 @@
                     "avance_total": "0%",
                     "coherencia": "1",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "No se conocen proyectos de ley asociados a esta promesa",
                     "jn_porque": "No se conocen proyectos de ley asociados a esta promesa"
                 },
                 {
@@ -2129,7 +2129,7 @@
                     "avance_total": "100%",
                     "coherencia": "4",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "El proyecto de ley asociado se encuentra en publicado y es Ley de la República.",
                     "jn_porque": "El proyecto de ley es totalmente coherente con la promesa realizada."
                 },
                 {
@@ -2141,7 +2141,7 @@
                     "avance_total": "0%",
                     "coherencia": "1",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "No se conocen proyectos de ley asociados a esta promesa",
                     "jn_porque": "No se conocen proyectos de ley asociados a esta promesa"
                 },
                 {
@@ -2153,7 +2153,7 @@
                     "avance_total": "0%",
                     "coherencia": "1",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "No se conocen proyectos de ley asociados a esta promesa",
                     "jn_porque": "No se conocen proyectos de ley asociados a esta promesa"
                 },
                 {
@@ -2172,7 +2172,7 @@
                     "avance_total": "100%",
                     "coherencia": "2",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "El proyecto de ley asociado se encuentra en publicado y es Ley de la República.",
                     "jn_porque": "El proyecto de ley es marginalmente coherente con la promesa realizada."
                 }
             ]
@@ -2197,7 +2197,7 @@
                     "avance_total": "0%",
                     "coherencia": "1",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "No se conocen proyectos de ley asociados a esta promesa",
                     "jn_porque": "No se conocen proyectos de ley asociados a esta promesa"
                 },
                 {
@@ -2216,7 +2216,7 @@
                     "avance_total": "40%",
                     "coherencia": "4",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "El proyecto de ley asociado se encuentra en primer trámite constitucional.",
                     "jn_porque": "El proyecto de ley es totalmente coherente con la promesa realizada."
                 },
                 {
@@ -2228,7 +2228,7 @@
                     "avance_total": "0%",
                     "coherencia": "1",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "No se conocen proyectos de ley asociados a esta promesa",
                     "jn_porque": "No se conocen proyectos de ley asociados a esta promesa"
                 },
                 {
@@ -2278,7 +2278,7 @@
                     "avance_total": "0%",
                     "coherencia": "1",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "No se conocen proyectos de ley asociados a esta promesa",
                     "jn_porque": "No se conocen proyectos de ley asociados a esta promesa"
                 },
                 {
@@ -2297,7 +2297,7 @@
                     "avance_total": "100%",
                     "coherencia": "2",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "El proyecto de ley asociado se encuentra en publicado y es Ley de la República.",
                     "jn_porque": "El proyecto de ley es marginalmente coherente con la promesa realizada."
                 },
                 {
@@ -2316,7 +2316,7 @@
                     "avance_total": "0%",
                     "coherencia": "1",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "Proyecto de ley asociado fue retirado",
                     "jn_porque": "Proyecto de ley asociado fue retirado"
                 },
                 {
@@ -2328,7 +2328,7 @@
                     "avance_total": "0%",
                     "coherencia": "1",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "No se conocen proyectos de ley asociados a esta promesa",
                     "jn_porque": "No se conocen proyectos de ley asociados a esta promesa"
                 }
             ]
@@ -2442,7 +2442,7 @@
                     "avance_total": "40%",
                     "coherencia": "4",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "El proyecto de ley asociado se encuentra en primer trámite constitucional.",
                     "jn_porque": "El proyecto de ley es totalmente coherente con la promesa realizada."
                 },
                 {
@@ -2454,7 +2454,7 @@
                     "avance_total": "0%",
                     "coherencia": "1",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "No se conocen proyectos de ley asociados a esta promesa",
                     "jn_porque": "No se conocen proyectos de ley asociados a esta promesa"
                 },
                 {
@@ -2466,7 +2466,7 @@
                     "avance_total": "0%",
                     "coherencia": "1",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "No se conocen proyectos de ley asociados a esta promesa",
                     "jn_porque": "No se conocen proyectos de ley asociados a esta promesa"
                 },
                 {
@@ -2478,7 +2478,7 @@
                     "avance_total": "0%",
                     "coherencia": "1",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "No se conocen proyectos de ley asociados a esta promesa",
                     "jn_porque": "No se conocen proyectos de ley asociados a esta promesa"
                 },
                 {
@@ -2497,7 +2497,7 @@
                     "avance_total": "40%",
                     "coherencia": "4",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "El proyecto de ley asociado se encuentra en primer trámite constitucional.",
                     "jn_porque": "El proyecto de ley es totalmente coherente con la promesa realizada."
                 },
                 {
@@ -2516,7 +2516,7 @@
                     "avance_total": "40%",
                     "coherencia": "4",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "El proyecto de ley asociado se encuentra en primer trámite constitucional.",
                     "jn_porque": "El proyecto de ley es totalmente coherente con la promesa realizada."
                 }
             ]
@@ -2566,7 +2566,7 @@
                     "avance_total": "0%",
                     "coherencia": "1",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "No se conocen proyectos de ley asociados a esta promesa",
                     "jn_porque": "No se conocen proyectos de ley asociados a esta promesa"
                 },
                 {
@@ -2585,7 +2585,7 @@
                     "avance_total": "100%",
                     "coherencia": "4",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "El proyecto de ley asociado se encuentra en publicado y es Ley de la República.",
                     "jn_porque": "El proyecto de ley es totalmente coherente con la promesa realizada."
                 }
             ]
@@ -2617,7 +2617,7 @@
                     "avance_total": "100%",
                     "coherencia": "4",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "El proyecto de ley asociado se encuentra en publicado y es Ley de la República.",
                     "jn_porque": "El proyecto de ley es totalmente coherente con la promesa realizada."
                 },
                 {
@@ -2636,7 +2636,7 @@
                     "avance_total": "100%",
                     "coherencia": "2",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "El proyecto de ley asociado se encuentra en publicado y es Ley de la República.",
                     "jn_porque": "El proyecto de ley es marginalmente coherente con la promesa realizada."
                 },
                 {
@@ -2648,7 +2648,7 @@
                     "avance_total": "0%",
                     "coherencia": "1",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "No se conocen proyectos de ley asociados a esta promesa",
                     "jn_porque": "No se conocen proyectos de ley asociados a esta promesa"
                 },
                 {
@@ -2667,7 +2667,7 @@
                     "avance_total": "40%",
                     "coherencia": "4",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "El proyecto de ley asociado se encuentra en primer trámite constitucional.",
                     "jn_porque": "El proyecto de ley es totalmente coherente con la promesa realizada."
                 },
                 {
@@ -2686,7 +2686,7 @@
                     "avance_total": "100%",
                     "coherencia": "4",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "El proyecto de ley asociado se encuentra en publicado y es Ley de la República.",
                     "jn_porque": "El proyecto de ley es totalmente coherente con la promesa realizada."
                 },
                 {
@@ -2698,7 +2698,7 @@
                     "avance_total": "0%",
                     "coherencia": "1",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "No se conocen proyectos de ley asociados a esta promesa",
                     "jn_porque": "No se conocen proyectos de ley asociados a esta promesa"
                 },
                 {
@@ -2710,7 +2710,7 @@
                     "avance_total": "0%",
                     "coherencia": "1",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "No se conocen proyectos de ley asociados a esta promesa",
                     "jn_porque": "No se conocen proyectos de ley asociados a esta promesa"
                 },
                 {
@@ -2729,7 +2729,7 @@
                     "avance_total": "100%",
                     "coherencia": "2",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "El proyecto de ley asociado se encuentra en publicado y es Ley de la República.",
                     "jn_porque": "El proyecto de ley es marginalmente coherente con la promesa realizada."
                 },
                 {
@@ -2766,7 +2766,7 @@
                     "avance_total": "0%",
                     "coherencia": "1",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "No se conocen proyectos de ley asociados a esta promesa",
                     "jn_porque": "No se conocen proyectos de ley asociados a esta promesa"
                 },
                 {
@@ -2847,7 +2847,7 @@
                     "avance_total": "0%",
                     "coherencia": "1",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "No se conocen proyectos de ley asociados a esta promesa",
                     "jn_porque": "No se conocen proyectos de ley asociados a esta promesa"
                 },
                 {
@@ -2859,7 +2859,7 @@
                     "avance_total": "0%",
                     "coherencia": "1",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "No se conocen proyectos de ley asociados a esta promesa",
                     "jn_porque": "No se conocen proyectos de ley asociados a esta promesa"
                 },
                 {
@@ -2878,7 +2878,7 @@
                     "avance_total": "100%",
                     "coherencia": "4",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "El proyecto de ley asociado se encuentra en publicado y es Ley de la República.",
                     "jn_porque": "El proyecto de ley es totalmente coherente con la promesa realizada."
                 },
                 {
@@ -2897,7 +2897,7 @@
                     "avance_total": "100%",
                     "coherencia": "2",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "El proyecto de ley asociado se encuentra en publicado y es Ley de la República.",
                     "jn_porque": "El proyecto de ley es marginalmente coherente con la promesa realizada."
                 },
                 {
@@ -2916,7 +2916,7 @@
                     "avance_total": "100%",
                     "coherencia": "4",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "El proyecto de ley asociado se encuentra en publicado y es Ley de la República.",
                     "jn_porque": "El proyecto de ley es totalmente coherente con la promesa realizada."
                 },
                 {
@@ -2935,7 +2935,7 @@
                     "avance_total": "100%",
                     "coherencia": "4",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "El proyecto de ley asociado se encuentra en publicado y es Ley de la República.",
                     "jn_porque": "El proyecto de ley es totalmente coherente con la promesa realizada."
                 },
                 {
@@ -2954,7 +2954,7 @@
                     "avance_total": "100%",
                     "coherencia": "4",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "El proyecto de ley asociado se encuentra en publicado y es Ley de la República.",
                     "jn_porque": "El proyecto de ley es totalmente coherente con la promesa realizada."
                 },
                 {
@@ -2973,7 +2973,7 @@
                     "avance_total": "40%",
                     "coherencia": "4",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "El proyecto de ley asociado se encuentra en primer trámite constitucional.",
                     "jn_porque": "El proyecto de ley es totalmente coherente con la promesa realizada."
                 },
                 {
@@ -2985,7 +2985,7 @@
                     "avance_total": "0%",
                     "coherencia": "1",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "No se conocen proyectos de ley asociados a esta promesa",
                     "jn_porque": "No se conocen proyectos de ley asociados a esta promesa"
                 },
                 {
@@ -3004,7 +3004,7 @@
                     "avance_total": "100%",
                     "coherencia": "4",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "El proyecto de ley asociado se encuentra en publicado y es Ley de la República.",
                     "jn_porque": "El proyecto de ley es totalmente coherente con la promesa realizada."
                 },
                 {
@@ -3016,7 +3016,7 @@
                     "avance_total": "0%",
                     "coherencia": "1",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "No se conocen proyectos de ley asociados a esta promesa",
                     "jn_porque": "No se conocen proyectos de ley asociados a esta promesa"
                 }
             ]
@@ -3048,7 +3048,7 @@
                     "avance_total": "40%",
                     "coherencia": "4",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "El proyecto de ley asociado se encuentra en primer trámite constitucional.",
                     "jn_porque": "El proyecto de ley es totalmente coherente con la promesa realizada."
                 },
                 {
@@ -3060,7 +3060,7 @@
                     "avance_total": "0%",
                     "coherencia": "1",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "No se conocen proyectos de ley asociados a esta promesa",
                     "jn_porque": "No se conocen proyectos de ley asociados a esta promesa"
                 },
                 {
@@ -3072,7 +3072,7 @@
                     "avance_total": "0%",
                     "coherencia": "1",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "No se conocen proyectos de ley asociados a esta promesa",
                     "jn_porque": "No se conocen proyectos de ley asociados a esta promesa"
                 },
                 {
@@ -3084,7 +3084,7 @@
                     "avance_total": "0%",
                     "coherencia": "1",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "No se conocen proyectos de ley asociados a esta promesa",
                     "jn_porque": "No se conocen proyectos de ley asociados a esta promesa"
                 },
                 {
@@ -3096,7 +3096,7 @@
                     "avance_total": "0%",
                     "coherencia": "1",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "No se conocen proyectos de ley asociados a esta promesa",
                     "jn_porque": "No se conocen proyectos de ley asociados a esta promesa"
                 }
             ]
@@ -3152,7 +3152,7 @@
                     "avance_total": "100%",
                     "coherencia": "4",
                     "justificacion_nota": "",
-                    "ja_porque": "",
+                    "ja_porque": "El proyecto de ley asociado se encuentra en publicado y es Ley de la República.",
                     "jn_porque": "El proyecto de ley es totalmente coherente con la promesa realizada."
                 }
             ]
