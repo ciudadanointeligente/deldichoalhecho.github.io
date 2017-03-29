@@ -1,5 +1,6 @@
 ---
 layout: page
+title: 'Del Dicho al Hecho · 2017 · Estudio'
 ---
 <section id="fulfillment">
   <div class="container">
@@ -127,7 +128,7 @@ layout: page
                       <p>[[data.promesa]]</p><br>
                       <p ng-if="data.proyecto_ley.length > 0">
                         <span>Proyectos asociados</span>
-                        <a ng-repeat="pl in data.proyecto_ley" class="btn btn-default btn-xs" data-toggle="modal" data-target="#myModal-proyecto-[[p.id]]-[[data.id]]-[[pl.boletin]]">Proyecto [[pl.boletin]]</a>
+                        <a ng-repeat="pl in data.proyecto_ley" class="btn btn-default btn-xs" data-toggle="modal" data-target="#myModal-proyecto-[[p.id]]-[[data.id]]-[[pl.boletin]]" onclick="ga('send','event','[[pl.boletin]]','click')">Proyecto [[pl.boletin]]</a>
                       </p>
                       <p ng-if="data.total_urgencias > 0"><span>Total de urgencias <i class="fa fa-info-circle" aria-hidden="true" data-toggle="tooltip" data-placement="top" title="El número total de urgencias indica la suma de las distintas urgencias -simple, suma, discusión inmediata- que tiene un proyecto de ley asociado a una promesa" tooltip></i></span> <span class="badge">[[data.total_urgencias]]</span></p>
                     </div>
