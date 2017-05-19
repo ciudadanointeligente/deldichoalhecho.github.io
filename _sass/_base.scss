@@ -384,6 +384,15 @@ a.btn.btn-default.btn-sm.dark{
   border-bottom: none;
 }
 
+.mayo{
+  background-color: $dark;
+  border: 20px solid white;
+  padding-bottom: 30px;
+  h2{
+    color: white;
+  }
+}
+
 /*FOOTER*/
 footer{
   background-color: $dark;
